@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995167" generatedAt="2016-02-27T19:47:16 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="31">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+<Tournament BetradarTournamentId="33" UniqueTournamentId="23">
+<Name language="it">Serie A</Name>
+<Name language="en">Serie A</Name>
+<Match BetradarMatchId="10265750" Id="7689178">
+<MatchDate>2016-02-27T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="9246" UniqueTeamId="2692">
+<Color hStripes="-1" main="0" number="16777215" sleeve="13369344" split="-1" squares="-1" vStripes="13369344"/>
+<GoalkeeperColor hStripes="-1" main="6723993" number="16777215" sleeve="6723993" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Milan</Name>
+<Name language="en">AC Milan</Name>
+</Team1>
+<Team2 BetradarTeamId="32867" UniqueTeamId="2696">
+<Color hStripes="-1" main="6684672" number="16777215" sleeve="6684672" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Torino</Name>
+<Name language="en">Turin FC</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="52288" name="Celi, Domenico">
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="279" name="Milan">
+<Name language="it">Milano</Name>
+<Name language="en">Milan</Name>
+</City>
+<Stadium id="647" name="Giuseppe Meazza">
+<Name language="it">Giuseppe Meazza</Name>
+<Name language="en">Giuseppe Meazza</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

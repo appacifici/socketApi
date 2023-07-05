@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="931488" generatedAt="2016-02-17T22:56:02 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325621" Id="8736288">
+<MatchDate>2016-02-17T23:15:00 CET</MatchDate>
+<Team1 BetradarTeamId="5570" UniqueTeamId="3209" formation="4-4-2">
+<Color hStripes="-1" main="10027008" number="16777215" sleeve="10027008" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16751103" number="16777215" sleeve="16751103" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Independiente</Name>
+<Name language="en">CA Independiente</Name>
+</Team1>
+<Team2 BetradarTeamId="5424" UniqueTeamId="3217" formation="4-4-2">
+<Color hStripes="-1" main="16763904" number="16777215" sleeve="153" split="-1" squares="-1" vStripes="3342489"/>
+<GoalkeeperColor hStripes="-1" main="39168" number="16777215" sleeve="39168" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Rosario Central</Name>
+<Name language="en">CA Rosario Central</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Lineups>
+<TeamPlayer id="201040483" pos="6">
+<Player id="340455">Aquino, Claudio Ezequiel</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040485" pos="11">
+<Player id="155715">Benitez, Martin</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040487" pos="3">
+<Player id="587148">Cuesta, Victor</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040491" pos="10">
+<Player id="37269">Denis, German</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040489" pos="8">
+<Player id="16217">Mendez, Jesus</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040493" pos="7">
+<Player id="33650">Ortiz, Jorge</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040495" pos="4">
+<Player id="41551">Pellerano, Hernan</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040497" pos="9">
+<Player id="257587">Rigoni, Emiliano</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040499" pos="1">
+<Player id="38266">Rodriguez, Diego</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040501" pos="2">
+<Player id="158243">Tagliafico, Nicolas</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040503" pos="5">
+<Player id="115176">Toledo, Gustavo</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040505">
+<Player id="147576">Aguilera, Emanuel</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040507">
+<Player id="243045">Campana, Martin</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040509">
+<Player id="246305">Gomez, Rodrigo</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040511">
+<Player id="273199">Martinez Trejo, Juan</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040513">
+<Player id="122915">Rodriguez, Diego Martin</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040515">
+<Player id="34214">Vera, Diego</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201040517">
+<Player id="340789">Vidal, Ezequiel</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048983" pos="9">
+<Player id="384262">Aguirre, Jonas</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048975" pos="5">
+<Player id="33753">Alvarez, Pablo</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048987" pos="11">
+<Player id="557008">Cervi, Franco Emanuel</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048981" pos="8">
+<Player id="43713">Colman, Gustavo</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048971" pos="3">
+<Player id="249425">Donatti, Alejandro</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048967" pos="1">
+<Player id="341069">Garcia, Manuel</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048985" pos="10">
+<Player id="51007">Larrondo, Marcelo</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048977" pos="6">
+<Player id="341077">Montoya, Walter</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048979" pos="7">
+<Player id="131394">Musto, Damian</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048973" pos="4">
+<Player id="8891">Pinola, Javier</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048969" pos="2">
+<Player id="384150">Salazar, Victor</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048995" pos="0">
+<Player id="144191">Fernandez, Jose Luis</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048991" pos="0">
+<Player id="22987">Ferrari, Paulo Andres</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048993" pos="0">
+<Player id="249925">Gil Romero, Gaston</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201049001" pos="0">
+<Player id="20800">Herrera, German</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048997" pos="0">
+<Player id="858082">Lo Celso, Giovani</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048999" pos="0">
+<Player id="32934">Ruben, Marco</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201048989" pos="0">
+<Player id="129165">Sosa, Sebastian</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="201040483" eventtype="80" id="334581257" time="0" type="19">
+<Text language="it">Mauricio Andres Pellegrino e Eduardo German Coudet hanno appena reso note le formazioni di partenza.</Text>
+<Text language="en">The team line-ups for today's match at Libertadores de America are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="346012" name="Balino, Jorge">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="45" name="Buenos Aires">
+<Name language="it">Buenos Aires</Name>
+<Name language="en">Buenos Aires</Name>
+</City>
+<Stadium id="1099" name="Libertadores de America">
+<Name language="it">Libertadores de America</Name>
+<Name language="en">Libertadores de America</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

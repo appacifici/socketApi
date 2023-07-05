@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="994763" generatedAt="2016-02-27T19:30:34 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="47">
+<Name language="it">Polonia</Name>
+<Name language="en">Poland</Name>
+<Tournament BetradarTournamentId="64" UniqueTournamentId="202">
+<Name language="it">Ekstraklasa</Name>
+<Name language="en">Ekstraklasa</Name>
+<Match BetradarMatchId="10264631" Id="7470584">
+<MatchDate>2016-02-27T18:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="1296763" UniqueTeamId="7913" formation="3-5-2">
+<Color hStripes="-1" main="26163" number="16777215" sleeve="26163" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lechia Gdansk</Name>
+<Name language="en">KS Lechia Gdansk</Name>
+</Team1>
+<Team2 BetradarTeamId="1277185" UniqueTeamId="7918" formation="4-2-3-1">
+<Color hStripes="-1" main="3342591" number="16777215" sleeve="3342591" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">GKS Piast Gliwice</Name>
+<Name language="en">GKS Piast Gliwice</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:18:32 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:04:49 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>2</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>2</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203214379">
+<Time>31</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="71169">Kuswik, Grzegorz</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203218275">
+<Time>38</Time>
+<Team1>2</Team1>
+<Team2>0</Team2>
+<Player id="120944">Mak, Michal</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203231529">
+<Time>59</Time>
+<Team1>2</Team1>
+<Team2>1</Team2>
+<Player id="120942">Mak, Mateusz</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203228095" type="YellowRed">
+<Time>48</Time>
+<Player id="13311">Krasic, Milos</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203206465" type="Yellow">
+<Time>13</Time>
+<Player id="13311">Krasic, Milos</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203219197" type="Yellow">
+<Time>41</Time>
+<Player id="120944">Mak, Michal</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203232289" type="Yellow">
+<Time>62</Time>
+<Player id="34248">Vacek, Kamil</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203234853" type="Yellow">
+<Time>71</Time>
+<Player id="255597">Hebert</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203234931" type="Yellow">
+<Time>71</Time>
+<Player id="256477">Stolarski, Pawel</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203227445">
+<Time>46</Time>
+<PlayerOut id="41642">Korun, Uros</PlayerOut>
+<PlayerIn id="25490">Ipsa, Kristian</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203228779">
+<Time>50</Time>
+<PlayerOut id="81478">Paixao, Marco</PlayerOut>
+<PlayerIn id="49786">Kovacevic, Aleksandar</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203230961">
+<Time>57</Time>
+<PlayerOut id="71169">Kuswik, Grzegorz</PlayerOut>
+<PlayerIn id="256477">Stolarski, Pawel</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203232007">
+<Time>61</Time>
+<PlayerOut id="120942">Mak, Mateusz</PlayerOut>
+<PlayerIn id="68794">Nespor, Martin</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203232113">
+<Time>61</Time>
+<PlayerOut id="39555">Mraz, Patrik</PlayerOut>
+<PlayerIn id="168775">Badia, Gerard</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203187223" pos="1">
+<Player id="71149">Budzilek, Lukasz</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187225" pos="2">
+<Player id="133544">Janicki, Rafal</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187227" pos="7">
+<Player id="13311">Krasic, Milos</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187229" pos="10">
+<Player id="71169">Kuswik, Grzegorz</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187235" pos="8">
+<Player id="138209">Lukasik, Daniel</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187237" pos="9">
+<Player id="120944">Mak, Michal</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187239" pos="3">
+<Player id="51133">Maloca, Mario</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187231" pos="5">
+<Player id="78646">Paixao, Flavio</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187233" pos="11">
+<Player id="81478">Paixao, Marco</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187241" pos="4">
+<Player id="29352">Wawrzyniak, Jakub</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187243" pos="6">
+<Player id="41318">Wojtkowiak, Grzegorz</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187603">
+<Player id="318747">Buksa, Adam</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187605">
+<Player id="67600">Chrapek, Michal</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187607">
+<Player id="325121">Haraslin, Lukas</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187609">
+<Player id="138613">Kobylanski, Martin</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187611">
+<Player id="49786">Kovacevic, Aleksandar</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187613">
+<Player id="283827">Maric, Marko</Player>
+<ShirtNumber>50</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203187615">
+<Player id="256477">Stolarski, Pawel</Player>
+<ShirtNumber>41</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188141" pos="9">
+<Player id="94171">Bukata, Martin</Player>
+<ShirtNumber>82</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188155" pos="3">
+<Player id="255597">Hebert</Player>
+<ShirtNumber>91</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188143" pos="11">
+<Player id="123415">Jankowski, Maciej</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188145" pos="4">
+<Player id="41642">Korun, Uros</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188147" pos="10">
+<Player id="120942">Mak, Mateusz</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188149" pos="5">
+<Player id="39555">Mraz, Patrik</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188151" pos="7">
+<Player id="227440">Murawski, Radoslaw</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188153" pos="2">
+<Player id="82061">Pietrowski, Marcin</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188157" pos="1">
+<Player id="45340">Szmatula, Jakub</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188159" pos="6">
+<Player id="34248">Vacek, Kamil</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188161" pos="8">
+<Player id="78888">Zivec, Sasa Aleksander</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188163">
+<Player id="168775">Badia, Gerard</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188165">
+<Player id="51226">Barisic, Josip</Player>
+<ShirtNumber>90</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188167">
+<Player id="25490">Ipsa, Kristian</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188169">
+<Player id="345986">Mokwa, Tomasz</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188171">
+<Player id="170279">Moskwik, Pawel</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188173">
+<Player id="68794">Nespor, Martin</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203188175">
+<Player id="245597">Rusov, Dobrivoj</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203234931" eventtype="40" id="339347741" time="71" type="45">
+<Text language="it">Giallo per Pawel Stolarski (Lechia Gdansk) allo stadio PGE Arena Danzica di Danzica.</Text>
+<Text language="en">Pawel Stolarski (KS Lechia Gdansk) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234853" eventtype="40" id="339347243" time="71" type="45">
+<Text language="it">Hebert (GKS Piast Gliwice) ha ricevuto un cartellino giallo dall'arbitro Bartosz Frankowski.</Text>
+<Text language="en">GKS Piast Gliwice's Hebert has been booked in Gdansk.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234303" eventtype="168" id="339345829" time="69" type="99">
+<Text language="it">Flavio Paixao (Lechia Gdansk ) è ritornato in campo allo stadio PGE Arena Danzica di Danzica.</Text>
+<Text language="en">Flavio Paixao is back on his feet again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234267" eventtype="16" id="339345581" time="69" type="79">
+<Text language="it">La gara è ripresa.</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234101" eventtype="158" id="339344667" time="68" type="97">
+<Text language="it">La gara dello stadio PGE Arena Danzica di Danzica è stata temporaneamente interrotta per l'infortunio di Flavio Paixao (Lechia Gdansk).</Text>
+<Text language="en">Bartosz Frankowski waits before resuming play because Flavio Paixao for KS Lechia Gdansk is still down.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232289" eventtype="40" id="339335315" time="62" type="45">
+<Text language="it">Kamil Vacek (GKS Piast Gliwice) è finito sul taccuino dell'arbitro Bartosz Frankowski per un cartellino giallo.</Text>
+<Text language="en">Kamil Vacek (GKS Piast Gliwice) has received a yellow card from Bartosz Frankowski.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232113" eventtype="60" id="339334649" time="61" type="44">
+<Text language="it">Terzo cambio GKS Piast Gliwice: Patrik Mraz lascia il posto a Gerard Badia.</Text>
+<Text language="en">Gerard Badia is replacing Patrik Mraz for GKS Piast Gliwice at PGE Arena Gdansk.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232007" eventtype="60" id="339334065" time="61" type="44">
+<Text language="it">Radoslav Latal realizza il suo secondo cambio allo stadio PGE Arena Danzica con Martin Nespor che rimpiazza Mateusz Mak.</Text>
+<Text language="en">Radoslav Latal (GKS Piast Gliwice) is making a second substitution, with Martin Nespor replacing Mateusz Mak.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231529" eventtype="30" id="339332239" time="59" type="24">
+<Text language="it">GKS Piast Gliwice in gol con Mateusz Mak! Ora il match si fa interessante, il risultato è ora infatti di 1 - 2.</Text>
+<Text language="en">Mateusz Mak puts the ball in the net and reduces the deficit to 1 - 2.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230961" eventtype="60" id="339329003" time="57" type="44">
+<Text language="it">Sostituzione Lechia Gdansk: esce Grzegorz Kuswik ed entra Pawel Stolarski.</Text>
+<Text language="en">The home team have replaced Grzegorz Kuswik with Pawel Stolarski. This is the second substitution made today by Piotr Nowak.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230267" eventtype="154" id="339325425" time="55" type="85">
+<Text language="it">L'arbitro Bartosz Frankowski ha concesso un calcio d'angolo dalla sinistra allo stadio PGE Arena Danzica di Danzica. Daniel Lukasik (Lechia Gdansk) si appresta a batterlo.</Text>
+<Text language="en">KS Lechia Gdansk have been awarded a corner by Bartosz Frankowski.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229431" eventtype="154" id="339321791" time="53" type="85">
+<Text language="it">A Danzica Daniel Lukasik (Lechia Gdansk) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to KS Lechia Gdansk.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229267" eventtype="172" id="339321211" time="52" type="116">
+<Text language="it">Flavio Paixao (Lechia Gdansk) allo stadio PGE Arena Danzica prova un tiro che però viene respinto da uno dei difensori appostati nell'area di rigore.</Text>
+<Text language="en">Flavio Paixao (KS Lechia Gdansk) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228779" eventtype="60" id="339318393" time="50" type="44">
+<Text language="it">Cambio Lechia Gdansk: Aleksandar Kovacevic è il sostituto di Marco Paixao.</Text>
+<Text language="en">Aleksandar Kovacevic is replacing Marco Paixao for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228415" eventtype="156" id="339316151" time="49" type="91">
+<Text language="it">GKS Piast Gliwice con Hebert cerca la rete allo stadio PGE Arena Danzica con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">GKS Piast Gliwice are pushing forward but Hebert's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228095" eventtype="45" id="339314911" time="48" type="46">
+<Text language="it">Espulso Milos Krasic (Lechia Gdansk)! Il giocatore è stato ancora una volta ammonito e ora dovrà lasciare il campo!</Text>
+<Text language="en">KS Lechia Gdansk's Milos Krasic has been shown a second yellow card and sent off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227623" eventtype="156" id="339312677" time="47" type="128">
+<Text language="it">Occasione GKS Piast Gliwice con un colpo di testa di Mateusz Mak allo stadio PGE Arena Danzica di Danzica, ma la sua conclusione non trova lo specchio della porta!</Text>
+<Text language="en">Mateusz Mak (GKS Piast Gliwice) wins the ball in the air but heads wide.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227445" eventtype="60" id="339311433" time="46" type="44">
+<Text language="it">Cambio GKS Piast Gliwice! Il tecnico Radoslav Latal fa il suo primo cambio sostituendo Uros Korun con Kristian Ipsa.</Text>
+<Text language="en">Radoslav Latal is making the team's first substitution at PGE Arena Gdansk with Kristian Ipsa replacing Uros Korun.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227113" eventtype="23" id="339309777" time="46" type="21">
+<Text language="it">Partiti! Ha preso il via il secondo tempo a Danzica.</Text>
+<Text language="en">The whistle has gone to start the second-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221261" eventtype="35" id="339286519" time="45" type="22">
+<Text language="it">Il primo tempo è terminato.</Text>
+<Text language="en">The first-half has ended.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220283" eventtype="168" id="339280135" time="44" type="99">
+<Text language="it">Daniel Lukasik (Lechia Gdansk) è tornato in campo.</Text>
+<Text language="en">KS Lechia Gdansk’s Daniel Lukasik is on his feet again at PGE Arena Gdansk.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220023" eventtype="156" id="339278479" time="43" type="91">
+<Text language="it">Occasione Lechia Gdansk con Michal Mak! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">KS Lechia Gdansk's Michal Mak breaks free at PGE Arena Gdansk. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219861" eventtype="16" id="339277319" time="43" type="79">
+<Text language="it">Il match dello stadio PGE Arena Danzica di Danzica è ripreso!</Text>
+<Text language="en">The match at PGE Arena Gdansk is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219491" eventtype="158" id="339274259" time="41" type="97">
+<Text language="it">Daniel Lukasik si è infortunato ed il gioco è stato al momento interrotto.</Text>
+<Text language="en">The match has been stopped briefly for attention to the injured Daniel Lukasik.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219197" eventtype="40" id="339272277" time="41" type="45">
+<Text language="it">L'arbitro Bartosz Frankowski mostra il cartellino giallo a Michal Mak (Lechia Gdansk).</Text>
+<Text language="en">Michal Mak (KS Lechia Gdansk) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219121" eventtype="172" id="339271455" time="40" type="116">
+<Text language="it">Occasione Lechia Gdanskallo stadioPGE Arena DanzicadiDanzica! Il tiro di Flavio Paixao viene però intercettato da un difensore avversario.</Text>
+<Text language="en">KS Lechia Gdansk drive upfield and Flavio Paixao gets in a shot. The strike is blocked by a GKS Piast Gliwice defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218275" eventtype="30" id="339267061" time="38" type="35">
+<Text language="it">Gol Lechia Gdansk! La squadra aumenta il suo vantaggio a Danzica, ora conduce per 2 - 0 grazie a Michal Mak.</Text>
+<Text language="en">It's now 2 - 0 in Gdansk as Michal Mak scores for KS Lechia Gdansk.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203217989" eventtype="154" id="339263917" time="37" type="85">
+<Text language="it">Angolo GKS Piast Gliwice secondo l'arbitro Bartosz Frankowski. Patrik Mraz lo batterà dalla bandierina destra.</Text>
+<Text language="en">GKS Piast Gliwice have been awarded a corner by Bartosz Frankowski.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203217477" eventtype="172" id="339262593" time="37" type="116">
+<Text language="it">Martin Bukata va alla conclusione allo stadio PGE Arena DanzicadiDanzica, ma il suo tiro viene bloccato da un difensore avversario!</Text>
+<Text language="en">GKS Piast Gliwice's Martin Bukata gets in a shot but it is blocked by a KS Lechia Gdansk defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214379" eventtype="30" id="339249251" time="31" type="36">
+<Text language="it">Gol! Lechia Gdansk in vantaggio grazie a Grzegorz Kuswik. Il risultato è ora di: 1 - 0.</Text>
+<Text language="en">Grzegorz Kuswik puts the ball in the net and the home team now lead 1 - 0.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213275" eventtype="156" id="339240713" time="29" type="91">
+<Text language="it">Allo stadio PGE Arena Danzica di Danzica occasione Lechia Gdansk! Ci prova Flavio Paixao, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">KS Lechia Gdansk are coming forward and Flavio Paixao gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211933" eventtype="154" id="339235431" time="26" type="85">
+<Text language="it">Corner Lechia Gdansk allo stadio PGE Arena Danzica di Danzica. Daniel Lukasik batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to KS Lechia Gdansk.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211229" eventtype="153" id="339231875" time="24" type="112">
+<Text language="it">Fuorigioco Lechia Gdansk nella sfida che si gioca allo stadio PGE Arena Danzica di Danzica!</Text>
+<Text language="en">KS Lechia Gdansk are caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210889" eventtype="156" id="339229889" time="23" type="91">
+<Text language="it">Allo stadio PGE Arena Danzica, Lechia Gdansk attacca con Michal Mak. La conclusione, però, non inquadra lo specchio della porta.</Text>
+<Text language="en">Michal Mak of KS Lechia Gdansk gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207421" eventtype="155" id="339216403" time="15" type="89">
+<Text language="it">Conclusione di Marco Paixao (Lechia Gdansk) allo stadio PGE Arena Danzica di Danzica, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">Marco Paixao for KS Lechia Gdansk drives towards goal at PGE Arena Gdansk. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207131" eventtype="156" id="339215159" time="14" type="91">
+<Text language="it">Grzegorz Wojtkowiak (Lechia Gdansk) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">In Gdansk KS Lechia Gdansk attack through Grzegorz Wojtkowiak. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203206465" eventtype="40" id="339212585" time="13" type="45">
+<Text language="it">Milos Krasic (Lechia Gdansk) è stato ammonito e dovrà fare attenzione a non prendere il secondo giallo.</Text>
+<Text language="en">Milos Krasic (KS Lechia Gdansk) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203205895" eventtype="153" id="339211425" time="12" type="112">
+<Text language="it">Fuorigioco GKS Piast Gliwice! La squadra è caduta nella trappola degli avversari.</Text>
+<Text language="en">GKS Piast Gliwice are whistled for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203205475" eventtype="153" id="339209685" time="11" type="112">
+<Text language="it">Fuorigioco per la squadra che gioca ospite!</Text>
+<Text language="en">GKS Piast Gliwice advance rapidly upfield but Bartosz Frankowski blows for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203204869" eventtype="156" id="339207949" time="11" type="91">
+<Text language="it">Lechia Gdansk si spinge in avanti ma Flavio Paixao con il suo tiro non indovina la porta.</Text>
+<Text language="en">KS Lechia Gdansk's Flavio Paixao misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203199335" eventtype="154" id="339195801" time="3" type="85">
+<Text language="it">Allo stadio PGE Arena Danzica, Daniel Lukasik (Lechia Gdansk) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">KS Lechia Gdansk have been awarded a corner by Bartosz Frankowski.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203198955" eventtype="172" id="339195307" time="2" type="116">
+<Text language="it">Lechia Gdansk all'attacco allo stadio PGE Arena Danzica con Flavio Paixao. Il suo tiro viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">In Gdansk, Flavio Paixao of KS Lechia Gdansk is presented with a shooting opportunity. But the strike is blocked by the covering defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203197469" eventtype="10" id="339191837" time="1" type="37">
+<Text language="it">Partiti! L'arbitro Bartosz Frankowski ha dato il fischio d'inizio al match che si disputa oggi allo stadio PGE Arena Danzica di Danzica.</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203187223" eventtype="80" id="339161305" time="0" type="19">
+<Text language="it">Le formazioni ufficiali per la partita di oggi a Danzica sono ora disponibili.</Text>
+<Text language="en">Piotr Nowak and Radoslav Latal have now revealed their starting line-ups.</Text>
+</Phrase>
+</Phrases>
+<Referee id="122991" name="Frankowski, Bartosz">
+<Country id="171" name="Poland">
+<Name language="it">Polonia</Name>
+<Name language="en">Poland</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="171" name="Poland">
+<Name language="it">Polonia</Name>
+<Name language="en">Poland</Name>
+</Country>
+<City id="1268" name="Gdansk">
+<Name language="it">Danzica</Name>
+<Name language="en">Gdansk</Name>
+</City>
+<Stadium id="2451" name="PGE Arena Gdansk">
+<Name language="it">PGE Arena Danzica</Name>
+<Name language="en">PGE Arena Gdansk</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>48</Team1>
+<Team2>52</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>3</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>5</Team1>
+<Team2>2</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>16</Team1>
+<Team2>12</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>4</Team1>
+<Team2>1</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>2</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>21</Team1>
+<Team2>18</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>2</Team1>
+<Team2>11</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>11</Team1>
+<Team2>14</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

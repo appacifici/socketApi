@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="2235148" generatedAt="2016-03-07T17:00:41 CET" generatedFor="1840" type="delta">
+  <Sport BetradarSportId="1">
+    <Name language="it">Calcio</Name>
+    <Name language="en">Soccer</Name>
+    <Category BetradarCategoryId="77">
+      <Name language="it">Romania</Name>
+      <Name language="en">Romania</Name>
+      <Tournament BetradarTournamentId="50731" UniqueTournamentId="152">
+        <Name language="it">Liga 1, Relegation round</Name>
+        <Name language="en">Liga 1, Relegation round</Name>
+        <Match BetradarMatchId="10520644" Id="9015633">
+          <MatchDate>2016-10-19T14:45:00 CET</MatchDate>
+          <Team1 BetradarTeamId="5706056" UniqueTeamId="24790" formation="5-3-2">
+            <Name language="it">CS Concordia Chiajna</Name>
+            <Name language="en">CS Concordia Chiajna</Name>
+          </Team1>
+          <Team2 BetradarTeamId="6590022" UniqueTeamId="79541" formation="4-4-2">
+            <Name language="it">Poli Timisoara</Name>
+            <Name language="en">ACS Poli Timisoara</Name>
+          </Team2>
+          <Status Code="6">
+            <Name language="it">1° tempo</Name>
+            <Name language="en">1st half</Name>
+          </Status>
+          <Winner>0</Winner>
+          <CurrentPeriodStart>2016-06-17T14:05:00</CurrentPeriodStart>
+          <Scores>
+            <Score type="Current">
+              <Team1>0</Team1>
+              <Team2>1</Team2>
+            </Score>
+          </Scores>
+          <Lineups>
+            <TeamPlayer id="205364205" pos="1">
+              <Player id="98575">Balgradean, Cristian</Player>
+              <ShirtNumber>34</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364207" pos="6">
+              <Player id="69193">Bucurica, Bogdan</Player>
+              <ShirtNumber>21</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364209" pos="8">
+              <Player id="44439">Cristescu, Marian</Player>
+              <ShirtNumber>18</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364211" pos="2">
+              <Player id="44017">Feussi, Patrice</Player>
+              <ShirtNumber>26</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364213" pos="10">
+              <Player id="107417">Garcia, Cristian</Player>
+              <ShirtNumber>80</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364215" pos="11">
+              <Player id="15464">Milevskyi, Artem</Player>
+              <ShirtNumber>9</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364217" pos="3">
+              <Player id="37537">Niasse, Ibrahima</Player>
+              <ShirtNumber>5</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364219" pos="7">
+              <Player id="2029">Obodo, Christian</Player>
+              <ShirtNumber>99</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364221" pos="5">
+              <Player id="108787">Odibe, Michael</Player>
+              <ShirtNumber>6</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364223" pos="9">
+              <Player id="87940">Purece, Florin</Player>
+              <ShirtNumber>10</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205364225" pos="4">
+              <Player id="66118">Tincu, Razvan</Player>
+              <ShirtNumber>4</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365547">
+              <Player id="44548">Barboianu, Stefan</Player>
+              <ShirtNumber>2</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365549">
+              <Player id="13596">Cristea, Adrian</Player>
+              <ShirtNumber>33</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365551">
+              <Player id="50702">Giurgiu, Gabriel</Player>
+              <ShirtNumber>29</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365553">
+              <Player id="13584">Matache, Florin</Player>
+              <ShirtNumber>1</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365555">
+              <Player id="857474">Raducanu, Robert</Player>
+              <ShirtNumber>96</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365557">
+              <Player id="302564">Rosu, Nelut</Player>
+              <ShirtNumber>93</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205365559">
+              <Player id="99426">Serediuc, Tiberiu Andrei</Player>
+              <ShirtNumber>7</ShirtNumber>
+              <PlayerTeam>1</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360977" pos="11">
+              <Player id="316441">Barbut, Cristian</Player>
+              <ShirtNumber>77</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360979" pos="2">
+              <Player id="231408">Belu, Claudiu</Player>
+              <ShirtNumber>7</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360981" pos="10">
+              <Player id="147960">Hernandez, Javi</Player>
+              <ShirtNumber>11</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360983" pos="8">
+              <Player id="146865">Llorente</Player>
+              <ShirtNumber>25</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360997" pos="4">
+              <Player id="46419">Manu</Player>
+              <ShirtNumber>4</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360985" pos="7">
+              <Player id="84532">Melinte, Cristian</Player>
+              <ShirtNumber>26</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360987" pos="9">
+              <Player id="340003">Pisas, Everon</Player>
+              <ShirtNumber>17</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360991" pos="5">
+              <Player id="91018">Popescu, Dan</Player>
+              <ShirtNumber>24</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360989" pos="6">
+              <Player id="359476">Popescu, Ovidiu</Player>
+              <ShirtNumber>94</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360993" pos="3">
+              <Player id="52037">Scutaru, Cristian</Player>
+              <ShirtNumber>13</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360995" pos="1">
+              <Player id="95419">Strauss, Ram</Player>
+              <ShirtNumber>28</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>0</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205360999">
+              <Player id="331605">Bocsan, Cristian</Player>
+              <ShirtNumber>15</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205361001">
+              <Player id="42267">Goga, Dorin</Player>
+              <ShirtNumber>10</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205361003">
+              <Player id="31627">Gomis, Lys</Player>
+              <ShirtNumber>22</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205361005">
+              <Player id="42342">Jenkins, Ross</Player>
+              <ShirtNumber>18</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205361007">
+              <Player id="917822">Mailat, Sebastian</Player>
+              <ShirtNumber>12</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205361009">
+              <Player id="844935">Sorescu, Deian Cristian</Player>
+              <ShirtNumber>42</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+            <TeamPlayer id="205361011">
+              <Player id="153973">Suarez, Abel</Player>
+              <ShirtNumber>6</ShirtNumber>
+              <PlayerTeam>2</PlayerTeam>
+              <Substitute>1</Substitute>
+            </TeamPlayer>
+          </Lineups>
+          <Referee id="81724" name="Rusandu, Lucian">
+            <Country id="176" name="Romania">
+              <Name language="it">Romania</Name>
+              <Name language="en">Romania</Name>
+            </Country>
+          </Referee>
+          <Venue>
+            <Country id="176" name="Romania">
+              <Name language="it">Romania</Name>
+              <Name language="en">Romania</Name>
+            </Country>
+            <City id="1383" name="Chiajna">
+              <Name language="it">Chiajna</Name>
+              <Name language="en">Chiajna</Name>
+            </City>
+            <Stadium id="2431" name="Stadionul Concordia Chiajna">
+              <Name language="it">Stadionul Concordia Chiajna</Name>
+              <Name language="en">Stadionul Concordia Chiajna</Name>
+            </Stadium>
+          </Venue>
+           <Statistics>
+            <ShotsOnGoal>
+              <Team1>1</Team1>
+              <Team2>4</Team2>
+            </ShotsOnGoal>
+            <ShotsOffGoal>
+              <Team1>2</Team1>
+              <Team2>1</Team2>
+            </ShotsOffGoal>
+            <FreeKicks>
+              <Team1>8</Team1>
+              <Team2>5</Team2>
+            </FreeKicks>
+            <CornerKicks>
+              <Team1>2</Team1>
+              <Team2>1</Team2>
+            </CornerKicks>
+            <Offsides>
+              <Team1>1</Team1>
+              <Team2>0</Team2>
+            </Offsides>
+            <ThrowIns>
+              <Team1>12</Team1>
+              <Team2>8</Team2>
+            </ThrowIns>
+            <GoalkeeperSaves>
+              <Team1>4</Team1>
+              <Team2>1</Team2>
+            </GoalkeeperSaves>
+            <GoalKicks>
+              <Team1>2</Team1>
+              <Team2>3</Team2>
+            </GoalKicks>
+            <Fouls>
+              <Team1>4</Team1>
+              <Team2>8</Team2>
+            </Fouls>
+          </Statistics>
+
+        </Match>
+      </Tournament>
+    </Category>
+  </Sport>
+</BetradarLivescoreData>

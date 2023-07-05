@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="996682" generatedAt="2016-02-27T21:04:57 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325642" Id="8736332">
+<MatchDate>2016-02-27T21:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="6537" UniqueTeamId="3206" formation="4-2-3-1">
+<Color hStripes="-1" main="16711680" number="0" sleeve="16711680" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Estudiantes</Name>
+<Name language="en">Estudiantes de La Plata</Name>
+</Team1>
+<Team2 BetradarTeamId="5562" UniqueTeamId="3216" formation="4-2-3-1">
+<Color hStripes="-1" main="13369344" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6710886" number="16777215" sleeve="6710886" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Argentinos Juniors</Name>
+<Name language="en">Argentinos Jrs</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T21:02:28 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Phrases>
+<Phrase disabled="0" eventid="203264799" eventtype="154" id="339509459" time="3" type="85">
+<Text language="it">Allo stadio Estadio Ciudad de La Plata, Gaston Fernandez (Estudiantes) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Estudiantes de La Plata have been awarded a corner by German Delfino.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264609" eventtype="154" id="339508715" time="2" type="85">
+<Text language="it">Corner Estudiantes allo stadio Estadio Ciudad de La Plata di La Plata. Gaston Fernandez batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Estudiantes de La Plata.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264291" eventtype="153" id="339506401" time="1" type="93">
+<Text language="it">Facundo Quintana (Estudiantes) è stato colto in fuorigioco.</Text>
+<Text language="en">In La Plata Estudiantes de La Plata's Facundo Quintana is caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264129" eventtype="10" id="339504989" time="1" type="37">
+<Text language="it">La partita è iniziata.</Text>
+<Text language="en">The first-half is just kicking off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250947" eventtype="80" id="339486775" time="0" type="19">
+<Text language="it">Nelson Vivas e Carlos Mayor hanno appena reso note le formazioni di partenza.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Referee id="249775" name="Delfino, German">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="429" name="La Plata">
+<Name language="it">La Plata</Name>
+<Name language="en">La Plata</Name>
+</City>
+<Stadium id="15400" name="Estadio Ciudad de La Plata">
+<Name language="it">Estadio Ciudad de La Plata</Name>
+<Name language="en">Estadio Ciudad de La Plata</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<ShotsOnGoal>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</ShotsOnGoal>
+<FreeKicks>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>2</Team1>
+<Team2>0</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Offsides>
+<Fouls>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

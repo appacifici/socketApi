@@ -1,0 +1,1536 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="994953" generatedAt="2016-02-27T19:38:55 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="1">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+<Tournament BetradarTournamentId="1" UniqueTournamentId="17">
+<Name language="it">Premier League</Name>
+<Name language="en">Premier League</Name>
+<Match BetradarMatchId="10264697" Id="7464986">
+<MatchDate>2016-02-27T18:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="94356" UniqueTeamId="8" formation="4-2-3-1">
+<Color hStripes="-1" main="16777215" number="16711731" sleeve="13369344" split="-1" squares="-1" vStripes="3342489"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="16711884" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">West Bromwich</Name>
+<Name language="en">West Bromwich Albion</Name>
+</Team1>
+<Team2 BetradarTeamId="342002" UniqueTeamId="7" formation="4-3-2-1">
+<Color hStripes="-1" main="13311" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="16711680"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Crystal Palace</Name>
+<Name language="en">Crystal Palace</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:38:55 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:35:50 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>3</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>3</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203219281">
+<Time>12</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="14235">Gardner, Craig</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal from="heading" id="203222011">
+<Time>20</Time>
+<Team1>2</Team1>
+<Team2>0</Team2>
+<Player id="50027">Dawson, Craig</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203225279">
+<Time>31</Time>
+<Team1>3</Team1>
+<Team2>0</Team2>
+<Player id="111962">Berahino, Saido</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203237987">
+<Time>48</Time>
+<Team1>3</Team1>
+<Team2>1</Team2>
+<Player id="50485">Wickham, Connor</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203220893" type="Yellow">
+<Time>17</Time>
+<Player id="50027">Dawson, Craig</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203223517" type="Yellow">
+<Time>25</Time>
+<Player id="3094">Adebayor, Emmanuel</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203229897">
+<Time>43</Time>
+<PlayerOut id="10540">Brunt, Chris</PlayerOut>
+<PlayerIn id="46347">Chester, James</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203236829">
+<Time>46</Time>
+<PlayerOut id="3094">Adebayor, Emmanuel</PlayerOut>
+<PlayerIn id="46620">Bolasie, Yannick</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203189527" pos="9">
+<Player id="111962">Berahino, Saido</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189529" pos="5">
+<Player id="10540">Brunt, Chris</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189531" pos="2">
+<Player id="50027">Dawson, Craig</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189533" pos="6">
+<Player id="765">Fletcher, Darren</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189535" pos="1">
+<Player id="10599">Foster, Ben</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189537" pos="10">
+<Player id="14235">Gardner, Craig</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189539" pos="3">
+<Player id="13357">McAuley, Gareth</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189541" pos="4">
+<Player id="7776">Olsson, Jonas</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189543" pos="11">
+<Player id="35532">Rondon, Salomon</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189545" pos="8">
+<Player id="16657">Sessegnon, Stephane</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189547" pos="7">
+<Player id="151037">Yacob, Claudio</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189571">
+<Player id="14731">Anichebe, Victor</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189573">
+<Player id="46347">Chester, James</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189577">
+<Player id="19659">Lambert, Rickie</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189579">
+<Player id="41631">McClean, James</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189581">
+<Player id="10024">Myhill, Boaz</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189583">
+<Player id="180009">Pritchard, Alex</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189575">
+<Player id="43301">Sandro</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189549" pos="11">
+<Player id="3094">Adebayor, Emmanuel</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189553" pos="6">
+<Player id="3574">Cabaye, Yohan</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189555" pos="3">
+<Player id="20278">Dann, Scott</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189557" pos="4">
+<Player id="10038">Delaney, Damien</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189559" pos="1">
+<Player id="16620">Hennessey, Wayne</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189561" pos="2">
+<Player id="39472">Kelly, Martin</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189563" pos="8">
+<Player id="9921">Ledley, Joe</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189565" pos="10">
+<Player id="38130">Mutch, Jordon</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189567" pos="5">
+<Player id="39183">Ward, Joel</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189569" pos="7">
+<Player id="50485">Wickham, Connor</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189551" pos="9">
+<Player id="111850">Zaha, Wilfried</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189585">
+<Player id="46620">Bolasie, Yannick</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189587">
+<Player id="3233">Chamakh, Marouane</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189589">
+<Player id="232118">Gayle, Dwight</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189591">
+<Player id="24685">Jedinak, Mile</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189593">
+<Player id="38639">Lee, Chung Yong</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189595">
+<Player id="10597">Mariappa, Adrian</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189597">
+<Player id="631">Speroni, Julian</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203237617" eventtype="156" id="339363963" time="48" type="128">
+<Text language="it">Occasione West Bromwich con un colpo di testa di Craig Gardner allo stadio The Hawthorns di West Bromwich, ma la sua conclusione non trova lo specchio della porta!</Text>
+<Text language="en">West Bromwich Albion attack but Craig Gardner's header doesn't find the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236867" eventtype="23" id="339358585" time="46" type="21">
+<Text language="it">L'arbitro Jonathan Moss ha dato il via alla ripresa del match allo stadio The Hawthorns.</Text>
+<Text language="en">The second half has started at The Hawthorns.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236829" eventtype="60" id="339358253" time="46" type="44">
+<Text language="it">Sostituzione allo stadio The Hawthorns! Primo cambio per Alan Pardew (Crystal Palace) che fa entrare sul terreno di gioco Yannick Bolasie al posto di Emmanuel Adebayor.</Text>
+<Text language="en">Yannick Bolasie is replacing Emmanuel Adebayor for Crystal Palace at The Hawthorns.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232115" eventtype="35" id="339334733" time="45" type="22">
+<Text language="it">Si è concluso il primo tempo.</Text>
+<Text language="en">The ref's whistle signals the end of the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232077" eventtype="154" id="339334399" time="45" type="85">
+<Text language="it">A West Bromwich Wilfried Zaha (Crystal Palace) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to Crystal Palace.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231985" eventtype="172" id="339333899" time="45" type="116">
+<Text language="it">Crystal Palace all'attacco con Joe Ledley che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">Crystal Palace drive upfield and Joe Ledley gets in a shot. The strike is blocked by a West Bromwich Albion defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231951" eventtype="172" id="339333815" time="45" type="116">
+<Text language="it">A West Bromwich, Jordon Mutch (Crystal Palace) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Jordon Mutch (Crystal Palace) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231885" eventtype="172" id="339333069" time="45" type="116">
+<Text language="it">West Bromwich va al tiro con Jordon Mutch, ma un difensore avversario gli toglie la gioia del gol!</Text>
+<Text language="en">Jordon Mutch (Crystal Palace) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231499" eventtype="154" id="339331329" time="45" type="85">
+<Text language="it">Allo stadio The Hawthorns, Craig Gardner (West Bromwich) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">West Bromwich Albion have been awarded a corner by Jonathan Moss.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231261" eventtype="155" id="339330833" time="45" type="120">
+<Text language="it">Allo stadio The Hawthorns palo di Craig Gardner (West Bromwich).</Text>
+<Text language="en">West Bromwich Albion drive into the zone and Craig Gardner is presented with a brilliant opportunity. But his strike hits the upright!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230471" eventtype="90" id="339326175" time="45" type="106">
+<Text language="it">Allo stadio The Hawthorns saranno 5 i minuti di recupero nel primo tempo.</Text>
+<Text language="en">5 minutes will be added to the first half in West Bromwich.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229905" eventtype="16" id="339323861" time="44" type="79">
+<Text language="it">La partita è di nuovo in corso.</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229897" eventtype="60" id="339323777" time="43" type="73">
+<Text language="it">Chris Brunt (West Bromwich) non sembra in grado di continuare. Lo sostituisce James Chester.</Text>
+<Text language="en">James Chester (West Bromwich Albion) has replaced the possibly injured Chris Brunt at The Hawthorns.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229167" eventtype="158" id="339320879" time="41" type="97">
+<Text language="it">Gara temporaneamente sospesa per l'infortunio a Chris Brunt (West Bromwich)!</Text>
+<Text language="en">Chris Brunt is writhing in pain and play has been suspended for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228321" eventtype="156" id="339315739" time="39" type="128">
+<Text language="it">Buona occasione Crystal Palace con Jordon Mutch! Il suo colpo di testa, però, non trova lo specchio della porta.</Text>
+<Text language="en">Crystal Palace surge into the attack at The Hawthorns but Jordon Mutch’s header is off-target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225279" eventtype="30" id="339304063" time="31" type="139">
+<Text language="it">Stephane Sessegnon ha servito l'assist per il gol.</Text>
+<Text language="en">Great play from Stephane Sessegnon to set up the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225279" eventtype="30" id="339303319" time="31" type="35">
+<Text language="it">West Bromwich in goal! La squadra si porta così sul 3 - 0 con Saido Berahino.</Text>
+<Text language="en">Goal! West Bromwich Albion extend their lead to 3 - 0 through Saido Berahino.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224167" eventtype="168" id="339300501" time="28" type="99">
+<Text language="it">Yohan Cabaye (Crystal Palace) ha ricevuto le cure ed ora è tornato in campo allo stadio The Hawthorns.</Text>
+<Text language="en">Yohan Cabaye returns to the field for Crystal Palace after picking up a slight injury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224077" eventtype="16" id="339300247" time="28" type="79">
+<Text language="it">Il match dello stadio The Hawthorns di West Bromwich è ripreso!</Text>
+<Text language="en">The match is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223731" eventtype="158" id="339299403" time="26" type="97">
+<Text language="it">La gara dello stadio The Hawthorns di West Bromwich è stata temporaneamente interrotta per l'infortunio di Yohan Cabaye (Crystal Palace).</Text>
+<Text language="en">The match has been stopped briefly for attention to the injured Yohan Cabaye.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223517" eventtype="40" id="339298323" time="25" type="45">
+<Text language="it">Emmanuel Adebayor (Crystal Palace) ha ricevuto un cartellino giallo dall'arbitro Jonathan Moss.</Text>
+<Text language="en">Emmanuel Adebayor (Crystal Palace) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223463" eventtype="156" id="339298157" time="25" type="91">
+<Text language="it">Allo stadio The Hawthorns di West Bromwich occasione West Bromwich! Ci prova Craig Gardner, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">West Bromwich Albion's Craig Gardner gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222011" eventtype="30" id="339292343" time="20" type="139">
+<Text language="it">L'assist del gol è di Craig Gardner.</Text>
+<Text language="en">Craig Gardner instrumental with a fine assist.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222011" eventtype="30" id="339291341" time="20" type="134">
+<Text language="it">Gol! Craig Dawson (West Bromwich) aumenta il vantaggio per la sua squadra con il colpo di testa che porta la partita sul risultato di 2 - 0.</Text>
+<Text language="en">Goal! West Bromwich Albion increase their lead to 2 - 0 through a well-placed header from Craig Dawson.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221361" eventtype="156" id="339287603" time="18" type="128">
+<Text language="it">Connor Wickham (Crystal Palace) tenta la conclusione di testa ma la palla esce a lato.</Text>
+<Text language="en">In West Bromwich, Connor Wickham (Crystal Palace) misses the target with a header.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221307" eventtype="154" id="339286935" time="18" type="85">
+<Text language="it">L'arbitro Jonathan Moss ha concesso un calcio d'angolo dalla destra allo stadio The Hawthorns di West Bromwich. Yohan Cabaye (Crystal Palace) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Crystal Palace.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220893" eventtype="40" id="339283869" time="17" type="45">
+<Text language="it">Craig Dawson (West Bromwich) è finito sul taccuino dell'arbitro Jonathan Moss per un cartellino giallo.</Text>
+<Text language="en">Craig Dawson (West Bromwich Albion) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220423" eventtype="156" id="339280885" time="15" type="91">
+<Text language="it">Craig Gardner (West Bromwich) prova il tiro allo stadio The Hawthorns. La sua conclusione però termina fuori.</Text>
+<Text language="en">In West Bromwich West Bromwich Albion attack through Craig Gardner. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220229" eventtype="172" id="339279803" time="15" type="116">
+<Text language="it">Craig Gardner (West Bromwich) allo stadio The Hawthorns prova un tiro che però viene respinto da uno dei difensori appostati nell'area di rigore.</Text>
+<Text language="en">West Bromwich Albion push forward at The Hawthorns and Craig Gardner gets in a strike. This is blocked, however, by a determined Crystal Palace defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219281" eventtype="30" id="339274009" time="12" type="36">
+<Text language="it">Rete di Craig Gardner (West Bromwich) a West Bromwich! La squadra che gioca di casa conduce ora 1 - 0.</Text>
+<Text language="en">Goal! The home team take a 1 - 0 lead through Craig Gardner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219261" eventtype="172" id="339272853" time="12" type="116">
+<Text language="it">Salomon Rondon (West Bromwich) ci prova con un tiro che viene però bloccato da un difensore avversario.</Text>
+<Text language="en">Salomon Rondon (West Bromwich Albion) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213467" eventtype="10" id="339242039" time="1" type="37">
+<Text language="it">Il match ha preso il via!</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203189527" eventtype="80" id="339185283" time="0" type="19">
+<Text language="it">Sono ora disponibili le formazioni ufficiali per la partita di oggi allo stadio The Hawthorns.</Text>
+<Text language="en">The team line-ups for today's match at The Hawthorns are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="74250" name="Moss, Jonathan">
+<Country id="240" name="England">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="240" name="England">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+</Country>
+<City id="570" name="West Bromwich">
+<Name language="it">West Bromwich</Name>
+<Name language="en">West Bromwich</Name>
+</City>
+<Stadium id="1136" name="The Hawthorns">
+<Name language="it">The Hawthorns</Name>
+<Name language="en">The Hawthorns</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>46</Team1>
+<Team2>54</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>4</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>11</Team1>
+<Team2>8</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>1</Team1>
+<Team2>2</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>11</Team1>
+<Team2>7</Team2>
+</ThrowIns>
+<GoalKicks>
+<Team1>4</Team1>
+<Team2>6</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>8</Team1>
+<Team2>11</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="35">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+<Tournament BetradarTournamentId="39" UniqueTournamentId="37">
+<Name language="it">Eredivisie</Name>
+<Name language="en">Eredivisie</Name>
+<Match BetradarMatchId="10265457" Id="7475382">
+<MatchDate>2016-02-27T18:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="5303" UniqueTeamId="2955" formation="4-3-3">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6749952" number="16777215" sleeve="6749952" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Twente</Name>
+<Name language="en">FC Twente Enschede</Name>
+</Team1>
+<Team2 BetradarTeamId="4691" UniqueTeamId="2951" formation="4-3-3">
+<Color hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="39219"/>
+<GoalkeeperColor hStripes="-1" main="3368703" number="16777215" sleeve="3368703" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Groningen</Name>
+<Name language="en">FC Groningen</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T18:46:24 CET</Time>
+<Team>1</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:31:13 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Score>
+<Score type="Period1">
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203220827">
+<Time>16</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="779024">El Azzouzi, Zakaria</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203224339" type="Yellow">
+<Time>28</Time>
+<Player id="1894">Lindgren, Rasmus</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Lineups>
+<TeamPlayer id="203190679" pos="4">
+<Player id="362682">Andersen, Joachim</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190681" pos="11">
+<Player id="100388">Cabral, Jerson</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190683" pos="9">
+<Player id="8707">Ede, Chinedu</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190685" pos="10">
+<Player id="779024">El Azzouzi, Zakaria</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190687" pos="8">
+<Player id="106451">Gutierrez, Felipe</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190689" pos="1">
+<Player id="70927">Marsman, Nick</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190691" pos="6">
+<Player id="96486">Mokotjo, Kamohelo</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190695" pos="3">
+<Player id="158267">Uvini, Bruno</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190699" pos="7">
+<Player id="249437">Ziyech, Hakim</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190693" pos="2">
+<Player id="361788">ter Avest, Hidde</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190697" pos="5">
+<Player id="806642">van der Lely, Jeroen</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190723">
+<Player id="867022">Agyepong, Thomas</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190725">
+<Player id="340079">Bijen, Peet</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190727">
+<Player id="610396">Drommel, Joel</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190729">
+<Player id="242521">Holscher, Tim</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190731">
+<Player id="14617">Schilder, Robbert</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190735">
+<Player id="318745">Zawada, Oskar</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190733">
+<Player id="583494">van der Heyden, Jelle</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190701" pos="5">
+<Player id="100384">Burnet, Lorenzo</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190703" pos="7">
+<Player id="73799">De Leeuw, Michael</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190705" pos="2">
+<Player id="356352">Hateboer, Hans</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190707" pos="10">
+<Player id="113712">Hoesen, Danny</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190709" pos="9">
+<Player id="286015">Idrissi, Oussama</Player>
+<ShirtNumber>45</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190711" pos="4">
+<Player id="1894">Lindgren, Rasmus</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190713" pos="6">
+<Player id="1900">Maduro, Hedwiges</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190715" pos="1">
+<Player id="42894">Padt, Sergio</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190717" pos="3">
+<Player id="32450">Reijnen, Etienne</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190719" pos="11">
+<Player id="134903">Rusnak, Albert</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190721" pos="8">
+<Player id="138560">Tibbling, Simon</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190737">
+<Player id="799510">Bacuna, Juninho</Player>
+<ShirtNumber>38</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190739">
+<Player id="97417">Drost, Jesper</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190741">
+<Player id="94262">Larsen, Kasper</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190743">
+<Player id="47753">Linssen, Bryan</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190745">
+<Player id="780416">Payne, Desevio</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190747">
+<Player id="309078">Sorloth, Alexander</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190749">
+<Player id="32293">Van der Vlag, Peter</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203237979" eventtype="154" id="339365371" time="53" type="85">
+<Text language="it">Corner Twente allo stadio Grolsch Veste Stadium di Enschede. Hakim Ziyech batterà dalla bandierina destra.</Text>
+<Text language="en">FC Twente Enschede have been awarded a corner by Martin Van den Kerkhof.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237579" eventtype="154" id="339363713" time="52" type="85">
+<Text language="it">A Enschede Hakim Ziyech (Twente) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to FC Twente Enschede.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237193" eventtype="156" id="339361067" time="51" type="91">
+<Text language="it">Twente con Joachim Andersen cerca la rete allo stadio Grolsch Veste Stadium con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">FC Twente Enschede's Joachim Andersen misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235615" eventtype="154" id="339351305" time="46" type="85">
+<Text language="en">Corner awarded to FC Twente Enschede.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235409" eventtype="155" id="339350475" time="46" type="89">
+<Text language="it">Hakim Ziyech (Twente) ha calciato in porta. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">In Enschede FC Twente Enschede drive forward through Hakim Ziyech. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235253" eventtype="23" id="339349485" time="46" type="21">
+<Text language="it">Partiti! L'arbitro ha dato il via al secondo tempo.</Text>
+<Text language="en">Martin Van den Kerkhof has blown to start the second-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230681" eventtype="35" id="339327255" time="45" type="22">
+<Text language="it">Si è conclusa la prima frazione di gioco.</Text>
+<Text language="en">The first half has been concluded at Grolsch Veste Stadium.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230627" eventtype="154" id="339327005" time="45" type="85">
+<Text language="en">FC Twente Enschede have been awarded a corner by Martin Van den Kerkhof.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230425" eventtype="154" id="339326009" time="45" type="85">
+<Text language="en">FC Twente Enschede have been awarded a corner by Martin Van den Kerkhof.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226323" eventtype="154" id="339307129" time="32" type="85">
+<Text language="en">Corner awarded to FC Twente Enschede.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226133" eventtype="172" id="339306381" time="32" type="116">
+<Text language="it">Hidde ter Avest va alla conclusione allo stadio Grolsch Veste StadiumdiEnschede, ma il suo tiro viene bloccato da un difensore avversario!</Text>
+<Text language="en">FC Twente Enschede push forward at Grolsch Veste Stadium and Hidde ter Avest gets in a strike. This is blocked, however, by a determined FC Groningen defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224339" eventtype="40" id="339300997" time="28" type="45">
+<Text language="it">Rasmus Lindgren (Groningen) ha ricevuto un cartellino giallo dall'arbitro Martin Van den Kerkhof.</Text>
+<Text language="en">Rasmus Lindgren (FC Groningen) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223353" eventtype="156" id="339297741" time="24" type="91">
+<Text language="it">Occasione Groningen con Oussama Idrissi! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">FC Groningen's Oussama Idrissi gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220827" eventtype="30" id="339284941" time="16" type="139">
+<Text language="it">Hidde ter Avest ha fornito l'assist per il gol.</Text>
+<Text language="en">Hidde ter Avest with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220827" eventtype="30" id="339284119" time="16" type="36">
+<Text language="it">Twente in vantaggio per 1 - 0allo stadioGrolsch Veste Stadium grazie a Zakaria El Azzouzi.</Text>
+<Text language="en">Zakaria El Azzouzi scores to make it 1 - 0 at Grolsch Veste Stadium.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219625" eventtype="154" id="339275667" time="12" type="85">
+<Text language="en">FC Twente Enschede have been awarded a corner by Martin Van den Kerkhof.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218237" eventtype="155" id="339265405" time="9" type="89">
+<Text language="it">Occasione Twente con Hakim Ziyech, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">Hakim Ziyech of FC Twente Enschede smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215991" eventtype="16" id="339256379" time="5" type="79">
+<Text language="it">La partita è di nuovo in corso.</Text>
+<Text language="en">Play has been resumed at Grolsch Veste Stadium.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215041" eventtype="156" id="339251901" time="3" type="128">
+<Text language="it">Groningen in attacco! Danny Hoesen sfiora la rete di testa!</Text>
+<Text language="en">FC Groningen attack but Danny Hoesen's header doesn't find the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214809" eventtype="154" id="339248917" time="3" type="85">
+<Text language="en">Corner awarded to FC Groningen.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213745" eventtype="10" id="339243455" time="1" type="37">
+<Text language="it">Il match ha preso il via!</Text>
+<Text language="en">The match is underway at Grolsch Veste Stadium.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203190679" eventtype="80" id="339173981" time="0" type="19">
+<Text language="it">Rene Hake e Erwin Van de Looi hanno appena reso note le formazioni di partenza.</Text>
+<Text language="en">The official team line-ups are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57259879" id="339322535">
+<Text language="it">Twente, se in vantaggio in casa per 1-0, non ha mai perso in questa stagione.</Text>
+<Text language="en">FC Twente Enschede is undefeated this season when playing at home and taking the lead 1-0.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57231935" id="339237249">
+<Text language="it">Se Chinedu Ede segna contro Groningen, questo sarà il 5° gol per Twente in questa stagione.</Text>
+<Text language="en">If Chinedu Ede scores against FC Groningen it will be his 5th goal for FC Twente Enschede this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="82518" name="Van den Kerkhof, Martin">
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+<City id="54" name="Enschede">
+<Name language="it">Enschede</Name>
+<Name language="en">Enschede</Name>
+</City>
+<Stadium id="584" name="Grolsch Veste Stadium">
+<Name language="it">Grolsch Veste Stadium</Name>
+<Name language="en">Grolsch Veste Stadium</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>45</Team1>
+<Team2>55</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>4</Team1>
+<Team2>2</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>1</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>5</Team1>
+<Team2>6</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>7</Team1>
+<Team2>1</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>19</Team1>
+<Team2>11</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>6</Team1>
+<Team2>5</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="32">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+<Tournament BetradarTournamentId="37" UniqueTournamentId="54">
+<Name language="it">Segunda Division</Name>
+<Name language="en">Segunda Division</Name>
+<Match BetradarMatchId="9582571" Id="7616656">
+<MatchDate>2016-02-27T18:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="7136816" UniqueTeamId="24324" formation="4-4-2">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Athletic Bilbao B</Name>
+<Name language="en">Athletic Bilbao B</Name>
+</Team1>
+<Team2 BetradarTeamId="808713" UniqueTeamId="6195" formation="4-4-2">
+<Color hStripes="-1" main="16777215" number="13311" sleeve="16777215" split="-1" squares="-1" vStripes="13311"/>
+<GoalkeeperColor hStripes="-1" main="16737996" number="0" sleeve="16737996" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">SD Ponferradina</Name>
+<Name language="en">SD Ponferradina</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:32:27 CET</Time>
+<Team>1</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:00:59 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>4</Team1>
+<Team2>2</Team2>
+</Score>
+<Score type="Period1">
+<Team1>2</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203211059">
+<Time>24</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="327277">Aketxe, Ager</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203215241">
+<Time>34</Time>
+<Team1>2</Team1>
+<Team2>0</Team2>
+<Player id="327277">Aketxe, Ager</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203219313">
+<Time>42</Time>
+<Team1>2</Team1>
+<Team2>1</Team2>
+<Player id="141876">Acoran</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal id="203228693">
+<Time>54</Time>
+<Team1>3</Team1>
+<Team2>1</Team2>
+<Player id="880754">Santamaria, Gorka</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203233631">
+<Time>70</Time>
+<Team1>3</Team1>
+<Team2>2</Team2>
+<Player id="803448">Melero, Gonzalo</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal id="203235669">
+<Time>77</Time>
+<Team1>4</Team1>
+<Team2>2</Team2>
+<Player id="327277">Aketxe, Ager</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203232011" type="Yellow">
+<Time>65</Time>
+<Player id="345183">Aguza, Sergio</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203232423" type="Yellow">
+<Time>66</Time>
+<Player id="869158">Iriondo, Urtzi</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203229703">
+<Time>48</Time>
+<PlayerOut id="12775">Hume, Iain</PlayerOut>
+<PlayerIn id="44633">Caiado, David</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203229609">
+<Time>57</Time>
+<PlayerOut id="175257">Infante, Pablo</PlayerOut>
+<PlayerIn id="124042">Khomchenovskiy, Dmitro</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203233047">
+<Time>68</Time>
+<PlayerOut id="592094">Guarrotxena, Iker</PlayerOut>
+<PlayerIn id="355072">Villalibre Molina, Asier</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203237275">
+<Time>82</Time>
+<PlayerOut id="880754">Santamaria, Gorka</PlayerOut>
+<PlayerIn id="880418">Iru, Jon</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203169953" pos="11">
+<Player id="327277">Aketxe, Ager</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169949" pos="9">
+<Player id="880288">Alvarez, Yeray</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169941" pos="5">
+<Player id="253301">Etxeberria, Markel</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169937" pos="3">
+<Player id="188373">Gil, Oscar</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169943" pos="6">
+<Player id="592094">Guarrotxena, Iker</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169939" pos="4">
+<Player id="869158">Iriondo, Urtzi</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169945" pos="7">
+<Player id="588566">Lopez, Unai</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169935" pos="2">
+<Player id="96363">Ramalho, Jonas</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169933" pos="1">
+<Player id="791759">Remiro, Alex</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169951" pos="10">
+<Player id="880754">Santamaria, Gorka</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169947" pos="8">
+<Player id="359742">Vesga Arruti, Mikel</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176165">
+<Player id="605650">Cordoba, Inigo</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176153">
+<Player id="597944">Felipe Gonzalez, Jon Ander</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176161">
+<Player id="880418">Iru, Jon</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176163">
+<Player id="880458">Olaetxea, Lander</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176155">
+<Player id="253303">Saborit, Enric</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176157">
+<Player id="253305">Seguin, Aitor</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176159">
+<Player id="355072">Villalibre Molina, Asier</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170935" pos="8">
+<Player id="141876">Acoran</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170931" pos="6">
+<Player id="345183">Aguza, Sergio</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170937" pos="9">
+<Player id="232440">Andy</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170927" pos="4">
+<Player id="52139">Baro, Alan</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170925" pos="3">
+<Player id="148587">Casado, Jorge</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170939" pos="10">
+<Player id="12775">Hume, Iain</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170941" pos="11">
+<Player id="175257">Infante, Pablo</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170933" pos="7">
+<Player id="803448">Melero, Gonzalo</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170929" pos="5">
+<Player id="144606">Miquel, Ignasi</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170921" pos="1">
+<Player id="138314">Moldovan, Dinu</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170923" pos="2">
+<Player id="48558">Seoane, Diego</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176175">
+<Player id="28225">Alvaro</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176167">
+<Player id="23393">Basha, Vullnet</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176173">
+<Player id="44633">Caiado, David</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176179">
+<Player id="26059">Dominguez, Alberto</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176169">
+<Player id="594834">Jebor, William</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176171">
+<Player id="124042">Khomchenovskiy, Dmitro</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176177">
+<Player id="41400">Pavon</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203237883" eventtype="154" id="339364543" time="83" type="85">
+<Text language="en">Corner awarded to SD Ponferradina.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237275" eventtype="60" id="339361399" time="82" type="44">
+<Text language="it">Cambio Athletic Bilbao B: Jon Iru prende il posto di Gorka Santamaria.</Text>
+<Text language="en">Jon Iru is on a sub for Gorka Santamaria for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235669" eventtype="30" id="339351887" time="77" type="35">
+<Text language="it">Gol! Ager Aketxe incrementa il vantaggio della sua squadra che ora conduce per 4 - 2.</Text>
+<Text language="en">Athletic Bilbao B take a comfortable 4 - 2 lead thanks to Ager Aketxe.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234977" eventtype="155" id="339348077" time="75" type="89">
+<Text language="it">Ci prova Jorge Casado (SD Ponferradina), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">SD Ponferradina push forward through Jorge Casado, whose finish on goal is saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234935" eventtype="154" id="339347825" time="74" type="85">
+<Text language="en">SD Ponferradina have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234323" eventtype="155" id="339345997" time="73" type="89">
+<Text language="it">Athletic Bilbao B avanza e Asier Villalibre Molina va alla conclusione. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Asier Villalibre Molina of Athletic Bilbao B smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233631" eventtype="30" id="339342517" time="70" type="24">
+<Text language="it">SD Ponferradina in gol con Gonzalo Melero! Ora il match si fa interessante, il risultato è ora infatti di 2 - 3.</Text>
+<Text language="en">Gonzalo Melero keeps the away team in the match by reducing the deficit to 2 - 3.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233047" eventtype="60" id="339339789" time="68" type="44">
+<Text language="it">Cambio Athletic Bilbao B! Il tecnico Cuco Ziganda fa il suo primo cambio sostituendo Iker Guarrotxena con Asier Villalibre Molina.</Text>
+<Text language="en">The home team have replaced Iker Guarrotxena with Asier Villalibre Molina. This is the first substitution made today by Cuco Ziganda.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232423" eventtype="40" id="339335979" time="66" type="45">
+<Text language="it">Urtzi Iriondo (Athletic Bilbao B) è finito sul taccuino dell'arbitro David Medie Jimenez per un cartellino giallo.</Text>
+<Text language="en">Urtzi Iriondo for Athletic Bilbao B has been booked by David Medie Jimenez and receives a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232011" eventtype="40" id="339334149" time="65" type="45">
+<Text language="it">Sergio Aguza (SD Ponferradina) è stato ammonito e dovrà fare attenzione a non prendere il secondo giallo.</Text>
+<Text language="en">Sergio Aguza is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231571" eventtype="156" id="339331413" time="63" type="91">
+<Text language="it">Athletic Bilbao B si spinge in avanti ma Markel Etxeberria con il suo tiro non indovina la porta.</Text>
+<Text language="en">Markel Etxeberria of Athletic Bilbao B gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230947" eventtype="153" id="339328755" time="61" type="93">
+<Text language="it">Gorka Santamaria (Athletic Bilbao B) è stato colto in fuorigioco.</Text>
+<Text language="en">Gorka Santamaria for Athletic Bilbao B is whistled offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230419" eventtype="153" id="339325925" time="60" type="112">
+<Text language="it">Athletic Bilbao B fermato dall'arbitro David Medie Jimenez in fuorigioco.</Text>
+<Text language="en">Athletic Bilbao B advance rapidly upfield but David Medie Jimenez blows for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229609" eventtype="60" id="339322205" time="57" type="44">
+<Text language="it"> Fabri Gonzalez (SD Ponferradina) fa il suo primo cambio con Dmitro Khomchenovskiy che rimpiazza Pablo Infante.</Text>
+<Text language="en">Dmitro Khomchenovskiy is replacing Pablo Infante for SD Ponferradina at Instalaciones de Lezama.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228693" eventtype="30" id="339318227" time="54" type="35">
+<Text language="it">Athletic Bilbao B in goal! La squadra si porta così sul 3 - 1 con Gorka Santamaria.</Text>
+<Text language="en">Great finish from Gorka Santamaria to give Athletic Bilbao B a 3 - 1 lead.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228605" eventtype="172" id="339317147" time="54" type="116">
+<Text language="it">Occasione SD Ponferradina con Jonas Ramalho, ma la sua conclusione viene intercettata da un difensore avversario.</Text>
+<Text language="en">Jonas Ramalho (Athletic Bilbao B) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227597" eventtype="154" id="339312179" time="51" type="85">
+<Text language="it">Angolo Athletic Bilbao B secondo l'arbitro David Medie Jimenez. Ager Aketxe lo batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227459" eventtype="154" id="339311599" time="50" type="85">
+<Text language="it">Corner Athletic Bilbao B allo stadio Instalaciones de Lezama di Lezama. Ager Aketxe batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227243" eventtype="154" id="339310109" time="49" type="85">
+<Text language="it">Allo stadio Instalaciones de Lezama, Ager Aketxe (Athletic Bilbao B) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Athletic Bilbao B have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229703" eventtype="60" id="339323117" time="48" type="44">
+<Text language="it">Cambio SD Ponferradina! David Caiado sostituisce Iain Hume. Questo e' il secondo cambio per  Fabri Gonzalez.</Text>
+<Text language="en"> Fabri Gonzalez is making the team's second substitution at Instalaciones de Lezama with David Caiado replacing Iain Hume.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225311" eventtype="23" id="339303567" time="46" type="21">
+<Text language="it">Partiti! Ha preso il via il secondo tempo a Lezama.</Text>
+<Text language="en">The second-half is underway at Instalaciones de Lezama.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220567" eventtype="35" id="339282049" time="45" type="22">
+<Text language="it">E' finito il primo tempo della sfida di Lezama.</Text>
+<Text language="en">The whistle has gone to end the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219313" eventtype="30" id="339279139" time="42" type="24">
+<Text language="it">Rete SD Ponferradina che torna in partita grazie a Acoran! Il risultato è ora: 1 - 2.</Text>
+<Text language="en">SD Ponferradina are back in the match in Lezama. Acoran has scored to make it 1 - 2.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219071" eventtype="154" id="339270629" time="41" type="85">
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218923" eventtype="172" id="339269381" time="41" type="116">
+<Text language="it">Allo stadio Instalaciones de Lezama, Ager Aketxe (Athletic Bilbao B) ci prova con un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Important block from the SD Ponferradina defence as Ager Aketxe fires in a strike for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215241" eventtype="30" id="339262179" time="34" type="139">
+<Text language="it">Gorka Santamaria ha servito l'assist per il gol.</Text>
+<Text language="en">Gorka Santamaria with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215241" eventtype="30" id="339252315" time="34" type="35">
+<Text language="it">Gol! Ager Aketxe (Athletic Bilbao B) aumenta il vantaggio per i suoi, portando così il risultato sul 2 - 0 allo stadio Instalaciones de Lezama.</Text>
+<Text language="en">It's now 2 - 0 in Lezama as Ager Aketxe scores for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214999" eventtype="156" id="339250413" time="34" type="91">
+<Text language="it">Allo stadio Instalaciones de Lezama di Lezama occasione Athletic Bilbao B! Ci prova Mikel Vesga Arruti, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">Athletic Bilbao B's Mikel Vesga Arruti misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214751" eventtype="154" id="339248585" time="33" type="85">
+<Text language="en">Athletic Bilbao B have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213717" eventtype="153" id="339243039" time="31" type="112">
+<Text language="it">Fuorigioco SD Ponferradina! La squadra è caduta nella trappola degli avversari.</Text>
+<Text language="en">SD Ponferradina drive forward at breakneck speed but are pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213543" eventtype="154" id="339242291" time="31" type="85">
+<Text language="it">Allo stadio Instalaciones de Lezama, Pablo Infante (SD Ponferradina) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">SD Ponferradina have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213439" eventtype="155" id="339241707" time="31" type="89">
+<Text language="it">SD Ponferradina ci prova con un tiro in porta di Pablo Infanteallo stadioInstalaciones de Lezama. Conclusione che però non va a buon fine.</Text>
+<Text language="en">In Lezama SD Ponferradina drive forward through Pablo Infante. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211967" eventtype="154" id="339235761" time="27" type="85">
+<Text language="it">A Lezama Iker Guarrotxena (Athletic Bilbao B) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211059" eventtype="30" id="339232707" time="24" type="139">
+<Text language="it">Markel Etxeberria ha effettuato l'assist.</Text>
+<Text language="en">Markel Etxeberria instrumental with a fine assist.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211059" eventtype="30" id="339231791" time="24" type="36">
+<Text language="it">Rete di Ager Aketxe (Athletic Bilbao B) a Lezama! La squadra che gioca di casa conduce ora 1 - 0.</Text>
+<Text language="en">Goal! The home team take a 1 - 0 lead through Ager Aketxe.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210809" eventtype="155" id="339229393" time="24" type="89">
+<Text language="it">Conclusione di Gorka Santamaria (Athletic Bilbao B) allo stadio Instalaciones de Lezama di Lezama, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">Gorka Santamaria for Athletic Bilbao B drives towards goal at Instalaciones de Lezama. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210115" eventtype="156" id="339224435" time="22" type="128">
+<Text language="it">Gorka Santamaria (Athletic Bilbao B) tenta la conclusione di testa ma la palla esce a lato.</Text>
+<Text language="en">Athletic Bilbao B's Gorka Santamaria attacks the ball with his head but his effort fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210093" eventtype="155" id="339225017" time="22" type="122">
+<Text language="it">Athletic Bilbao B in attacco! La squadra crea una buona opportunità con Gorka Santamaria, ma sfortuna vuole che la palla finisca sulla traversa!</Text>
+<Text language="en">Gorka Santamaria hits the bar! Nearly a goal there for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207733" eventtype="154" id="339216905" time="17" type="85">
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207505" eventtype="155" id="339216571" time="17" type="89">
+<Text language="it">Athletic Bilbao B avanza e calcia in porta con Gorka Santamaria. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">Athletic Bilbao B's Gorka Santamaria is on target but unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203206297" eventtype="154" id="339211757" time="14" type="85">
+<Text language="en">Athletic Bilbao B have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203203859" eventtype="153" id="339204819" time="10" type="112">
+<Text language="it">Fuorigioco per la squadra che gioca di casa!</Text>
+<Text language="en">Athletic Bilbao B push upfield but David Medie Jimenez quickly pulls them for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203203057" eventtype="156" id="339202589" time="9" type="91">
+<Text language="it">SD Ponferradina si spinge in avanti e con Iain Hume cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">SD Ponferradina are coming forward and Iain Hume gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203198213" eventtype="156" id="339192913" time="2" type="91">
+<Text language="it">Ci prova Pablo Infante (SD Ponferradina), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">SD Ponferradina's Pablo Infante breaks free at Instalaciones de Lezama. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203197179" eventtype="156" id="339191093" time="2" type="91">
+<Text language="it">Ager Aketxe (Athletic Bilbao B) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Ager Aketxe for Athletic Bilbao B gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203196421" eventtype="10" id="339190263" time="1" type="37">
+<Text language="it">Il match ha preso il via!</Text>
+<Text language="en">The match has started.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203169933" eventtype="80" id="339105851" time="0" type="19">
+<Text language="it">Sono state inserite le le formazioni ufficiali.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56152821" id="339188273">
+<Text language="it">Un anno fa, SD Ponferradina era 7 in classifica con 39 punti. Ora è 16 con 28 punti.</Text>
+<Text language="en">A year ago, SD Ponferradina were number 7 in the table with 39 points. Now they are number 16 with 28 points.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="83216" name="Medie Jimenez, David">
+<Country id="199" name="Spain">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="199" name="Spain">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+</Country>
+<City id="5901" name="Lezama">
+<Name language="it">Lezama</Name>
+<Name language="en">Lezama</Name>
+</City>
+<Stadium id="9199" name="Instalaciones de Lezama">
+<Name language="it">Instalaciones de Lezama</Name>
+<Name language="en">Instalaciones de Lezama</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>57</Team1>
+<Team2>43</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>9</Team1>
+<Team2>4</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>5</Team1>
+<Team2>2</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>10</Team1>
+<Team2>17</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>8</Team1>
+<Team2>3</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>3</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>28</Team1>
+<Team2>26</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>5</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>3</Team1>
+<Team2>7</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>14</Team1>
+<Team2>9</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

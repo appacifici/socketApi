@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995753" generatedAt="2016-02-27T20:13:28 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="33">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+<Tournament BetradarTournamentId="38" UniqueTournamentId="38">
+<Name language="it">Pro League</Name>
+<Name language="en">Pro League</Name>
+<Match BetradarMatchId="10262288" Id="7433950">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="4682" UniqueTeamId="5044">
+<Color hStripes="-1" main="16763904" number="0" sleeve="13369344" split="-1" squares="-1" vStripes="13369344"/>
+<GoalkeeperColor hStripes="-1" main="51" number="16777215" sleeve="51" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Mechelen</Name>
+<Name language="en">Yellow-Red KV Mechelen</Name>
+</Team1>
+<Team2 BetradarTeamId="923904" UniqueTeamId="4858">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Kortrijk</Name>
+<Name language="en">KV Kortrijk</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T20:13:16 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T20:01:31 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Lineups>
+<TeamPlayer id="203231349">
+<Player id="336533">Bjelica, Aleksandar</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231351">
+<Player id="144168">Claes, Glenn</Player>
+<ShirtNumber>77</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231347">
+<Player id="63927">Cocalic, Edin</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231345">
+<Player id="45893">De Petter, Steven</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231339">
+<Player id="58918">De Witte, Seth</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231335">
+<Player id="43895">Gillet, Jean-Francois</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231353">
+<Player id="55056">Hanni, Sofiane</Player>
+<ShirtNumber>94</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231341">
+<Player id="6243">Matthys, Tim</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231337">
+<Player id="77527">Paulussen, Laurens</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231343">
+<Player id="70961">Rits, Mats</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231355">
+<Player id="208832">Verdier, Nicolas</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231385">
+<Player id="48058">Ben Khalifa, Nassim</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231379">
+<Player id="89346">Crepulja, Ljuban</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231389">
+<Player id="369798">El Messaoudi, Ahmed</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231381">
+<Player id="808422">Leal, Randall</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231391">
+<Player id="39457">Moris, Anthony</Player>
+<ShirtNumber>49</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231383">
+<Player id="51423">Veselinovic, Dalibor</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231387">
+<Player id="137702">Vitas, Uros</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231357">
+<Player id="182951">Chanot, Maxime</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231371">
+<Player id="42107">De Mets, Gertjan</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231365">
+<Player id="21923">Kage, Herve</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231369">
+<Player id="155511">Keet, Darren</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231367">
+<Player id="267619">Marusic, Adam</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231373">
+<Player id="102806">Mercier, Xavier</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231363">
+<Player id="17430">Papazoglou, Thanasis</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231361">
+<Player id="46015">Pavlovic, Nebosja</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231375">
+<Player id="216358">Rolland, Elohim</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231377">
+<Player id="78954">Tomasevic, Zarko</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231359">
+<Player id="192268">Verstraete, Birger</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231399">
+<Player id="121602">D'Haene, Kristof</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231397">
+<Player id="339231">Gigot, Samuel</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231403">
+<Player id="149674">Kis, Tomislav</Player>
+<ShirtNumber>44</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231407">
+<Player id="148600">Olaitan, Michael</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231405">
+<Player id="816574">Sarr, Sidy</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231395">
+<Player id="17441">Sifakis, Michalis</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231393">
+<Player id="45880">Van Eenoo, Lukas</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231401">
+<Player id="46050">Van Loo, Anthony</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203244445" eventtype="10" id="339410123" time="1" type="37">
+<Text language="it">Il primo tempo è appena cominciato.</Text>
+<Text language="en">The match is underway in Mechelen.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231335" eventtype="80" id="339338299" time="0" type="19">
+<Text language="it">Le formazioni ufficiali delle due squadre sono state rese note.</Text>
+<Text language="en">The big names in today's match at Achter De Kazerne have now been confirmed.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56168341" id="339425119">
+<Text language="it">Kortrijk non ha vinto nessuna delle ultime 11 partite in trasferta.</Text>
+<Text language="en">KV Kortrijk haven't won any of their last 11 away matches.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57263615" id="339403659">
+<Text language="it">Se Zarko Tomasevic segna contro Mechelen, questo sarà il 5° gol per Kortrijk in questa stagione.</Text>
+<Text language="en">If Zarko Tomasevic scores against Yellow-Red KV Mechelen it will be his 5th goal for KV Kortrijk this season.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56252139" id="339434059">
+<Text language="it">Sapevate che Kortrijk realizza il 21% dei suoi gol fra i minuti 16-30?</Text>
+<Text language="en">Did you know that KV Kortrijk scores 21% of their goals between the minutes 16-30?</Text>
+</Funfact>
+</Funfacts>
+<Referee id="69275" name="Van De Velde, Joeri">
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+<City id="681" name="Mechelen">
+<Name language="it">Malines</Name>
+<Name language="en">Mechelen</Name>
+</City>
+<Stadium id="1254" name="Achter De Kazerne">
+<Name language="it">Achter De Kazerne</Name>
+<Name language="en">Achter De Kazerne</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10262292" Id="7433958">
+<MatchDate>2016-02-27T20:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="4958" UniqueTeamId="2895">
+<Color hStripes="-1" main="16776960" number="3355596" sleeve="3355596" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="6749952" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">St. Truiden</Name>
+<Name language="en">St. Truidense VV</Name>
+</Team1>
+<Team2 BetradarTeamId="548844" UniqueTeamId="2933">
+<Color hStripes="-1" main="13369395" number="16777215" sleeve="10027059" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6724095" number="0" sleeve="13421772" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zulte Waregem</Name>
+<Name language="en">SV Zulte Waregem</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Lineups>
+<TeamPlayer id="203245311">
+<Player id="156009">Angban, Victorien</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245303">
+<Player id="3162">Bagayoko, Mamadou</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245301">
+<Player id="324937">Cuevas, Cristian</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245309">
+<Player id="126791">Dutoit, William</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245305">
+<Player id="123662">Erichot, Ivan</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245307">
+<Player id="59751">Fernandes, Ruben</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245299">
+<Player id="190401">Gerkens, Pieter</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245293">
+<Player id="73931">Mahlangu, May</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245297">
+<Player id="341449">Rherras, Faycal</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245313">
+<Player id="560428">Rodriguez, Joao</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245295">
+<Player id="247069">Tchenkoua, Fabien</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247291">
+<Player id="754630">De Sart, Alexis</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247299">
+<Player id="898436">De Souza, Allan Rodrigues</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247289">
+<Player id="40625">De Winter, Yves</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247293">
+<Player id="190393">Hendrickx, Gaetan</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247301">
+<Player id="19377">Kotysch, Sascha</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247295">
+<Player id="94300">Raman, Benito</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247297">
+<Player id="121250">Soumahoro, Yaya</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245333">
+<Player id="45828">Cordaro, Alessandro</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245327">
+<Player id="47855">Dalsgaard, Henrik</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245325">
+<Player id="10071">De Ridder, Steve</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245315">
+<Player id="280435">Diallo, Abdou</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245335">
+<Player id="359274">Essikal, Karim</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245331">
+<Player id="45907">Lepoint, Christophe</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245323">
+<Player id="46396">Leye, Mbaye</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245321">
+<Player id="111754">Poletanovic, Marko</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245329">
+<Player id="41886">Steppe, Kenny</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245319">
+<Player id="180981">Thiam, Mame</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245317">
+<Player id="247323">Verboom, Bryan</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248561">
+<Player id="174981">Baudry, Marvin</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248567">
+<Player id="341453">Benteke, Jonathan</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248559">
+<Player id="18827">Bossut, Sammy</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248571">
+<Player id="783498">Brebels, Sebastiaan</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248565">
+<Player id="312254">Buyl, Stephen</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248569">
+<Player id="139229">Meite, Soualiho</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248563">
+<Player id="38275">Sami, Joel</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203245293" eventtype="80" id="339433975" time="0" type="19">
+<Text language="it">Tutto è pronto! Anche le formazioni ufficiali sono state rese note!</Text>
+<Text language="en">The line-ups for today's big match in Sint- Truiden are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="65651" name="Wouters, Luc">
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+<City id="679" name="Sint- Truiden">
+<Name language="it">Sint- Truiden</Name>
+<Name language="en">Sint- Truiden</Name>
+</City>
+<Stadium id="1252" name="Staaien">
+<Name language="it">Staaien</Name>
+<Name language="en">Staaien</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="35">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+<Tournament BetradarTournamentId="39" UniqueTournamentId="37">
+<Name language="it">Eredivisie</Name>
+<Name language="en">Eredivisie</Name>
+<Match BetradarMatchId="10265743" Id="7475388">
+<MatchDate>2016-02-27T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="5306" UniqueTeamId="2958" formation="4-3-3">
+<Color hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="16763904"/>
+<GoalkeeperColor hStripes="-1" main="52224" number="16777215" sleeve="52224" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vitesse Arnhem</Name>
+<Name language="en">Vitesse Arnhem</Name>
+</Team1>
+<Team2 BetradarTeamId="5302" UniqueTeamId="2961" formation="4-3-3">
+<Color hStripes="-1" main="16777215" number="0" sleeve="13369344" split="-1" squares="-1" vStripes="0"/>
+<GoalkeeperColor hStripes="-1" main="3381504" number="16777215" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Willem II</Name>
+<Name language="en">Willem II Tilburg</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Lineups>
+<TeamPlayer id="203246611" pos="7">
+<Player id="190859">Baker, Lewis</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246601" pos="2">
+<Player id="43136">Kashia, Guram</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246617" pos="10">
+<Player id="97022">Kazaishvili, Valeri</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246605" pos="4">
+<Player id="2166">Kruiswijk, Arnold</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246607" pos="5">
+<Player id="44220">Leerdam, Kelvin</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246613" pos="8">
+<Player id="556904">Nakamba, Marvelous</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246619" pos="11">
+<Player id="45647">Oliynyk, Denis</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246615" pos="9">
+<Player id="284387">Rashica, Milot</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246599" pos="1">
+<Player id="40859">Room, Eloy</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246603" pos="3">
+<Player id="32597">Van der Werff, Maikel</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246609" pos="6">
+<Player id="54659">Yeini, Sheran</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246633" pos="0">
+<Player id="314370">Brown, Isaiah</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246623" pos="0">
+<Player id="583806">Diks, Kevin</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246627" pos="0">
+<Player id="158395">Ibarra, Renato</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246625" pos="0">
+<Player id="358538">Nathan</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246629" pos="0">
+<Player id="864512">Osman, Mohammed</Player>
+<ShirtNumber>41</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246621" pos="0">
+<Player id="14808">Velthuizen, Piet</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246631" pos="0">
+<Player id="849056">Yuning, Zhang</Player>
+<ShirtNumber>43</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247845" pos="8">
+<Player id="50686">Achenteh, Rochdi</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247851" pos="11">
+<Player id="135263">Andersen, Lucas</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247843" pos="7">
+<Player id="32922">Falkenburg, Erik</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247847" pos="9">
+<Player id="52088">Hupperts, Guus</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247839" pos="5">
+<Player id="137643">Koppers, Dico</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247831" pos="1">
+<Player id="42876">Lamprou, Kostas</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247841" pos="6">
+<Player id="51602">Ojo, Funso</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247849" pos="10">
+<Player id="250505">Ondaan, Terell</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247837" pos="4">
+<Player id="32345">Peters, Jordens</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247835" pos="3">
+<Player id="100683">Wuytens, Dries</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247833" pos="2">
+<Player id="3466">van der Struijk, Frank</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247861" pos="0">
+<Player id="2254">Braber, Robert</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247857" pos="0">
+<Player id="97416">De Sa, Lesley</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247855" pos="0">
+<Player id="81003">Heerkens, Freek</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247859" pos="0">
+<Player id="285947">Kawaya, Andy</Player>
+<ShirtNumber>38</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248039" pos="0">
+<Player id="966275">Kok, Thomas</Player>
+<ShirtNumber>42</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247853" pos="0">
+<Player id="74472">Meul, David</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247863" pos="0">
+<Player id="27531">Nemec, Adam</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203246599" eventtype="80" id="339434141" time="0" type="19">
+<Text language="it">Sono ora disponibili le formazioni ufficiali per la partita di oggi allo stadio Gelredome.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Referee id="52566" name="Liesveld, Richard">
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+<City id="104" name="Arnhem">
+<Name language="it">Arnhem</Name>
+<Name language="en">Arnhem</Name>
+</City>
+<Stadium id="643" name="GelreDome">
+<Name language="it">Gelredome</Name>
+<Name language="en">Gelredome</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="25">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+<Tournament BetradarTournamentId="1060" UniqueTournamentId="215">
+<Name language="it">Super League</Name>
+<Name language="en">Super League</Name>
+<Match BetradarMatchId="10254715" Id="7482594">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="180432" UniqueTeamId="2450" formation="4-4-1-1">
+<Color hStripes="-1" main="16777215" number="3355647" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zurigo</Name>
+<Name language="en">FC Zurich</Name>
+</Team1>
+<Team2 BetradarTeamId="30314" UniqueTeamId="2445" formation="4-4-2">
+<Color hStripes="-1" main="16750848" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3394560" number="0" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Young Boys Berna</Name>
+<Name language="en">Young Boys Bern</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T20:00:04 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Lineups>
+<TeamPlayer id="203235189" pos="5">
+<Player id="330689">Brunner, Cedric</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235191" pos="6">
+<Player id="335353">Bua, Kevin</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235193" pos="9">
+<Player id="108712">Buff, Oliver</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235195" pos="1">
+<Player id="23387">Favre, Anthony</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235197" pos="10">
+<Player id="318741">Grgic, Anto</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235199" pos="4">
+<Player id="78768">Kecojevic, Ivan</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235201" pos="11">
+<Player id="10909">Kerzhakov, Aleksandr</Player>
+<ShirtNumber>72</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235203" pos="2">
+<Player id="37383">Koch, Philippe</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235205" pos="8">
+<Player id="32162">Kukeli, Burim</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235207" pos="3">
+<Player id="33948">Sanchez, Leonardo</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235209" pos="7">
+<Player id="3147">Yapi Yapo, Gilles</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235211">
+<Player id="111748">Brecher, Yanick</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235221">
+<Player id="26284">Cabral</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235213">
+<Player id="2937">Chiumiento, David</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235215">
+<Player id="282233">Dominguez, Maxime</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235217">
+<Player id="816576">Kone, Moussa</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235219">
+<Player id="801012">Sarr, Sangone</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235223">
+<Player id="775341">Turkes, Aldin</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235675" pos="8">
+<Player id="37555">Gajic, Milan</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235677" pos="2">
+<Player id="354860">Hadergjonaj, Florent</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235679" pos="11">
+<Player id="37230">Hoarau, Guillaume</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235681" pos="10">
+<Player id="152132">Kubo, Yuya</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235683" pos="5">
+<Player id="49350">Lecjaks, Jan</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235685" pos="1">
+<Player id="149656">Mvogo, Yvon</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235687" pos="6">
+<Player id="39226">Ravet, Yoric</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235689" pos="9">
+<Player id="18784">Sulejmani, Miralem</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235693" pos="3">
+<Player id="331465">Wuthrich, Gregory</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235695" pos="7">
+<Player id="770677">Zakaria, Denis</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235691" pos="4">
+<Player id="4436">von Bergen, Steve</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235697">
+<Player id="234958">Bertone, Leonardo</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235699">
+<Player id="21924">Gerndt, Alexander</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235701">
+<Player id="4456">Nuzzolo, Raphael</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235703">
+<Player id="9019">Rochat, Alain</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235705">
+<Player id="144745">Sanogo Junior, Sekou</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235707">
+<Player id="12995">Sutter, Scott</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235709">
+<Player id="4472">Wolfli, Marco</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203243935" eventtype="10" id="339406475" time="1" type="37">
+<Text language="it">Il primo tempo è appena cominciato.</Text>
+<Text language="en">Today's referee, Stephan Klossner, has blown to start the match.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235189" eventtype="80" id="339353381" time="0" type="19">
+<Text language="it">Sono disponibili le formazioni ufficiali del match.</Text>
+<Text language="en">The big names in today's match at Letzigrund have now been confirmed.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56168059" id="339424955">
+<Text language="it">Zurigo non ha segnato in 1 delle 10 partite casalinghe di Super League in questa stagione.</Text>
+<Text language="en">FC Zurich haven't scored in 1 of their 10 home matches in Super League this season.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57264857" id="339403495">
+<Text language="it">Se Denis Zakaria riceverà un cartellino giallo nella partita di oggi, verrà squalificato visto che ha collezionato 4 cartellini gialli nel corso della stagione.</Text>
+<Text language="en">If Denis Zakaria receives a yellow card in today's match, he will be suspended after collecting 4 yellow cards so far this season.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56168047" id="339433811">
+<Text language="it">Durante gli ultimi 56 incontri, Zurigo ha vinto 18 gare, pareggiando 14, mentre Young Boys Berna ha vinto 24 volte. La differenza reti è 105-94 in favore di Young Boys Berna.</Text>
+<Text language="en">During the last 56 meetings, FC Zurich has won 18 times, there have been 14 draws while Young Boys Bern has won 24 times. The goal difference is 105-94 in the favour of Young Boys Bern.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="66215" name="Klossner, Stephan">
+<Country id="206" name="Switzerland">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="206" name="Switzerland">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+</Country>
+<City id="115" name="Zurich">
+<Name language="it">Zurigo</Name>
+<Name language="en">Zurich</Name>
+</City>
+<Stadium id="790" name="Letzigrund">
+<Name language="it">Letzigrund</Name>
+<Name language="en">Letzigrund</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

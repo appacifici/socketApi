@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="701015" generatedAt="2016-02-08T04:50:09 CET" generatedFor="2695" type="full">
+    <Sport BetradarSportId="1">
+        <Name language="en">Soccer</Name>
+        <Name language="de">Fußball</Name>
+        <Category BetradarCategoryId="48">
+            <Name language="en">Argentina</Name>
+            <Name language="de">Argentinien</Name>
+            <Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+                <Name language="en">Primera Division, Torneo Inicial</Name>
+                <Match BetradarMatchId="10325016" Id="8735436">
+                    <MatchDate>2016-02-07T23:15:00 CET</MatchDate>
+                    <Team1 BetradarTeamId="6368" UniqueTeamId="3207" formation="4-2-3-1">
+                        <Name language="en">Colon de Santa Fe</Name>
+                        <Name language="de">Colon Santa Fe</Name>
+                    </Team1>
+                    <Team2 BetradarTeamId="118090" UniqueTeamId="3221" formation="4-4-2">
+                        <Name language="en">Arsenal de Sarandi</Name>
+                    </Team2>
+                    <Status Code="0">
+                        <Name language="en">Ended</Name>
+                        <Name language="de">Beendet</Name>
+                    </Status>
+                    <CurrentPeriodStart>2016-02-08T01:07:15 CET</CurrentPeriodStart>                    
+                    <Lineups>
+                        <TeamPlayer id="198917658" pos="1" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="802472">Broun, Jorge</Player>
+                            <ShirtNumber>1</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918556" pos="2" timestamp="2016-02-07T23:07:12 CET">
+                            <Player id="249897">Castillo, Luis</Player>
+                            <ShirtNumber>4</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917662" pos="4" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="320917">Conti, German</Player>
+                            <ShirtNumber>30</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917670" pos="9" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="250011">Figueroa, Victor</Player>
+                            <ShirtNumber>16</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917666" pos="3" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="802506">Garnier, Luis</Player>
+                            <ShirtNumber>8</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917664" pos="5" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="44312">Iberbia, Raul</Player>
+                            <ShirtNumber>31</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917676" pos="10" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="33235">Lagos, Diego</Player>
+                            <ShirtNumber>7</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918562" pos="6" timestamp="2016-02-07T23:07:30 CET">
+                            <Player id="22989">Ledesma, Pablo</Player>
+                            <ShirtNumber>27</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917668" pos="7" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="369080">Poblete, Geronimo</Player>
+                            <ShirtNumber>5</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917672" pos="11" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="158255">Ruiz, Alan</Player>
+                            <ShirtNumber>10</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917674" pos="8" timestamp="2016-02-07T22:49:03 CET">
+                            <Player id="106112">Sperduti, Mauricio</Player>
+                            <ShirtNumber>18</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918584" pos="0" timestamp="2016-02-07T23:08:11 CET">
+                            <Player id="106393">Bailo, Andres</Player>
+                            <ShirtNumber>21</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918588" pos="0" timestamp="2016-02-07T23:08:11 CET">
+                            <Player id="75553">Benegas, Ismael</Player>
+                            <ShirtNumber>29</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918660" pos="0" timestamp="2016-02-07T23:10:51 CET">
+                            <Player id="857904">Boasso, Federico</Player>
+                            <ShirtNumber>26</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918590" pos="0" timestamp="2016-02-07T23:08:11 CET">
+                            <Player id="948886">Mazurek, Franco</Player>
+                            <ShirtNumber>22</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918608" pos="0" timestamp="2016-02-07T23:08:50 CET">
+                            <Player id="333809">Sain, Cristian</Player>
+                            <ShirtNumber>23</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918594" pos="0" timestamp="2016-02-07T23:08:11 CET">
+                            <Player id="955224">Silva, Nicolas</Player>
+                            <ShirtNumber>15</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918592" pos="0" timestamp="2016-02-07T23:08:11 CET">
+                            <Player id="583974">Vegetti, Pablo</Player>
+                            <ShirtNumber>20</ShirtNumber>
+                            <PlayerTeam>1</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917998" pos="11" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="79672">Bazan, Gonzalo</Player>
+                            <ShirtNumber>28</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917984" pos="4" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="22979">Bottinelli, Jonathan</Player>
+                            <ShirtNumber>6</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917994" pos="6" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="340441">Carrera, Ramiro</Player>
+                            <ShirtNumber>23</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917986" pos="5" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="249383">Corvalan, Claudio</Player>
+                            <ShirtNumber>3</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917980" pos="2" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="584428">Curado, Marcos</Player>
+                            <ShirtNumber>2</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917988" pos="7" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="844835">Gimenez, Gonzalo</Player>
+                            <ShirtNumber>15</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917982" pos="3" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="754136">Gomez, Yeimar</Player>
+                            <ShirtNumber>21</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917990" pos="8" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="166045">Papa, Gonzalo</Player>
+                            <ShirtNumber>33</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917978" pos="1" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="581786">Pellegrino, Fernando</Player>
+                            <ShirtNumber>1</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917996" pos="10" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="226544">Sanchez Sotelo</Player>
+                            <ShirtNumber>9</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198917992" pos="9" timestamp="2016-02-07T22:53:23 CET">
+                            <Player id="954512">Zaldivar, Matias</Player>
+                            <ShirtNumber>24</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>0</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918234" pos="0" timestamp="2016-02-07T22:57:43 CET">
+                            <Player id="106115">Boghossian, Joaquin</Player>
+                            <ShirtNumber>34</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198919050" timestamp="2016-02-07T23:12:50 CET">
+                            <Player id="275789">Celiz, Milton</Player>
+                            <ShirtNumber>11</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918228" pos="0" timestamp="2016-02-07T22:57:43 CET">
+                            <Player id="358928">Ferreyra, German</Player>
+                            <ShirtNumber>32</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918232" pos="0" timestamp="2016-02-07T22:57:43 CET">
+                            <Player id="221902">Lertora, Federico</Player>
+                            <ShirtNumber>14</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918230" pos="0" timestamp="2016-02-07T22:57:43 CET">
+                            <Player id="866448">Luna, Fernando</Player>
+                            <ShirtNumber>27</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918226" pos="0" timestamp="2016-02-07T22:57:43 CET">
+                            <Player id="954510">Sanabria, Gabriel</Player>
+                            <ShirtNumber>26</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                        <TeamPlayer id="198918224" pos="0" timestamp="2016-02-07T22:57:43 CET">
+                            <Player id="581628">Servio, Gaspar</Player>
+                            <ShirtNumber>31</ShirtNumber>
+                            <PlayerTeam>2</PlayerTeam>
+                            <Substitute>1</Substitute>
+                        </TeamPlayer>
+                    </Lineups>
+                    <Referee id="249767" name="Vigliano, Mauro">
+                        <Country id="10" name="Argentina">
+                            <Name language="en">Argentina</Name>
+                            <Name language="de">Argentinien</Name>
+                        </Country>
+                    </Referee>
+                    <Venue>
+                        <Country id="10" name="Argentina">
+                            <Name language="en">Argentina</Name>
+                            <Name language="de">Argentinien</Name>
+                        </Country>
+                        <City id="835" name="Santa Fe de la Vera Cruz">
+                            <Name language="en">Santa Fe de la Vera Cruz</Name>
+                        </City>
+                        <Stadium id="1566" name="Estadio Brigadier Estanislao Lopez">
+                            <Name language="en">Estadio Brigadier Estanislao Lopez</Name>
+                        </Stadium>
+                    </Venue>
+                </Match>
+                
+            </Tournament>  
+        </Category>
+    </Sport>
+</BetradarLivescoreData>

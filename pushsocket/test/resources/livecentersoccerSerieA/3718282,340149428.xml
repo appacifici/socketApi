@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="994775" generatedAt="2016-02-27T19:31:10 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="25">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+<Tournament BetradarTournamentId="1060" UniqueTournamentId="215">
+<Name language="it">Super League</Name>
+<Name language="en">Super League</Name>
+<Match BetradarMatchId="10254715" Id="7482594">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="180432" UniqueTeamId="2450">
+<Color hStripes="-1" main="16777215" number="3355647" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zurigo</Name>
+<Name language="en">FC Zurich</Name>
+</Team1>
+<Team2 BetradarTeamId="30314" UniqueTeamId="2445">
+<Color hStripes="-1" main="16750848" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3394560" number="0" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Young Boys Berna</Name>
+<Name language="en">Young Boys Bern</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="66215" name="Klossner, Stephan">
+<Country id="206" name="Switzerland">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="206" name="Switzerland">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+</Country>
+<City id="115" name="Zurich">
+<Name language="it">Zurigo</Name>
+<Name language="en">Zurich</Name>
+</City>
+<Stadium id="790" name="Letzigrund">
+<Name language="it">Letzigrund</Name>
+<Name language="en">Letzigrund</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

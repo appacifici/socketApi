@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="931255" generatedAt="2016-02-17T22:21:28 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="393">
+<Name language="it">Clubs Internazionali</Name>
+<Name language="en">International Clubs</Name>
+<Tournament BetradarTournamentId="23" UniqueTournamentId="7">
+<Name language="it">UEFA Champions League, Knockout stage</Name>
+<Name language="en">UEFA Champions League, Knockout stage</Name>
+<Match BetradarMatchId="10221879" Id="8580994">
+<MatchDate>2016-02-17T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="32154" UniqueTeamId="2702" formation="4-3-3">
+<Color hStripes="-1" main="10027008" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Roma</Name>
+<Name language="en">AS Roma</Name>
+</Team1>
+<Team2 BetradarTeamId="6494" UniqueTeamId="2829" formation="4-3-3">
+<Color hStripes="-1" main="10066329" number="16777215" sleeve="10066329" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="52224" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Real Madrid</Name>
+<Name language="en">Real Madrid</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-17T21:59:43 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-17T21:47:43 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="201040151">
+<Time>57</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="750">Cristiano Ronaldo</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="201041089" type="Yellow">
+<Time>62</Time>
+<Player id="138310">Varane, Raphael</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="201041391">
+<Time>63</Time>
+<PlayerOut id="45925">El Shaarawy, Stephan</PlayerOut>
+<PlayerIn id="14990">Dzeko, Edin</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="201041479">
+<Time>64</Time>
+<PlayerOut id="103417">Isco</PlayerOut>
+<PlayerIn id="136710">Kovacic, Mateo</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="201044193">
+<Time>77</Time>
+<PlayerOut id="21280">Vainqueur, William</PlayerOut>
+<PlayerIn id="1780">De Rossi, Daniele</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="201005245" pos="5">
+<Player id="96538">Digne, Lucas</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005257" pos="11">
+<Player id="45925">El Shaarawy, Stephan</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005239" pos="2">
+<Player id="152420">Florenzi, Alessandro</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005241" pos="3">
+<Player id="41234">Manolas, Konstantinos</Player>
+<ShirtNumber>44</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005251" pos="8">
+<Player id="44001">Nainggolan, Radja</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005255" pos="10">
+<Player id="47171">Perotti, Diego</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005247" pos="6">
+<Player id="27678">Pjanic, Miralem</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005243" pos="4">
+<Player id="142622">Rudiger, Antonio</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005253" pos="9">
+<Player id="159665">Salah, Mohamed</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005237" pos="1">
+<Player id="50490">Szczesny, Wojciech</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005249" pos="7">
+<Player id="21280">Vainqueur, William</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005265" pos="0">
+<Player id="1780">De Rossi, Daniele</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005259" pos="0">
+<Player id="2948">De Sanctis, Morgan</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005271" pos="0">
+<Player id="14990">Dzeko, Edin</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005267" pos="0">
+<Player id="46707">Falque, Iago</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005263" pos="0">
+<Player id="3382">Keita, Seydou</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005261" pos="0">
+<Player id="17744">Maicon</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201005269" pos="0">
+<Player id="1775">Totti, Francesco</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998619" pos="10">
+<Player id="3306">Benzema, Karim</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998625" pos="2">
+<Player id="138572">Carvajal, Dani</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998615" pos="11">
+<Player id="750">Cristiano Ronaldo</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998629" pos="8">
+<Player id="103417">Isco</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998617" pos="7">
+<Player id="26502">Kroos, Toni</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998623" pos="5">
+<Player id="17787">Marcelo</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998627" pos="6">
+<Player id="15466">Modric, Luka</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998609" pos="1">
+<Player id="56113">Navas, Keylor</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998613" pos="3">
+<Player id="10710">Ramos, Sergio</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998621" pos="9">
+<Player id="107414">Rodriguez, James</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998611" pos="4">
+<Player id="138310">Varane, Raphael</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998637" pos="0">
+<Player id="122951">Casemiro</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998631" pos="0">
+<Player id="18184">Casilla, Kiko</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998635" pos="0">
+<Player id="124992">Danilo</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998643" pos="0">
+<Player id="110781">Jese</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998639" pos="0">
+<Player id="136710">Kovacic, Mateo</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998633" pos="0">
+<Player id="69404">Nacho</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200998641" pos="0">
+<Player id="255239">Vazquez, Lucas</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="201044469" eventtype="156" id="334566961" time="79" type="91">
+<Text language="it">Occasione Roma nella sfida dello stadio Olimpico di Roma, ma Edin Dzeko non trova la porta!</Text>
+<Text language="en">AS Roma's Edin Dzeko gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201044379" eventtype="155" id="334566707" time="79" type="89">
+<Text language="it">Conclusione di Karim Benzema (Real Madrid) allo stadio Olimpico di Roma, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">In Rome Real Madrid drive forward through Karim Benzema. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201044291" eventtype="156" id="334566623" time="78" type="128">
+<Text language="it">Real Madrid all'attacco allo stadio Olimpico con James Rodriguez che tenta un colpo di testa, ma non trova la porta!</Text>
+<Text language="en">Real Madrid's James Rodriguez attacks the ball with his head but his effort fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201044193" eventtype="60" id="334566203" time="77" type="44">
+<Text language="it">Luciano Spalletti (Roma) fa il suo secondo cambio con Daniele De Rossi che rimpiazza William Vainqueur.</Text>
+<Text language="en">Daniele De Rossi is replacing William Vainqueur for AS Roma at Stadio Olimpico.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201043975" eventtype="172" id="334565867" time="76" type="116">
+<Text language="it">Karim Benzema va alla conclusione allo stadio Olimpico di Roma, ma il suo tiro viene bloccato da un difensore avversario!</Text>
+<Text language="en">Karim Benzema (Real Madrid) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201043395" eventtype="156" id="334564709" time="73" type="128">
+<Text language="it">Cristiano Ronaldo (Real Madrid) tenta la conclusione di testa ma la palla esce a lato.</Text>
+<Text language="en">Cristiano Ronaldo (Real Madrid) gets up for a header but cannot keep the ball on target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201043209" eventtype="156" id="334564291" time="72" type="91">
+<Text language="it">William Vainqueur (Roma) prova il tiro allo stadio Olimpico. La sua conclusione però termina fuori.</Text>
+<Text language="en">William Vainqueur of AS Roma gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201042593" eventtype="168" id="334562963" time="69" type="99">
+<Text language="it">James Rodriguez (Real Madrid) ha fatto il suo ritorno sul terreno da gioco, dopo le cure dei sanitari, allo stadio Olimpico di Roma.</Text>
+<Text language="en">Real Madrid's James Rodriguez looks ok and returns to the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201042181" eventtype="16" id="334561965" time="67" type="79">
+<Text language="it">Si torna a giocare!</Text>
+<Text language="en">Play is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201042179" eventtype="158" id="334561881" time="67" type="97">
+<Text language="it">James Rodriguez si è infortunato ed il gioco è stato al momento interrotto.</Text>
+<Text language="en">James Rodriguez is writhing in pain and play has been suspended for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201041885" eventtype="155" id="334561627" time="66" type="89">
+<Text language="it">Roma avanza e calcia in porta con Mohamed Salah. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">AS Roma's Mohamed Salah is on target but unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201041479" eventtype="60" id="334560545" time="64" type="44">
+<Text language="it">Sostituzione allo stadio Olimpico! Primo cambio per Zinedine Zidane (Real Madrid) che fa entrare sul terreno di gioco Mateo Kovacic al posto di Isco.</Text>
+<Text language="en">The away team replace Isco with Mateo Kovacic.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201041391" eventtype="60" id="334560377" time="63" type="73">
+<Text language="it">Sostituzione per la squadra che gioca di casa allo stadio Olimpico. Luciano Spalletti effettua il suo primo cambio con Stephan El Shaarawy (possibile infortunio) che lascia il posto a Edin Dzeko.</Text>
+<Text language="en">Luciano Spalletti (AS Roma) has taken off Stephan El Shaarawy who seemed to be grimacing with pain earlier. A possible injury. Edin Dzeko is the replacement.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201041089" eventtype="40" id="334559789" time="62" type="45">
+<Text language="it">Giallo per Raphael Varane (Real Madrid) allo stadio Olimpico di Roma.</Text>
+<Text language="en">Raphael Varane is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201040923" eventtype="155" id="334559537" time="61" type="89">
+<Text language="it">Conclusione Real Madrid con Karim Benzema! Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Real Madrid drive forward and Karim Benzema gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201040687" eventtype="172" id="334559285" time="60" type="116">
+<Text language="it">A Roma, Cristiano Ronaldo (Real Madrid) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Real Madrid drive upfield and Cristiano Ronaldo gets in a shot. The strike is blocked by a AS Roma defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201040575" eventtype="154" id="334559031" time="60" type="85">
+<Text language="it">L'arbitro Pavel Kralovec ha concesso un calcio d'angolo dalla destra allo stadio Olimpico di Roma. Isco (Real Madrid) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Real Madrid.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201040151" eventtype="30" id="334558947" time="57" type="139">
+<Text language="it">Assist di Marcelo.</Text>
+<Text language="en">That's a fine assist from Marcelo.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201040151" eventtype="30" id="334558777" time="57" type="36">
+<Text language="it">Real Madrid in vantaggio grazie alla rete di Cristiano Ronaldo! Il risultato è ora di 1 - 0.</Text>
+<Text language="en">Goal! Cristiano Ronaldo gives Real Madrid a 1 - 0 lead in Rome.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039937" eventtype="168" id="334558609" time="56" type="99">
+<Text language="it">Stephan El Shaarawy (Roma) è tornato in campo.</Text>
+<Text language="en">AS Roma's Stephan El Shaarawy is back in action after a slight knock.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039879" eventtype="16" id="334558527" time="56" type="79">
+<Text language="it">La partita di Roma è di nuovo in corso.</Text>
+<Text language="en">Play has been resumed at Stadio Olimpico.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039875" eventtype="158" id="334558443" time="56" type="97">
+<Text language="it">L'arbitro Pavel Kralovec ha momentaneamente interrotto la sfida dello stadio Olimpico di Roma per un infortunio occorso a Stephan El Shaarawy (Roma).</Text>
+<Text language="en">The match at Stadio Olimpico has been interrupted briefly for a check on Stephan El Shaarawy, who is down injured.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039639" eventtype="155" id="334558273" time="54" type="89">
+<Text language="it">A Olimpico Dani Carvajal (Real Madrid) va alla conclusione, senza però riuscire a gonfiare la rete.</Text>
+<Text language="en">Dani Carvajal gets his shot on target but fails to score for Real Madrid.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039349" eventtype="154" id="334557857" time="52" type="85">
+<Text language="it">A Roma Miralem Pjanic (Roma) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039217" eventtype="168" id="334557521" time="52" type="99">
+<Text language="it">James Rodriguez (Real Madrid) ha ricevuto le cure ed ora è tornato in campo allo stadio Olimpico.</Text>
+<Text language="en">James Rodriguez has recovered and rejoins the match in Rome.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039137" eventtype="16" id="334557439" time="51" type="79">
+<Text language="it">Il match dello stadio Olimpico di Roma è ripreso!</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201039133" eventtype="158" id="334557355" time="51" type="97">
+<Text language="it">James Rodriguez è a terra ed il gioco è stato momentaneamente interrotto.</Text>
+<Text language="en">The match has been stopped briefly for attention to the injured James Rodriguez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201038861" eventtype="154" id="334556935" time="50" type="85">
+<Text language="it">Allo stadio Olimpico, Miralem Pjanic (Roma) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">AS Roma have been awarded a corner by Pavel Kralovec.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201038783" eventtype="172" id="334556767" time="50" type="116">
+<Text language="it">Radja Nainggolan (Roma) allo stadio Olimpico prova un tiro che però viene respinto da uno dei difensori appostati nell'area di rigore.</Text>
+<Text language="en">Important block from the Real Madrid defence as Radja Nainggolan fires in a strike for AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201037769" eventtype="23" id="334553689" time="46" type="21">
+<Text language="it">E' iniziata la seconda frazione di gioco!</Text>
+<Text language="en">The second-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033575" eventtype="35" id="334547227" time="45" type="22">
+<Text language="it">Il fischio dell'arbitro segna la fine del primo tempo.</Text>
+<Text language="en">The first-half is over.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033305" eventtype="90" id="334546809" time="45" type="106">
+<Text language="it">Nel primo tempo saranno  1 i minuti di recupero.</Text>
+<Text language="en">Pavel Kralovec will wait an extra 1 minutes before blowing the whistle to end the first half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033157" eventtype="154" id="334546307" time="45" type="85">
+<Text language="it">Allo stadio Olimpico, Miralem Pjanic (Roma) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032405" eventtype="156" id="334545139" time="43" type="128">
+<Text language="it">Konstantinos Manolas (Roma) ci prova allo stadio Olimpico. La sua conclusione di testa non trova però lo specchio della porta.</Text>
+<Text language="en">AS Roma surge into the attack at Stadio Olimpico but Konstantinos Manolas’s header is off-target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032301" eventtype="154" id="334544971" time="42" type="85">
+<Text language="it">Angolo Roma secondo l'arbitro Pavel Kralovec. Miralem Pjanic lo batterà dalla bandierina destra.</Text>
+<Text language="en">AS Roma have been awarded a corner by Pavel Kralovec.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031745" eventtype="172" id="334543811" time="41" type="116">
+<Text language="it">Allo stadio Olimpico, Cristiano Ronaldo (Real Madrid) ci prova con un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Real Madrid's Cristiano Ronaldo gets in a shot but it is blocked by a AS Roma defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031345" eventtype="172" id="334542895" time="39" type="116">
+<Text language="it">Roma va al tiro con Sergio Ramos, ma un difensore avversario gli toglie la gioia del gol!</Text>
+<Text language="en">Sergio Ramos (Real Madrid) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031313" eventtype="154" id="334542811" time="39" type="85">
+<Text language="it">Allo stadio Olimpico, James Rodriguez (Real Madrid) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Real Madrid.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030455" eventtype="154" id="334540321" time="36" type="85">
+<Text language="it">Corner Roma allo stadio Olimpico di Roma. Miralem Pjanic batterà dalla bandierina destra.</Text>
+<Text language="en">AS Roma have been awarded a corner by Pavel Kralovec.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030367" eventtype="172" id="334540073" time="35" type="116">
+<Text language="it">Roma all'attacco allo stadio Olimpico con Miralem Pjanic. Il suo tiro viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">AS Roma push forward at Stadio Olimpico and Miralem Pjanic gets in a strike. This is blocked, however, by a determined Real Madrid defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029893" eventtype="156" id="334538907" time="34" type="91">
+<Text language="it">Ci prova Marcelo (Real Madrid), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">Real Madrid are coming forward and Marcelo gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029571" eventtype="156" id="334538241" time="33" type="91">
+<Text language="it">Allo stadio Olimpico, Real Madrid attacca con Cristiano Ronaldo. La conclusione, però, non inquadra lo specchio della porta.</Text>
+<Text language="en">Real Madrid are pushing forward but Cristiano Ronaldo's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028941" eventtype="172" id="334537079" time="30" type="116">
+<Text language="it">Occasione Real Madrid allo stadio Olimpico di Roma! Il tiro di Isco viene però intercettato da un difensore avversario.</Text>
+<Text language="en">In Rome, Isco of Real Madrid is presented with a shooting opportunity. But the strike is blocked by the covering defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028421" eventtype="153" id="334536329" time="28" type="112">
+<Text language="it">L'arbitro Pavel Kralovec fischia un fuorigioco alla squadra che gioca ospite allo stadio Olimpico di Roma.</Text>
+<Text language="en">Real Madrid are too eager and fall into an offside trap.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028069" eventtype="153" id="334535585" time="27" type="93">
+<Text language="it">Mohamed Salah (Roma) si fa sorprendere in fuorigioco.</Text>
+<Text language="en">Mohamed Salah of AS Roma is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026633" eventtype="156" id="334531941" time="22" type="128">
+<Text language="it">Occasione Real Madrid con un colpo di testa di Karim Benzema allo stadio Olimpico di Roma, ma la sua conclusione non trova lo specchio della porta!</Text>
+<Text language="en">Karim Benzema's header is off-target for Real Madrid.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026543" eventtype="154" id="334531693" time="22" type="85">
+<Text language="it">A Roma Toni Kroos (Real Madrid) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Real Madrid have been awarded a corner by Pavel Kralovec.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026473" eventtype="154" id="334531441" time="21" type="85">
+<Text language="it">Angolo Real Madrid secondo l'arbitro Pavel Kralovec. Toni Kroos lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Real Madrid.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201024903" eventtype="156" id="334528621" time="17" type="91">
+<Text language="it">Stephan El Shaarawy (Roma) cerca la rete a Roma con un tiro che, però, non trova lo specchio della porta.</Text>
+<Text language="en">AS Roma's Stephan El Shaarawy misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201023673" eventtype="154" id="334527535" time="12" type="85">
+<Text language="it">L'arbitro Pavel Kralovec ha concesso un calcio d'angolo dalla destra allo stadio Olimpico di Roma. Miralem Pjanic (Roma) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201022593" eventtype="156" id="334526531" time="8" type="91">
+<Text language="it">Real Madrid con Cristiano Ronaldo cerca la rete allo stadio Olimpico con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Cristiano Ronaldo of Real Madrid gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201021915" eventtype="168" id="334525449" time="6" type="99">
+<Text language="it">Allo stadio Olimpico Alessandro Florenzi, dopo aver ricevuto delle cure, ha fatto ritorno in campo.</Text>
+<Text language="en">AS Roma’s Alessandro Florenzi is on his feet again at Stadio Olimpico.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201021807" eventtype="154" id="334525363" time="5" type="85">
+<Text language="it">Allo stadio Olimpico, James Rodriguez (Real Madrid) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Real Madrid have been awarded a corner by Pavel Kralovec.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201021739" eventtype="16" id="334525199" time="5" type="79">
+<Text language="it">La partita è di nuovo in corso.</Text>
+<Text language="en">The match at Stadio Olimpico is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201021557" eventtype="158" id="334524865" time="4" type="97">
+<Text language="it">La partita è stata momentaneamente sospesa per prestare le cure a Alessandro Florenzi.</Text>
+<Text language="en">Play has been interrupted briefly in Rome to check on Alessandro Florenzi, who is grimacing with pain.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201020125" eventtype="10" id="334523531" time="1" type="37">
+<Text language="it">A Roma l'arbitro Pavel Kralovec ha dato il via alla gara.</Text>
+<Text language="en">Today's referee, Pavel Kralovec, has blown to start the match.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="200998609" eventtype="80" id="334514215" time="0" type="19">
+<Text language="it">Sono state rese note le formazioni ufficiali.</Text>
+<Text language="en">The big names in today's match at Stadio Olimpico have now been confirmed.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="55741645" id="334523283">
+<Text language="it">Se Karim Benzema segna contro Roma, questo sarà il 5° gol per Real Madrid in questa stagione.</Text>
+<Text language="en">If Karim Benzema scores against AS Roma it will be his 5th goal for Real Madrid this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="52460" name="Kralovec, Pavel">
+<Country id="57" name="Czech Republic">
+<Name language="it">Repubblica Ceca</Name>
+<Name language="en">Czech Republic</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="281" name="Rome">
+<Name language="it">Roma</Name>
+<Name language="en">Rome</Name>
+</City>
+<Stadium id="870" name="Stadio Olimpico">
+<Name language="it">Olimpico</Name>
+<Name language="en">Stadio Olimpico</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>50</Team1>
+<Team2>50</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>1</Team1>
+<Team2>4</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>4</Team1>
+<Team2>6</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>5</Team1>
+<Team2>10</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>6</Team1>
+<Team2>5</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>16</Team1>
+<Team2>17</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>3</Team1>
+<Team2>1</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>9</Team1>
+<Team2>5</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>9</Team1>
+<Team2>4</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

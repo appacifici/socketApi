@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995523" generatedAt="2016-02-27T20:03:01 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="1">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+<Tournament BetradarTournamentId="1" UniqueTournamentId="17">
+<Name language="it">Premier League</Name>
+<Name language="en">Premier League</Name>
+<Match BetradarMatchId="10264697" Id="7464986">
+<MatchDate>2016-02-27T18:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="94356" UniqueTeamId="8" formation="4-2-3-1">
+<Color hStripes="-1" main="16777215" number="16711731" sleeve="13369344" split="-1" squares="-1" vStripes="3342489"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="16711884" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">West Bromwich</Name>
+<Name language="en">West Bromwich Albion</Name>
+</Team1>
+<Team2 BetradarTeamId="342002" UniqueTeamId="7" formation="4-3-2-1">
+<Color hStripes="-1" main="13311" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="16711680"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Crystal Palace</Name>
+<Name language="en">Crystal Palace</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:38:55 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:35:50 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>3</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>3</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203219281">
+<Time>12</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="14235">Gardner, Craig</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal from="heading" id="203222011">
+<Time>20</Time>
+<Team1>2</Team1>
+<Team2>0</Team2>
+<Player id="50027">Dawson, Craig</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203225279">
+<Time>31</Time>
+<Team1>3</Team1>
+<Team2>0</Team2>
+<Player id="111962">Berahino, Saido</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203237987">
+<Time>48</Time>
+<Team1>3</Team1>
+<Team2>1</Team2>
+<Player id="50485">Wickham, Connor</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203220893" type="Yellow">
+<Time>17</Time>
+<Player id="50027">Dawson, Craig</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203223517" type="Yellow">
+<Time>25</Time>
+<Player id="3094">Adebayor, Emmanuel</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203242307" type="Yellow">
+<Time>64</Time>
+<Player id="3574">Cabaye, Yohan</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203229897">
+<Time>43</Time>
+<PlayerOut id="10540">Brunt, Chris</PlayerOut>
+<PlayerIn id="46347">Chester, James</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203236829">
+<Time>46</Time>
+<PlayerOut id="3094">Adebayor, Emmanuel</PlayerOut>
+<PlayerIn id="46620">Bolasie, Yannick</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203189527" pos="9">
+<Player id="111962">Berahino, Saido</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189529" pos="5">
+<Player id="10540">Brunt, Chris</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189531" pos="2">
+<Player id="50027">Dawson, Craig</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189533" pos="6">
+<Player id="765">Fletcher, Darren</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189535" pos="1">
+<Player id="10599">Foster, Ben</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189537" pos="10">
+<Player id="14235">Gardner, Craig</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189539" pos="3">
+<Player id="13357">McAuley, Gareth</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189541" pos="4">
+<Player id="7776">Olsson, Jonas</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189543" pos="11">
+<Player id="35532">Rondon, Salomon</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189545" pos="8">
+<Player id="16657">Sessegnon, Stephane</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189547" pos="7">
+<Player id="151037">Yacob, Claudio</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189571">
+<Player id="14731">Anichebe, Victor</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189573">
+<Player id="46347">Chester, James</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189577">
+<Player id="19659">Lambert, Rickie</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189579">
+<Player id="41631">McClean, James</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189581">
+<Player id="10024">Myhill, Boaz</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189583">
+<Player id="180009">Pritchard, Alex</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189575">
+<Player id="43301">Sandro</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189549" pos="11">
+<Player id="3094">Adebayor, Emmanuel</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189553" pos="6">
+<Player id="3574">Cabaye, Yohan</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189555" pos="3">
+<Player id="20278">Dann, Scott</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189557" pos="4">
+<Player id="10038">Delaney, Damien</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189559" pos="1">
+<Player id="16620">Hennessey, Wayne</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189561" pos="2">
+<Player id="39472">Kelly, Martin</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189563" pos="8">
+<Player id="9921">Ledley, Joe</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189565" pos="10">
+<Player id="38130">Mutch, Jordon</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189567" pos="5">
+<Player id="39183">Ward, Joel</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189569" pos="7">
+<Player id="50485">Wickham, Connor</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189551" pos="9">
+<Player id="111850">Zaha, Wilfried</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189585">
+<Player id="46620">Bolasie, Yannick</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189587">
+<Player id="3233">Chamakh, Marouane</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189589">
+<Player id="232118">Gayle, Dwight</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189591">
+<Player id="24685">Jedinak, Mile</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189593">
+<Player id="38639">Lee, Chung Yong</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189595">
+<Player id="10597">Mariappa, Adrian</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189597">
+<Player id="631">Speroni, Julian</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203244307" eventtype="155" id="339409209" time="71" type="89">
+<Text language="it">A The Hawthorns Stephane Sessegnon (West Bromwich) va alla conclusione, senza però riuscire a gonfiare la rete.</Text>
+<Text language="en">Stephane Sessegnon gets his shot on target but fails to score for West Bromwich Albion.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243841" eventtype="154" id="339405891" time="69" type="85">
+<Text language="it">Allo stadio The Hawthorns, Craig Gardner (West Bromwich) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">West Bromwich Albion have been awarded a corner by Jonathan Moss.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242307" eventtype="40" id="339397531" time="64" type="45">
+<Text language="it">Primo cartellino giallo per Yohan Cabaye (Crystal Palace).</Text>
+<Text language="en">Yohan Cabaye is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240457" eventtype="154" id="339383527" time="56" type="85">
+<Text language="it">L'arbitro Jonathan Moss ha concesso un calcio d'angolo dalla sinistra allo stadio The Hawthorns di West Bromwich. Yohan Cabaye (Crystal Palace) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Crystal Palace.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240071" eventtype="154" id="339379953" time="55" type="85">
+<Text language="it">Corner West Bromwich allo stadio The Hawthorns di West Bromwich. Craig Gardner batterà dalla bandierina destra.</Text>
+<Text language="en">West Bromwich Albion have been awarded a corner by Jonathan Moss.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238785" eventtype="155" id="339371845" time="51" type="122">
+<Text language="it">West Bromwich in attacco! La squadra crea una buona opportunità con Saido Berahino, ma sfortuna vuole che la palla finisca sulla traversa!</Text>
+<Text language="en">Saido Berahino hits the bar! Nearly a goal there for West Bromwich Albion.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238627" eventtype="154" id="339370593" time="51" type="85">
+<Text language="it">Angolo Crystal Palace secondo l'arbitro Jonathan Moss. Yohan Cabaye lo batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Crystal Palace.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238531" eventtype="154" id="339370011" time="50" type="85">
+<Text language="it">Allo stadio The Hawthorns, Jordon Mutch (Crystal Palace) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Crystal Palace have been awarded a corner by Jonathan Moss.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237987" eventtype="30" id="339371429" time="48" type="139">
+<Text language="it">Damien Delaney ha realizzato l'assiste del gol.</Text>
+<Text language="en">Damien Delaney with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237987" eventtype="30" id="339365539" time="48" type="24">
+<Text language="it">Crystal Palace in gol con Connor Wickham! La squadra che gioca ospite ha accorciato le distanze, il risultato è ora di 1 - 3.</Text>
+<Text language="en">Connor Wickham keeps the away team in the match by reducing the deficit to 1 - 3.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237617" eventtype="156" id="339363963" time="48" type="128">
+<Text language="it">Occasione West Bromwich con un colpo di testa di Craig Gardner allo stadio The Hawthorns di West Bromwich, ma la sua conclusione non trova lo specchio della porta!</Text>
+<Text language="en">West Bromwich Albion attack but Craig Gardner's header doesn't find the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236867" eventtype="23" id="339358585" time="46" type="21">
+<Text language="it">L'arbitro Jonathan Moss ha dato il via alla ripresa del match allo stadio The Hawthorns.</Text>
+<Text language="en">The second half has started at The Hawthorns.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236829" eventtype="60" id="339358253" time="46" type="44">
+<Text language="it">Sostituzione allo stadio The Hawthorns! Primo cambio per Alan Pardew (Crystal Palace) che fa entrare sul terreno di gioco Yannick Bolasie al posto di Emmanuel Adebayor.</Text>
+<Text language="en">Yannick Bolasie is replacing Emmanuel Adebayor for Crystal Palace at The Hawthorns.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232115" eventtype="35" id="339334733" time="45" type="22">
+<Text language="it">Si è concluso il primo tempo.</Text>
+<Text language="en">The ref's whistle signals the end of the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232077" eventtype="154" id="339334399" time="45" type="85">
+<Text language="it">A West Bromwich Wilfried Zaha (Crystal Palace) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to Crystal Palace.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231985" eventtype="172" id="339333899" time="45" type="116">
+<Text language="it">Crystal Palace all'attacco con Joe Ledley che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">Crystal Palace drive upfield and Joe Ledley gets in a shot. The strike is blocked by a West Bromwich Albion defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231951" eventtype="172" id="339333815" time="45" type="116">
+<Text language="it">A West Bromwich, Jordon Mutch (Crystal Palace) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Jordon Mutch (Crystal Palace) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231885" eventtype="172" id="339333069" time="45" type="116">
+<Text language="it">West Bromwich va al tiro con Jordon Mutch, ma un difensore avversario gli toglie la gioia del gol!</Text>
+<Text language="en">Jordon Mutch (Crystal Palace) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231499" eventtype="154" id="339331329" time="45" type="85">
+<Text language="it">Allo stadio The Hawthorns, Craig Gardner (West Bromwich) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">West Bromwich Albion have been awarded a corner by Jonathan Moss.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231261" eventtype="155" id="339330833" time="45" type="120">
+<Text language="it">Allo stadio The Hawthorns palo di Craig Gardner (West Bromwich).</Text>
+<Text language="en">West Bromwich Albion drive into the zone and Craig Gardner is presented with a brilliant opportunity. But his strike hits the upright!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230471" eventtype="90" id="339326175" time="45" type="106">
+<Text language="it">Allo stadio The Hawthorns saranno 5 i minuti di recupero nel primo tempo.</Text>
+<Text language="en">5 minutes will be added to the first half in West Bromwich.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229905" eventtype="16" id="339323861" time="44" type="79">
+<Text language="it">La partita è di nuovo in corso.</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229897" eventtype="60" id="339323777" time="43" type="73">
+<Text language="it">Chris Brunt (West Bromwich) non sembra in grado di continuare. Lo sostituisce James Chester.</Text>
+<Text language="en">James Chester (West Bromwich Albion) has replaced the possibly injured Chris Brunt at The Hawthorns.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229167" eventtype="158" id="339320879" time="41" type="97">
+<Text language="it">Gara temporaneamente sospesa per l'infortunio a Chris Brunt (West Bromwich)!</Text>
+<Text language="en">Chris Brunt is writhing in pain and play has been suspended for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228321" eventtype="156" id="339315739" time="39" type="128">
+<Text language="it">Buona occasione Crystal Palace con Jordon Mutch! Il suo colpo di testa, però, non trova lo specchio della porta.</Text>
+<Text language="en">Crystal Palace surge into the attack at The Hawthorns but Jordon Mutch’s header is off-target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225279" eventtype="30" id="339304063" time="31" type="139">
+<Text language="it">Stephane Sessegnon ha servito l'assist per il gol.</Text>
+<Text language="en">Great play from Stephane Sessegnon to set up the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225279" eventtype="30" id="339303319" time="31" type="35">
+<Text language="it">West Bromwich in goal! La squadra si porta così sul 3 - 0 con Saido Berahino.</Text>
+<Text language="en">Goal! West Bromwich Albion extend their lead to 3 - 0 through Saido Berahino.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224167" eventtype="168" id="339300501" time="28" type="99">
+<Text language="it">Yohan Cabaye (Crystal Palace) ha ricevuto le cure ed ora è tornato in campo allo stadio The Hawthorns.</Text>
+<Text language="en">Yohan Cabaye returns to the field for Crystal Palace after picking up a slight injury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224077" eventtype="16" id="339300247" time="28" type="79">
+<Text language="it">Il match dello stadio The Hawthorns di West Bromwich è ripreso!</Text>
+<Text language="en">The match is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223731" eventtype="158" id="339299403" time="26" type="97">
+<Text language="it">La gara dello stadio The Hawthorns di West Bromwich è stata temporaneamente interrotta per l'infortunio di Yohan Cabaye (Crystal Palace).</Text>
+<Text language="en">The match has been stopped briefly for attention to the injured Yohan Cabaye.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223517" eventtype="40" id="339298323" time="25" type="45">
+<Text language="it">Emmanuel Adebayor (Crystal Palace) ha ricevuto un cartellino giallo dall'arbitro Jonathan Moss.</Text>
+<Text language="en">Emmanuel Adebayor (Crystal Palace) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223463" eventtype="156" id="339298157" time="25" type="91">
+<Text language="it">Allo stadio The Hawthorns di West Bromwich occasione West Bromwich! Ci prova Craig Gardner, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">West Bromwich Albion's Craig Gardner gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222011" eventtype="30" id="339292343" time="20" type="139">
+<Text language="it">L'assist del gol è di Craig Gardner.</Text>
+<Text language="en">Craig Gardner instrumental with a fine assist.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222011" eventtype="30" id="339291341" time="20" type="134">
+<Text language="it">Gol! Craig Dawson (West Bromwich) aumenta il vantaggio per la sua squadra con il colpo di testa che porta la partita sul risultato di 2 - 0.</Text>
+<Text language="en">Goal! West Bromwich Albion increase their lead to 2 - 0 through a well-placed header from Craig Dawson.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221361" eventtype="156" id="339287603" time="18" type="128">
+<Text language="it">Connor Wickham (Crystal Palace) tenta la conclusione di testa ma la palla esce a lato.</Text>
+<Text language="en">In West Bromwich, Connor Wickham (Crystal Palace) misses the target with a header.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221307" eventtype="154" id="339286935" time="18" type="85">
+<Text language="it">L'arbitro Jonathan Moss ha concesso un calcio d'angolo dalla destra allo stadio The Hawthorns di West Bromwich. Yohan Cabaye (Crystal Palace) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Crystal Palace.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220893" eventtype="40" id="339283869" time="17" type="45">
+<Text language="it">Craig Dawson (West Bromwich) è finito sul taccuino dell'arbitro Jonathan Moss per un cartellino giallo.</Text>
+<Text language="en">Craig Dawson (West Bromwich Albion) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220423" eventtype="156" id="339280885" time="15" type="91">
+<Text language="it">Craig Gardner (West Bromwich) prova il tiro allo stadio The Hawthorns. La sua conclusione però termina fuori.</Text>
+<Text language="en">In West Bromwich West Bromwich Albion attack through Craig Gardner. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220229" eventtype="172" id="339279803" time="15" type="116">
+<Text language="it">Craig Gardner (West Bromwich) allo stadio The Hawthorns prova un tiro che però viene respinto da uno dei difensori appostati nell'area di rigore.</Text>
+<Text language="en">West Bromwich Albion push forward at The Hawthorns and Craig Gardner gets in a strike. This is blocked, however, by a determined Crystal Palace defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219281" eventtype="30" id="339274009" time="12" type="36">
+<Text language="it">Rete di Craig Gardner (West Bromwich) a West Bromwich! La squadra che gioca di casa conduce ora 1 - 0.</Text>
+<Text language="en">Goal! The home team take a 1 - 0 lead through Craig Gardner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219261" eventtype="172" id="339272853" time="12" type="116">
+<Text language="it">Salomon Rondon (West Bromwich) ci prova con un tiro che viene però bloccato da un difensore avversario.</Text>
+<Text language="en">Salomon Rondon (West Bromwich Albion) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213467" eventtype="10" id="339242039" time="1" type="37">
+<Text language="it">Il match ha preso il via!</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203189527" eventtype="80" id="339185283" time="0" type="19">
+<Text language="it">Sono ora disponibili le formazioni ufficiali per la partita di oggi allo stadio The Hawthorns.</Text>
+<Text language="en">The team line-ups for today's match at The Hawthorns are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="74250" name="Moss, Jonathan">
+<Country id="240" name="England">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="240" name="England">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+</Country>
+<City id="570" name="West Bromwich">
+<Name language="it">West Bromwich</Name>
+<Name language="en">West Bromwich</Name>
+</City>
+<Stadium id="1136" name="The Hawthorns">
+<Name language="it">The Hawthorns</Name>
+<Name language="en">The Hawthorns</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>44</Team1>
+<Team2>56</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>6</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>3</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>14</Team1>
+<Team2>9</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>3</Team1>
+<Team2>5</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>15</Team1>
+<Team2>13</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>6</Team1>
+<Team2>7</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>9</Team1>
+<Team2>14</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

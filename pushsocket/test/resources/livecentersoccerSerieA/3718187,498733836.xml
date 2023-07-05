@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="994739" generatedAt="2016-02-27T19:29:36 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="32">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+<Tournament BetradarTournamentId="37" UniqueTournamentId="54">
+<Name language="it">Segunda Division</Name>
+<Name language="en">Segunda Division</Name>
+<Match BetradarMatchId="9585518" Id="7616646">
+<MatchDate>2016-02-27T18:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="7280104" UniqueTeamId="54127" formation="4-4-2">
+<Color hStripes="13369344" main="26316" number="16776960" sleeve="26316" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Llagostera</Name>
+<Name language="en">UE Llagostera</Name>
+</Team1>
+<Team2 BetradarTeamId="1289427" UniqueTeamId="24264" formation="4-4-2">
+<Color hStripes="-1" main="16777215" number="16711680" sleeve="16777215" split="-1" squares="-1" vStripes="16711680"/>
+<GoalkeeperColor hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Girona</Name>
+<Name language="en">Girona FC</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T19:02:33 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Cards>
+<Card id="203234263" type="Yellow">
+<Time>71</Time>
+<Player id="129472">Borja</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203227249">
+<Time>46</Time>
+<PlayerOut id="327307">Mas, Carles</PlayerOut>
+<PlayerIn id="26054">Richy</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203230765">
+<Time>54</Time>
+<PlayerOut id="175755">Eloi</PlayerOut>
+<PlayerIn id="129472">Borja</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203232155">
+<Time>55</Time>
+<PlayerOut id="55135">Tebar, Marcos</PlayerOut>
+<PlayerIn id="44978">Tito</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203231065">
+<Time>60</Time>
+<PlayerOut id="27837">Poquet, Natalio</PlayerOut>
+<PlayerIn id="122661">Benja</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203233251">
+<Time>67</Time>
+<PlayerOut id="175177">Imaz Balleste, Jesus</PlayerOut>
+<PlayerIn id="92087">Fofo</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203189079" pos="3">
+<Player id="70763">Escassi, Alberto</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189081" pos="4">
+<Player id="13999">Herrero, Chus</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189091" pos="9">
+<Player id="175177">Imaz Balleste, Jesus</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189077" pos="2">
+<Player id="104791">Jordi</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189093" pos="10">
+<Player id="12814">Juanjo</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189089" pos="8">
+<Player id="15515">Pitu</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189095" pos="11">
+<Player id="27837">Poquet, Natalio</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189085" pos="6">
+<Player id="349146">Querol, David</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189075" pos="1">
+<Player id="32044">Rene</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189083" pos="5">
+<Player id="313262">Samu</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203189087" pos="7">
+<Player id="55135">Tebar, Marcos</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190197" pos="0">
+<Player id="122661">Benja</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190193" pos="0">
+<Player id="284203">Chumbi</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190195" pos="0">
+<Player id="92087">Fofo</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190185" pos="0">
+<Player id="129456">Moragon, Jose</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190191" pos="0">
+<Player id="129453">Ruyman</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190189" pos="0">
+<Player id="52666">Sanchez, Emilio</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203190187" pos="0">
+<Player id="44978">Tito</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186053" pos="9">
+<Player id="141897">Aday</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186045" pos="5">
+<Player id="139433">Alamo</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186035" pos="1">
+<Player id="26061">Becerra, Isaac</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186049" pos="7">
+<Player id="175755">Eloi</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186037" pos="2">
+<Player id="267747">Granell, Alex</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186055" pos="10">
+<Player id="346326">Herrera, Cristian</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186057" pos="11">
+<Player id="351140">Jaime</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186047" pos="6">
+<Player id="5676">Kiko</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186041" pos="3">
+<Player id="88528">Lejeune, Florian</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186043" pos="4">
+<Player id="327307">Mas, Carles</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186051" pos="8">
+<Player id="263505">Pons, Pere</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186065" pos="0">
+<Player id="259339">Alcaraz, Ruben</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186067" pos="0">
+<Player id="129472">Borja</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186061" pos="0">
+<Player id="192430">Clerc, Carlos</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186071" pos="0">
+<Player id="68643">Lekic, Dejan</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186069" pos="0">
+<Player id="586598">Morilla, Jairo</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186059" pos="0">
+<Player id="299908">Parreno, German</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203186063" pos="0">
+<Player id="26054">Richy</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203234263" eventtype="40" id="339345497" time="71" type="45">
+<Text language="it">Borja (Girona) riceve un'ammonizione.</Text>
+<Text language="en">Borja (Girona FC) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233807" eventtype="153" id="339343095" time="70" type="93">
+<Text language="it">Fuorigioco di Jaime(Girona) nella sfida dello stadio Estadi Palamos Costa Brava di Palamos!</Text>
+<Text language="en">Girona FC's Jaime has run offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233697" eventtype="154" id="339342433" time="69" type="85">
+<Text language="it">L'arbitro Jose Luis Munuera Montero ha concesso un calcio d'angolo dalla sinistra allo stadio Estadi Palamos Costa Brava di Palamos. Alex Granell (Girona) si appresta a batterlo.</Text>
+<Text language="en">Girona FC have been awarded a corner by Jose Luis Munuera Montero.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233251" eventtype="60" id="339340783" time="67" type="44">
+<Text language="it">Terzo cambio Llagostera: Jesus Imaz Balleste lascia il posto a Fofo.</Text>
+<Text language="en">The home team replace Jesus Imaz Balleste with Fofo.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233019" eventtype="155" id="339340037" time="67" type="118">
+<Text language="it">Jaime (Girona) prova a segnare di testa, ma la difesa avversaria intercetta la conclusione!</Text>
+<Text language="en">Jaime (Girona FC) goes close with a header but the ball is scrambled away by UE Llagostera defenders.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232251" eventtype="155" id="339335231" time="64" type="89">
+<Text language="it">Llagostera avanza e Pitu va alla conclusione. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">UE Llagostera push forward through Pitu, whose finish on goal is saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231845" eventtype="172" id="339332819" time="63" type="116">
+<Text language="it">A Palamos, Alamo (Girona) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Girona FC push forward at Estadi Palamos Costa Brava and Alamo gets in a strike. This is blocked, however, by a determined UE Llagostera defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231065" eventtype="60" id="339329585" time="60" type="44">
+<Text language="it">Benja rimpiazza Natalio Poquet per la squadra di casa allo stadio Estadi Palamos Costa Brava.</Text>
+<Text language="en">Oriol Alsina (UE Llagostera) is making a first substitution, with Benja replacing Natalio Poquet.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229663" eventtype="156" id="339322701" time="56" type="91">
+<Text language="it">Girona si spinge in avanti e con Aday cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Girona FC are coming forward and Aday gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232155" eventtype="60" id="339334817" time="55" type="44">
+<Text language="it">Cambio Llagostera: Tito è il sostituto di Marcos Tebar.</Text>
+<Text language="en">The home team have replaced Marcos Tebar with Tito. This is the second substitution made today by Oriol Alsina.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230765" eventtype="60" id="339328003" time="54" type="44">
+<Text language="it">Cambio Girona! Borja sostituisce Eloi. Questo e' il secondo cambio per Pablo Machin.</Text>
+<Text language="en">Borja is on a sub for Eloi for Girona FC.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228205" eventtype="156" id="339315409" time="51" type="91">
+<Text language="it">Llagostera con Juanjo cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Juanjo for UE Llagostera gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227523" eventtype="154" id="339311929" time="49" type="85">
+<Text language="it">Allo stadio Estadi Palamos Costa Brava, Aday (Girona) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Corner awarded to Girona FC.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226717" eventtype="153" id="339308293" time="47" type="112">
+<Text language="it">L'arbitro Jose Luis Munuera Montero fischia un fuorigioco alla squadra che gioca di casa allo stadio Estadi Palamos Costa Brava di Palamos.</Text>
+<Text language="en">UE Llagostera advance rapidly upfield but Jose Luis Munuera Montero blows for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227249" eventtype="60" id="339310277" time="46" type="44">
+<Text language="it">Primo cambio per la squadra che gioca in ospite. Richy prende il posto di Carles Mas.</Text>
+<Text language="en">Richy is replacing Carles Mas for Girona FC at Estadi Palamos Costa Brava.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225977" eventtype="23" id="339305967" time="46" type="21">
+<Text language="it">Ha preso il via il secondo tempo della gara dello stadio Estadi Palamos Costa Brava.</Text>
+<Text language="en">The second-half is underway in Palamos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221571" eventtype="35" id="339288187" time="45" type="22">
+<Text language="it">Il duplice fischio del direttore di gara ha messo fine al primo tempo.</Text>
+<Text language="en">The first-half has come to a close in Palamos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221265" eventtype="156" id="339286603" time="45" type="91">
+<Text language="it">Occasione Girona nella sfida dello stadio Estadi Palamos Costa Brava di Palamos, ma Alamo non trova la porta!</Text>
+<Text language="en">Girona FC's Alamo misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220877" eventtype="156" id="339283619" time="45" type="91">
+<Text language="it">Allo stadio Estadi Palamos Costa Brava, Girona attacca con Cristian Herrera. La conclusione, però, non inquadra lo specchio della porta.</Text>
+<Text language="en">Girona FC's Cristian Herrera gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220451" eventtype="155" id="339281297" time="45" type="89">
+<Text language="it">Girona con Jaime cerca il gol, senza fortuna, allo stadio Estadi Palamos Costa Brava.</Text>
+<Text language="en">Jaime for Girona FC drives towards goal at Estadi Palamos Costa Brava. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218933" eventtype="155" id="339269635" time="41" type="89">
+<Text language="it">Occasione Llagostera con Natalio Poquet, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">UE Llagostera's Natalio Poquet is on target but unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218395" eventtype="156" id="339266483" time="40" type="128">
+<Text language="it">Llagostera in attacco! Juanjo sfiora la rete di testa!</Text>
+<Text language="en">UE Llagostera's Juanjo attacks the ball with his head but his effort fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203216557" eventtype="153" id="339258953" time="37" type="112">
+<Text language="it">Llagostera all'attacco, ma la squadra è stata fermata dall'arbitro Jose Luis Munuera Montero per un fuorigioco.</Text>
+<Text language="en">UE Llagostera are too eager and fall into an offside trap.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214887" eventtype="172" id="339249501" time="34" type="116">
+<Text language="it">David Querol (Llagostera) prova un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">UE Llagostera's David Querol gets in a shot but it is blocked by a Girona FC defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214787" eventtype="155" id="339248751" time="33" type="89">
+<Text language="it">Llagostera ci prova con un tiro in porta di David Querolallo stadioEstadi Palamos Costa Brava. Conclusione che però non va a buon fine.</Text>
+<Text language="en">David Querol gets his shot on target but fails to score for UE Llagostera.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214403" eventtype="155" id="339246849" time="33" type="89">
+<Text language="it">Girona avanza e calcia in porta con Eloi. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">Girona FC's Eloi gets in a shot on goal at Estadi Palamos Costa Brava. But the effort is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214367" eventtype="172" id="339246681" time="33" type="116">
+<Text language="it">Girona all'attacco con Alex Granell che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">Alex Granell (Girona FC) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213335" eventtype="155" id="339241043" time="30" type="89">
+<Text language="it">Eloi (Girona) cerca il gol senza fortuna con un tiro nello specchio della porta allo stadio Estadi Palamos Costa Brava.</Text>
+<Text language="en">Girona FC drive forward and Eloi gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203212335" eventtype="154" id="339237907" time="28" type="85">
+<Text language="it">A Palamos Pitu (Llagostera) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">UE Llagostera have been awarded a corner by Jose Luis Munuera Montero.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203212145" eventtype="156" id="339236587" time="28" type="91">
+<Text language="it">Jordi (Llagostera) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">In Palamos UE Llagostera attack through Jordi. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210735" eventtype="16" id="339228729" time="24" type="79">
+<Text language="it">Si torna a giocare!</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210657" eventtype="168" id="339228481" time="24" type="99">
+<Text language="it">Isaac Becerra (Girona) dopo le cure ha avuto il consenso dell'arbitro per ritornare in campo.</Text>
+<Text language="en">Isaac Becerra is back on his feet again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203209623" eventtype="158" id="339222031" time="21" type="97">
+<Text language="it">La gara dello stadio Estadi Palamos Costa Brava di Palamos è stata temporaneamente interrotta per l'infortunio di Isaac Becerra (Girona).</Text>
+<Text language="en">Attention is being given to Girona FC’s Isaac Becerra and play has been suspended briefly.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203208175" eventtype="154" id="339218477" time="18" type="85">
+<Text language="it">Allo stadio Estadi Palamos Costa Brava, Pitu (Llagostera) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to UE Llagostera.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203206441" eventtype="155" id="339213247" time="15" type="118">
+<Text language="it">Aday (Girona) ci prova con un colpo di testa che viene però intercettato bene dalla difesa della squadra avversaria.</Text>
+<Text language="en">In Palamos, Aday (Girona FC) gets his head to the ball but the strike is cleared by an untiring defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203205555" eventtype="156" id="339210847" time="13" type="128">
+<Text language="it">Buona occasione Llagostera con Juanjo! Il suo colpo di testa, però, non trova lo specchio della porta.</Text>
+<Text language="en">Juanjo (UE Llagostera) gets up for a header but cannot keep the ball on target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203205503" eventtype="154" id="339209851" time="13" type="85">
+<Text language="it">Angolo Llagostera secondo l'arbitro Jose Luis Munuera Montero. Pitu lo batterà dalla bandierina destra.</Text>
+<Text language="en">UE Llagostera have been awarded a corner by Jose Luis Munuera Montero.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203200753" eventtype="156" id="339197953" time="6" type="91">
+<Text language="it">Ci prova Jesus Imaz Balleste (Llagostera), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">UE Llagostera are pushing forward but Jesus Imaz Balleste's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203200301" eventtype="154" id="339197455" time="5" type="85">
+<Text language="it">Corner Llagostera allo stadio Estadi Palamos Costa Brava di Palamos. Pitu batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to UE Llagostera.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203199973" eventtype="172" id="339196793" time="5" type="116">
+<Text language="it">Girona va al tiro con Pitu, ma un difensore avversario gli toglie la gioia del gol!</Text>
+<Text language="en">UE Llagostera drive upfield and Pitu gets in a shot. The strike is blocked by a Girona FC defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203198497" eventtype="156" id="339193989" time="3" type="91">
+<Text language="it">Occasione Llagostera con Natalio Poquet! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">UE Llagostera's Natalio Poquet breaks free at Estadi Palamos Costa Brava. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203198335" eventtype="155" id="339193327" time="3" type="89">
+<Text language="it">Eloi (Girona) ha calciato in porta. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">In Palamos Girona FC drive forward through Eloi. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203196403" eventtype="10" id="339190097" time="1" type="37">
+<Text language="it">L'arbitro fischia l'inizio dell'incontro.</Text>
+<Text language="en">The first-half is just kicking off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203186035" eventtype="80" id="339174065" time="0" type="19">
+<Text language="it">Sono state inserite le le formazioni ufficiali.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57231949" id="339188355">
+<Text language="it">Se David Querol segna contro Girona, questo sarà il 5° gol per Llagostera in questa stagione.</Text>
+<Text language="en">If David Querol scores against Girona FC it will be his 5th goal for UE Llagostera this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="129521" name="Munuera Montero, Jose Luis">
+<Country id="199" name="Spain">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="199" name="Spain">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+</Country>
+<City id="9056" name="Palamos">
+<Name language="it">Palamos</Name>
+<Name language="en">Palamos</Name>
+</City>
+<Stadium id="15150" name="Estadi Palamos Costa Brava">
+<Name language="it">Estadi Palamos Costa Brava</Name>
+<Name language="en">Estadi Palamos Costa Brava</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>54</Team1>
+<Team2>46</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>3</Team1>
+<Team2>6</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>6</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>8</Team1>
+<Team2>12</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>5</Team1>
+<Team2>2</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>2</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>20</Team1>
+<Team2>22</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>6</Team1>
+<Team2>3</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>9</Team1>
+<Team2>7</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>10</Team1>
+<Team2>7</Team2>
+</Fouls>
+</Statistics>
+</Match>
+<Match BetradarMatchId="9582571" Id="7616656">
+<MatchDate>2016-02-27T18:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="7136816" UniqueTeamId="24324" formation="4-4-2">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Athletic Bilbao B</Name>
+<Name language="en">Athletic Bilbao B</Name>
+</Team1>
+<Team2 BetradarTeamId="808713" UniqueTeamId="6195" formation="4-4-2">
+<Color hStripes="-1" main="16777215" number="13311" sleeve="16777215" split="-1" squares="-1" vStripes="13311"/>
+<GoalkeeperColor hStripes="-1" main="16737996" number="0" sleeve="16737996" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">SD Ponferradina</Name>
+<Name language="en">SD Ponferradina</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:26:01 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:00:59 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>3</Team1>
+<Team2>2</Team2>
+</Score>
+<Score type="Period1">
+<Team1>2</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203211059">
+<Time>24</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="327277">Aketxe, Ager</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203215241">
+<Time>34</Time>
+<Team1>2</Team1>
+<Team2>0</Team2>
+<Player id="327277">Aketxe, Ager</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203219313">
+<Time>42</Time>
+<Team1>2</Team1>
+<Team2>1</Team2>
+<Player id="141876">Acoran</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal id="203228693">
+<Time>54</Time>
+<Team1>3</Team1>
+<Team2>1</Team2>
+<Player id="880754">Santamaria, Gorka</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203233631">
+<Time>70</Time>
+<Team1>3</Team1>
+<Team2>2</Team2>
+<Player id="803448">Melero, Gonzalo</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203232011" type="Yellow">
+<Time>65</Time>
+<Player id="345183">Aguza, Sergio</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203232423" type="Yellow">
+<Time>66</Time>
+<Player id="869158">Iriondo, Urtzi</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203229703">
+<Time>48</Time>
+<PlayerOut id="12775">Hume, Iain</PlayerOut>
+<PlayerIn id="44633">Caiado, David</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203229609">
+<Time>57</Time>
+<PlayerOut id="175257">Infante, Pablo</PlayerOut>
+<PlayerIn id="124042">Khomchenovskiy, Dmitro</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203233047">
+<Time>68</Time>
+<PlayerOut id="592094">Guarrotxena, Iker</PlayerOut>
+<PlayerIn id="355072">Villalibre Molina, Asier</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203169953" pos="11">
+<Player id="327277">Aketxe, Ager</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169949" pos="9">
+<Player id="880288">Alvarez, Yeray</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169941" pos="5">
+<Player id="253301">Etxeberria, Markel</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169937" pos="3">
+<Player id="188373">Gil, Oscar</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169943" pos="6">
+<Player id="592094">Guarrotxena, Iker</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169939" pos="4">
+<Player id="869158">Iriondo, Urtzi</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169945" pos="7">
+<Player id="588566">Lopez, Unai</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169935" pos="2">
+<Player id="96363">Ramalho, Jonas</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169933" pos="1">
+<Player id="791759">Remiro, Alex</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169951" pos="10">
+<Player id="880754">Santamaria, Gorka</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203169947" pos="8">
+<Player id="359742">Vesga Arruti, Mikel</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176165">
+<Player id="605650">Cordoba, Inigo</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176153">
+<Player id="597944">Felipe Gonzalez, Jon Ander</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176161">
+<Player id="880418">Iru, Jon</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176163">
+<Player id="880458">Olaetxea, Lander</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176155">
+<Player id="253303">Saborit, Enric</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176157">
+<Player id="253305">Seguin, Aitor</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176159">
+<Player id="355072">Villalibre Molina, Asier</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170935" pos="8">
+<Player id="141876">Acoran</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170931" pos="6">
+<Player id="345183">Aguza, Sergio</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170937" pos="9">
+<Player id="232440">Andy</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170927" pos="4">
+<Player id="52139">Baro, Alan</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170925" pos="3">
+<Player id="148587">Casado, Jorge</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170939" pos="10">
+<Player id="12775">Hume, Iain</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170941" pos="11">
+<Player id="175257">Infante, Pablo</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170933" pos="7">
+<Player id="803448">Melero, Gonzalo</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170929" pos="5">
+<Player id="144606">Miquel, Ignasi</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170921" pos="1">
+<Player id="138314">Moldovan, Dinu</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203170923" pos="2">
+<Player id="48558">Seoane, Diego</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176175">
+<Player id="28225">Alvaro</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176167">
+<Player id="23393">Basha, Vullnet</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176173">
+<Player id="44633">Caiado, David</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176179">
+<Player id="26059">Dominguez, Alberto</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176169">
+<Player id="594834">Jebor, William</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176171">
+<Player id="124042">Khomchenovskiy, Dmitro</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203176177">
+<Player id="41400">Pavon</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203234323" eventtype="155" id="339345997" time="73" type="89">
+<Text language="it">Athletic Bilbao B avanza e Asier Villalibre Molina va alla conclusione. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Asier Villalibre Molina of Athletic Bilbao B smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233631" eventtype="30" id="339342517" time="70" type="24">
+<Text language="it">SD Ponferradina in gol con Gonzalo Melero! Ora il match si fa interessante, il risultato è ora infatti di 2 - 3.</Text>
+<Text language="en">Gonzalo Melero keeps the away team in the match by reducing the deficit to 2 - 3.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203233047" eventtype="60" id="339339789" time="68" type="44">
+<Text language="it">Cambio Athletic Bilbao B! Il tecnico Cuco Ziganda fa il suo primo cambio sostituendo Iker Guarrotxena con Asier Villalibre Molina.</Text>
+<Text language="en">The home team have replaced Iker Guarrotxena with Asier Villalibre Molina. This is the first substitution made today by Cuco Ziganda.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232423" eventtype="40" id="339335979" time="66" type="45">
+<Text language="it">Urtzi Iriondo (Athletic Bilbao B) è finito sul taccuino dell'arbitro David Medie Jimenez per un cartellino giallo.</Text>
+<Text language="en">Urtzi Iriondo for Athletic Bilbao B has been booked by David Medie Jimenez and receives a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232011" eventtype="40" id="339334149" time="65" type="45">
+<Text language="it">Sergio Aguza (SD Ponferradina) è stato ammonito e dovrà fare attenzione a non prendere il secondo giallo.</Text>
+<Text language="en">Sergio Aguza is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203231571" eventtype="156" id="339331413" time="63" type="91">
+<Text language="it">Athletic Bilbao B si spinge in avanti ma Markel Etxeberria con il suo tiro non indovina la porta.</Text>
+<Text language="en">Markel Etxeberria of Athletic Bilbao B gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230947" eventtype="153" id="339328755" time="61" type="93">
+<Text language="it">Gorka Santamaria (Athletic Bilbao B) è stato colto in fuorigioco.</Text>
+<Text language="en">Gorka Santamaria for Athletic Bilbao B is whistled offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230419" eventtype="153" id="339325925" time="60" type="112">
+<Text language="it">Athletic Bilbao B fermato dall'arbitro David Medie Jimenez in fuorigioco.</Text>
+<Text language="en">Athletic Bilbao B advance rapidly upfield but David Medie Jimenez blows for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229609" eventtype="60" id="339322205" time="57" type="44">
+<Text language="it"> Fabri Gonzalez (SD Ponferradina) fa il suo primo cambio con Dmitro Khomchenovskiy che rimpiazza Pablo Infante.</Text>
+<Text language="en">Dmitro Khomchenovskiy is replacing Pablo Infante for SD Ponferradina at Instalaciones de Lezama.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228693" eventtype="30" id="339318227" time="54" type="35">
+<Text language="it">Athletic Bilbao B in goal! La squadra si porta così sul 3 - 1 con Gorka Santamaria.</Text>
+<Text language="en">Great finish from Gorka Santamaria to give Athletic Bilbao B a 3 - 1 lead.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228605" eventtype="172" id="339317147" time="54" type="116">
+<Text language="it">Occasione SD Ponferradina con Jonas Ramalho, ma la sua conclusione viene intercettata da un difensore avversario.</Text>
+<Text language="en">Jonas Ramalho (Athletic Bilbao B) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227597" eventtype="154" id="339312179" time="51" type="85">
+<Text language="it">Angolo Athletic Bilbao B secondo l'arbitro David Medie Jimenez. Ager Aketxe lo batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227459" eventtype="154" id="339311599" time="50" type="85">
+<Text language="it">Corner Athletic Bilbao B allo stadio Instalaciones de Lezama di Lezama. Ager Aketxe batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227243" eventtype="154" id="339310109" time="49" type="85">
+<Text language="it">Allo stadio Instalaciones de Lezama, Ager Aketxe (Athletic Bilbao B) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Athletic Bilbao B have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229703" eventtype="60" id="339323117" time="48" type="44">
+<Text language="it">Cambio SD Ponferradina! David Caiado sostituisce Iain Hume. Questo e' il secondo cambio per  Fabri Gonzalez.</Text>
+<Text language="en"> Fabri Gonzalez is making the team's second substitution at Instalaciones de Lezama with David Caiado replacing Iain Hume.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203225311" eventtype="23" id="339303567" time="46" type="21">
+<Text language="it">Partiti! Ha preso il via il secondo tempo a Lezama.</Text>
+<Text language="en">The second-half is underway at Instalaciones de Lezama.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220567" eventtype="35" id="339282049" time="45" type="22">
+<Text language="it">E' finito il primo tempo della sfida di Lezama.</Text>
+<Text language="en">The whistle has gone to end the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219313" eventtype="30" id="339279139" time="42" type="24">
+<Text language="it">Rete SD Ponferradina che torna in partita grazie a Acoran! Il risultato è ora: 1 - 2.</Text>
+<Text language="en">SD Ponferradina are back in the match in Lezama. Acoran has scored to make it 1 - 2.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219071" eventtype="154" id="339270629" time="41" type="85">
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218923" eventtype="172" id="339269381" time="41" type="116">
+<Text language="it">Allo stadio Instalaciones de Lezama, Ager Aketxe (Athletic Bilbao B) ci prova con un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Important block from the SD Ponferradina defence as Ager Aketxe fires in a strike for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215241" eventtype="30" id="339262179" time="34" type="139">
+<Text language="it">Gorka Santamaria ha servito l'assist per il gol.</Text>
+<Text language="en">Gorka Santamaria with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215241" eventtype="30" id="339252315" time="34" type="35">
+<Text language="it">Gol! Ager Aketxe (Athletic Bilbao B) aumenta il vantaggio per i suoi, portando così il risultato sul 2 - 0 allo stadio Instalaciones de Lezama.</Text>
+<Text language="en">It's now 2 - 0 in Lezama as Ager Aketxe scores for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214999" eventtype="156" id="339250413" time="34" type="91">
+<Text language="it">Allo stadio Instalaciones de Lezama di Lezama occasione Athletic Bilbao B! Ci prova Mikel Vesga Arruti, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">Athletic Bilbao B's Mikel Vesga Arruti misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203214751" eventtype="154" id="339248585" time="33" type="85">
+<Text language="en">Athletic Bilbao B have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213717" eventtype="153" id="339243039" time="31" type="112">
+<Text language="it">Fuorigioco SD Ponferradina! La squadra è caduta nella trappola degli avversari.</Text>
+<Text language="en">SD Ponferradina drive forward at breakneck speed but are pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213543" eventtype="154" id="339242291" time="31" type="85">
+<Text language="it">Allo stadio Instalaciones de Lezama, Pablo Infante (SD Ponferradina) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">SD Ponferradina have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213439" eventtype="155" id="339241707" time="31" type="89">
+<Text language="it">SD Ponferradina ci prova con un tiro in porta di Pablo Infanteallo stadioInstalaciones de Lezama. Conclusione che però non va a buon fine.</Text>
+<Text language="en">In Lezama SD Ponferradina drive forward through Pablo Infante. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211967" eventtype="154" id="339235761" time="27" type="85">
+<Text language="it">A Lezama Iker Guarrotxena (Athletic Bilbao B) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211059" eventtype="30" id="339232707" time="24" type="139">
+<Text language="it">Markel Etxeberria ha effettuato l'assist.</Text>
+<Text language="en">Markel Etxeberria instrumental with a fine assist.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211059" eventtype="30" id="339231791" time="24" type="36">
+<Text language="it">Rete di Ager Aketxe (Athletic Bilbao B) a Lezama! La squadra che gioca di casa conduce ora 1 - 0.</Text>
+<Text language="en">Goal! The home team take a 1 - 0 lead through Ager Aketxe.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210809" eventtype="155" id="339229393" time="24" type="89">
+<Text language="it">Conclusione di Gorka Santamaria (Athletic Bilbao B) allo stadio Instalaciones de Lezama di Lezama, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">Gorka Santamaria for Athletic Bilbao B drives towards goal at Instalaciones de Lezama. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210115" eventtype="156" id="339224435" time="22" type="128">
+<Text language="it">Gorka Santamaria (Athletic Bilbao B) tenta la conclusione di testa ma la palla esce a lato.</Text>
+<Text language="en">Athletic Bilbao B's Gorka Santamaria attacks the ball with his head but his effort fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210093" eventtype="155" id="339225017" time="22" type="122">
+<Text language="it">Athletic Bilbao B in attacco! La squadra crea una buona opportunità con Gorka Santamaria, ma sfortuna vuole che la palla finisca sulla traversa!</Text>
+<Text language="en">Gorka Santamaria hits the bar! Nearly a goal there for Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207733" eventtype="154" id="339216905" time="17" type="85">
+<Text language="en">Corner awarded to Athletic Bilbao B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207505" eventtype="155" id="339216571" time="17" type="89">
+<Text language="it">Athletic Bilbao B avanza e calcia in porta con Gorka Santamaria. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">Athletic Bilbao B's Gorka Santamaria is on target but unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203206297" eventtype="154" id="339211757" time="14" type="85">
+<Text language="en">Athletic Bilbao B have been awarded a corner by David Medie Jimenez.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203203859" eventtype="153" id="339204819" time="10" type="112">
+<Text language="it">Fuorigioco per la squadra che gioca di casa!</Text>
+<Text language="en">Athletic Bilbao B push upfield but David Medie Jimenez quickly pulls them for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203203057" eventtype="156" id="339202589" time="9" type="91">
+<Text language="it">SD Ponferradina si spinge in avanti e con Iain Hume cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">SD Ponferradina are coming forward and Iain Hume gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203198213" eventtype="156" id="339192913" time="2" type="91">
+<Text language="it">Ci prova Pablo Infante (SD Ponferradina), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">SD Ponferradina's Pablo Infante breaks free at Instalaciones de Lezama. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203197179" eventtype="156" id="339191093" time="2" type="91">
+<Text language="it">Ager Aketxe (Athletic Bilbao B) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Ager Aketxe for Athletic Bilbao B gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203196421" eventtype="10" id="339190263" time="1" type="37">
+<Text language="it">Il match ha preso il via!</Text>
+<Text language="en">The match has started.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203169933" eventtype="80" id="339105851" time="0" type="19">
+<Text language="it">Sono state inserite le le formazioni ufficiali.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56152821" id="339188273">
+<Text language="it">Un anno fa, SD Ponferradina era 7 in classifica con 39 punti. Ora è 16 con 28 punti.</Text>
+<Text language="en">A year ago, SD Ponferradina were number 7 in the table with 39 points. Now they are number 16 with 28 points.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="83216" name="Medie Jimenez, David">
+<Country id="199" name="Spain">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="199" name="Spain">
+<Name language="it">Spagna</Name>
+<Name language="en">Spain</Name>
+</Country>
+<City id="5901" name="Lezama">
+<Name language="it">Lezama</Name>
+<Name language="en">Lezama</Name>
+</City>
+<Stadium id="9199" name="Instalaciones de Lezama">
+<Name language="it">Instalaciones de Lezama</Name>
+<Name language="en">Instalaciones de Lezama</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>57</Team1>
+<Team2>43</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>8</Team1>
+<Team2>3</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>5</Team1>
+<Team2>2</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>8</Team1>
+<Team2>14</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>8</Team1>
+<Team2>1</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>3</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>27</Team1>
+<Team2>22</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>1</Team1>
+<Team2>5</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>3</Team1>
+<Team2>7</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>11</Team1>
+<Team2>7</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

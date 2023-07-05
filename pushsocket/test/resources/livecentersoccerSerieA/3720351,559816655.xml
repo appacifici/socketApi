@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995580" generatedAt="2016-02-27T20:05:40 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="7">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+<Tournament BetradarTournamentId="4" UniqueTournamentId="34">
+<Name language="it">Ligue 1</Name>
+<Name language="en">Ligue 1</Name>
+<Match BetradarMatchId="10265621" Id="7473936">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5525" UniqueTeamId="1652" formation="4-2-3-1">
+<Color hStripes="-1" main="255" number="16777215" sleeve="13158" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Troyes</Name>
+<Name language="en">Troyes AC</Name>
+</Team1>
+<Team2 BetradarTeamId="10926" UniqueTeamId="1656" formation="4-4-2">
+<Color hStripes="0" main="16777215" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6736896" number="16777215" sleeve="6736896" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lorient</Name>
+<Name language="en">FC Lorient</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T20:03:02 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T20:00:03 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203245121">
+<Time>3</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="109851">Waris, Majeed</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Lineups>
+<TeamPlayer id="203224529" pos="6">
+<Player id="334149">Azamoum, Karim</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224531" pos="9">
+<Player id="14570">Ben Saada, Chaouki</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224533" pos="8">
+<Player id="3545">Camus, Fabien</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224535" pos="5">
+<Player id="9089">Dabo, Mouhamadou</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224821" pos="10">
+<Player id="51663">Darbion, Stephane</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224537" pos="1">
+<Player id="26869">Dreyer, Matthieu</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224539" pos="11">
+<Player id="14922">Gueye, Babacar</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224541" pos="2">
+<Player id="51554">Karaboue, Lossemy</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224543" pos="3">
+<Player id="45962">Ngcongca, Anele</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224545" pos="7">
+<Player id="342907">Pi, Jessy</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224547" pos="4">
+<Player id="23367">Veskovac, Dusan</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224567">
+<Player id="832895">Confais, Alois</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224569">
+<Player id="120443">Court, Yoann</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224571">
+<Player id="9988">Grandel, Franck</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224573">
+<Player id="191178">Jean, Corentin</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224575">
+<Player id="27007">Othon, Quentin</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224577">
+<Player id="180065">Perea, Brayan</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224579">
+<Player id="74089">Thiago, Xavier</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224549" pos="9">
+<Player id="72836">Barthelme, Maxime</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203225827" pos="7">
+<Player id="51487">Bellugou, Francois</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224551" pos="6">
+<Player id="308130">Cabot, Jimmy</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203225829" pos="5">
+<Player id="246999">Guerreiro, Raphael</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224553" pos="11">
+<Player id="147229">Jeannot, Benjamin</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224555" pos="1">
+<Player id="123207">Lecomte, Benjamin</Player>
+<ShirtNumber>40</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224557" pos="8">
+<Player id="74072">Mesloub, Walid</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224559" pos="2">
+<Player id="247015">Paye, Pape</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224561" pos="4">
+<Player id="113387">Rose, Lindsay</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224563" pos="3">
+<Player id="51623">Toure, Zargo</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224565" pos="10">
+<Player id="109851">Waris, Majeed</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224581">
+<Player id="3190">Chaigneau, Florent</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224583">
+<Player id="792029">Gakpa, Marvin</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224585">
+<Player id="99945">Le Goff, Vincent</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203225831">
+<Player id="123172">Mulumba, Remi</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224587">
+<Player id="307096">Philippoteaux, Romain</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224589">
+<Player id="16018">Traore, Alain</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203245449" eventtype="153" id="339416083" time="4" type="112">
+<Text language="it">Offside Lorient!</Text>
+<Text language="en">FC Lorient push upfield but Said Ennjimi quickly pulls them for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245121" eventtype="30" id="339415751" time="3" type="139">
+<Text language="it">Jimmy Cabot ha effettuato l'assist.</Text>
+<Text language="en">Jimmy Cabot with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245121" eventtype="30" id="339413927" time="3" type="36">
+<Text language="it">Gol! Majeed Waris (Lorient) porta in vantaggio i suoi che ora conducono 1 - 0 allo stadio Stade de l'Aube.</Text>
+<Text language="en">Goal! Majeed Waris gives FC Lorient a 1 - 0 lead in Troyes.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243915" eventtype="10" id="339406391" time="1" type="37">
+<Text language="it">A Troyes l'arbitro Said Ennjimi ha dato il via alla gara.</Text>
+<Text language="en">The first-half is just kicking off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224529" eventtype="80" id="339330581" time="0" type="19">
+<Text language="it">Sono state ufficializzate le formazioni dei due schieramenti.</Text>
+<Text language="en">The big names in today's match at Stade de l'Aube have now been confirmed.</Text>
+</Phrase>
+</Phrases>
+<Referee id="52244" name="Ennjimi, Said">
+<Country id="73" name="France">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="73" name="France">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+</Country>
+<City id="946" name="Troyes">
+<Name language="it">Troyes</Name>
+<Name language="en">Troyes</Name>
+</City>
+<Stadium id="1867" name="Stade de l'Aube">
+<Name language="it">Stade de l'Aube</Name>
+<Name language="en">Stade de l'Aube</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>60</Team1>
+<Team2>40</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<FreeKicks>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</FreeKicks>
+<Offsides>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>4</Team1>
+<Team2>2</Team2>
+</ThrowIns>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

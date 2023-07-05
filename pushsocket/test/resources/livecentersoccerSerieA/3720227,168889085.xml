@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995533" generatedAt="2016-02-27T20:03:35 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="33">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+<Tournament BetradarTournamentId="38" UniqueTournamentId="38">
+<Name language="it">Pro League</Name>
+<Name language="en">Pro League</Name>
+<Match BetradarMatchId="10262292" Id="7433958">
+<MatchDate>2016-02-27T20:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="4958" UniqueTeamId="2895">
+<Color hStripes="-1" main="16776960" number="3355596" sleeve="3355596" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="6749952" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">St. Truiden</Name>
+<Name language="en">St. Truidense VV</Name>
+</Team1>
+<Team2 BetradarTeamId="548844" UniqueTeamId="2933">
+<Color hStripes="-1" main="13369395" number="16777215" sleeve="10027059" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6724095" number="0" sleeve="13421772" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zulte Waregem</Name>
+<Name language="en">SV Zulte Waregem</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="65651" name="Wouters, Luc">
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+<City id="679" name="Sint- Truiden">
+<Name language="it">Sint- Truiden</Name>
+<Name language="en">Sint- Truiden</Name>
+</City>
+<Stadium id="1252" name="Staaien">
+<Name language="it">Staaien</Name>
+<Name language="en">Staaien</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

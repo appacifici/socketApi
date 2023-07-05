@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="994968" generatedAt="2016-02-27T19:39:23 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="35">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+<Tournament BetradarTournamentId="39" UniqueTournamentId="37">
+<Name language="it">Eredivisie</Name>
+<Name language="en">Eredivisie</Name>
+<Match BetradarMatchId="10265743" Id="7475388">
+<MatchDate>2016-02-27T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="5306" UniqueTeamId="2958">
+<Color hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="16763904"/>
+<GoalkeeperColor hStripes="-1" main="52224" number="16777215" sleeve="52224" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vitesse Arnhem</Name>
+<Name language="en">Vitesse Arnhem</Name>
+</Team1>
+<Team2 BetradarTeamId="5302" UniqueTeamId="2961">
+<Color hStripes="-1" main="16777215" number="0" sleeve="13369344" split="-1" squares="-1" vStripes="0"/>
+<GoalkeeperColor hStripes="-1" main="3381504" number="16777215" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Willem II</Name>
+<Name language="en">Willem II Tilburg</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="52566" name="Liesveld, Richard">
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+<City id="104" name="Arnhem">
+<Name language="it">Arnhem</Name>
+<Name language="en">Arnhem</Name>
+</City>
+<Stadium id="643" name="GelreDome">
+<Name language="it">Gelredome</Name>
+<Name language="en">Gelredome</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

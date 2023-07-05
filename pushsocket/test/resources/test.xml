@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SportradarData xmlns:ns2="http://xmlexport.scoreradar.com/V1" fileName="Soccer.Germany.Bundesliga.1314" generatedAt="2013-09-16T00:26:13.818+02:00" serviceId="27" serviceName="assists" updateType="periodic">
+    <Sport id="1" name="Soccer">
+        <Category id="30" name="Germany">
+            <Tournament name="Bundesliga" uniqueTournamentId="35">
+                <Season end="2014-05-12T23:59:00+02:00" id="6303" name="Bundesliga 13/14" start="2013-08-09T00:00:00+02:00" year="13/14"/>
+                <Teams>
+                    <Team gender="M" id="2523" name="1 FC Nuremberg">
+                        <Assists>
+                            <Player playerID="1360" playerName="Markus Feulner">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="40239" playerName="Timothy Chandler">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="48022" playerName="Daniel Ginczek">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2524" name="VfL Wolfsburg">
+                        <Assists>
+                            <Player playerID="8924" playerName="Naldo">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="67769" playerName="Ricardo Rodriguez">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="38710" playerName="Ivan Perisic">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="2389" playerName="Marcel Schafer">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2527" name="Monchengladbach">
+                        <Assists>
+                            <Player playerID="26687" playerName="Max Kruse">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="117777" playerName="Granit Xhaka">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="103289" playerName="Patrick Herrmann">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="17979" playerName="Raffael">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2528" name="Hertha BSC">
+                        <Assists>
+                            <Player playerID="24385" playerName="Hajime Hosogai">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="97925" playerName="Nico Schulz">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="18891" playerName="Anis Ben-Hatira">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="254" playerName="Alexander Baumjohann">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2530" name="FC Schalke 04">
+                        <Assists>
+                            <Player playerID="1262" playerName="Christian Fuchs">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="142680" playerName="Julian Draxler">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="38471" playerName="Roman Neustadter">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="2511" playerName="Jefferson Farfan">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2538" name="SC Freiburg">
+                        <Assists>
+                            <Player playerID="15857" playerName="Gelson Fernandes">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="5086" playerName="Sebastian Freis">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="4727" playerName="Julian Schuster">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2541" name="Hannover 96">
+                        <Assists>
+                            <Player playerID="8970" playerName="Szabolcs Huszti">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="97935" playerName="Andre Hoffmann">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="8594" playerName="Leon Andreasen">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="23996" playerName="Lars Stindl">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="111969" playerName="Leonardo Bittencourt">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="22481" playerName="Mame Biram Diouf">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2556" name="1 FSV Mainz 05">
+                        <Assists>
+                            <Player playerID="8507" playerName="Niki Zimling">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="8500" playerName="Bo Svensson">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="97927" playerName="Johannes Geis">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="12406" playerName="Zdenek Pospech">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="21626" playerName="Eric Maxim Choupo Moting">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2557" name="Eintracht Braunschweig">
+                        <Assists>
+                            <Player playerID="108574" playerName="Karim Bellarabi">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2569" name="1899 Hoffenheim">
+                        <Assists>
+                            <Player playerID="4634" playerName="Fabian Johnson">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="7201" playerName="Tarik Elyounoussi">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="176" playerName="Eugen Polanski">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="35680" playerName="Sebastian Rudy">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="143697" playerName="Roberto Firmino">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="3"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="3"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="1"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="35405" playerName="Kai Herdling">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="117373" playerName="Kevin Volland">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2600" name="FC Augsburg">
+                        <Assists>
+                            <Player playerID="40326" playerName="Andre Hahn">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="23666" playerName="Jan Moravek">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2672" name="Bayern Munich">
+                        <Assists>
+                            <Player playerID="14920" playerName="Philipp Lahm">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="5712" playerName="Franck Ribery">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="26502" playerName="Toni Kroos">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="35166" playerName="Thomas Muller">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2673" name="Borussia Dortmund">
+                        <Assists>
+                            <Player playerID="26760" playerName="Marcel Schmelzer">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="51498" playerName="Pierre-Emerick Aubameyang">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="4"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="37151" playerName="Henrik Mkhitaryan">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="4"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="4"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="4"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="41789" playerName="Robert Lewandowski">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="37092" playerName="Marco Reus">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="3"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="3"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="1"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="18680" playerName="Kevin Grosskreutz">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="4"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="16632" playerName="Mats Hummels">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="4"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="21881" playerName="Nuri Sahin">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="4"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2674" name="Eintracht Frankfurt">
+                        <Assists>
+                            <Player playerID="40442" playerName="Bastian Oczipka">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="48555" playerName="Sebastian Jung">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="2"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="2"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="39546" playerName="Vaclav Kadlec">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2676" name="Hamburger SV">
+                        <Assists>
+                            <Player playerID="1951" playerName="Rafael van der Vaart">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="45867" playerName="Maximilian Beister">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2677" name="VfB Stuttgart">
+                        <Assists>
+                            <Player playerID="3486" playerName="Arthur Boka">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="3"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="232306" playerName="Timo Werner">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="180511" playerName="Alexandru Maxim">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="3"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="3"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="1"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                    <Team gender="M" id="2681" name="Bayer Leverkusen">
+                        <Assists>
+                            <Player playerID="36895" playerName="Stefan Reinartz">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="18892" playerName="Sidney Sam">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="138156" playerName="Emre Can">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="2"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="2"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="2406" playerName="Simon Rolfes">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="3"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="3"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="273" playerName="Gonzalo Castro">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="1"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="1"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="2"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="17"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                            <Player playerID="304" playerName="Stefan Kiessling">
+                                <PlayerStats>
+                                    <PlayerStatsEntry id="24" name="Assists for team" value="2"/>
+                                    <PlayerStatsEntry id="25" name="Assists in tournament" value="2"/>
+                                    <PlayerStatsEntry id="26" name="Assists, team ranking" value="1"/>
+                                    <PlayerStatsEntry id="27" name="Assists, tournament ranking" value="4"/>
+                                    <PlayerStatsEntry id="39" name="Matches played for team" value="5"/>
+                                    <PlayerStatsEntry id="40" name="Matches played in tournament" value="5"/>
+                                </PlayerStats>
+                            </Player>
+                        </Assists>
+                    </Team>
+                </Teams>
+            </Tournament>
+        </Category>
+    </Sport>
+</ns2:SportradarData>

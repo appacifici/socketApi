@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="998052" generatedAt="2016-02-27T22:15:58 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="33">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+<Tournament BetradarTournamentId="38" UniqueTournamentId="38">
+<Name language="it">Pro League</Name>
+<Name language="en">Pro League</Name>
+<Match BetradarMatchId="10262292" Id="7433958">
+<MatchDate>2016-02-27T20:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="4958" UniqueTeamId="2895">
+<Color hStripes="-1" main="16776960" number="3355596" sleeve="3355596" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="6749952" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">St. Truiden</Name>
+<Name language="en">St. Truidense VV</Name>
+</Team1>
+<Team2 BetradarTeamId="548844" UniqueTeamId="2933">
+<Color hStripes="-1" main="13369395" number="16777215" sleeve="10027059" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6724095" number="0" sleeve="13421772" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zulte Waregem</Name>
+<Name language="en">SV Zulte Waregem</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T22:04:54 CET</Time>
+<Team>1</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T21:33:56 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203265347">
+<Time>35</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="45828">Cordaro, Alessandro</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal id="203279129">
+<Time>76</Time>
+<Team1>1</Team1>
+<Team2>1</Team2>
+<Player id="8849">Proschwitz, Nick</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203280849" type="YellowRed">
+<Time>86</Time>
+<Player id="10071">De Ridder, Steve</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203276023" type="Yellow">
+<Time>59</Time>
+<Player id="10071">De Ridder, Steve</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203274861">
+<Time>46</Time>
+<PlayerOut id="190401">Gerkens, Pieter</PlayerOut>
+<PlayerIn id="898436">De Souza, Allan Rodrigues</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203274789">
+<Time>54</Time>
+<PlayerOut id="126791">Dutoit, William</PlayerOut>
+<PlayerIn id="40625">De Winter, Yves</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203276193">
+<Time>60</Time>
+<PlayerOut id="111754">Poletanovic, Marko</PlayerOut>
+<PlayerIn id="312254">Buyl, Stephen</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203278041">
+<Time>70</Time>
+<PlayerOut id="341449">Rherras, Faycal</PlayerOut>
+<PlayerIn id="94300">Raman, Benito</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203245311">
+<Player id="156009">Angban, Victorien</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245303">
+<Player id="3162">Bagayoko, Mamadou</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245301">
+<Player id="324937">Cuevas, Cristian</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245309">
+<Player id="126791">Dutoit, William</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245305">
+<Player id="123662">Erichot, Ivan</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245307">
+<Player id="59751">Fernandes, Ruben</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245299">
+<Player id="190401">Gerkens, Pieter</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245293">
+<Player id="73931">Mahlangu, May</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203279757">
+<Player id="8849">Proschwitz, Nick</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245297">
+<Player id="341449">Rherras, Faycal</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245295">
+<Player id="247069">Tchenkoua, Fabien</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247291">
+<Player id="754630">De Sart, Alexis</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247299">
+<Player id="898436">De Souza, Allan Rodrigues</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247289">
+<Player id="40625">De Winter, Yves</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247293">
+<Player id="190393">Hendrickx, Gaetan</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247301">
+<Player id="19377">Kotysch, Sascha</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247295">
+<Player id="94300">Raman, Benito</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247297">
+<Player id="121250">Soumahoro, Yaya</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245333">
+<Player id="45828">Cordaro, Alessandro</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245327">
+<Player id="47855">Dalsgaard, Henrik</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245325">
+<Player id="10071">De Ridder, Steve</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245315">
+<Player id="280435">Diallo, Abdou</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245335">
+<Player id="359274">Essikal, Karim</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245331">
+<Player id="45907">Lepoint, Christophe</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245323">
+<Player id="46396">Leye, Mbaye</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245321">
+<Player id="111754">Poletanovic, Marko</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245329">
+<Player id="41886">Steppe, Kenny</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245319">
+<Player id="180981">Thiam, Mame</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203245317">
+<Player id="247323">Verboom, Bryan</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248561">
+<Player id="174981">Baudry, Marvin</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248567">
+<Player id="341453">Benteke, Jonathan</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248559">
+<Player id="18827">Bossut, Sammy</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248571">
+<Player id="783498">Brebels, Sebastiaan</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248565">
+<Player id="312254">Buyl, Stephen</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248569">
+<Player id="139229">Meite, Soualiho</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248563">
+<Player id="38275">Sami, Joel</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203280849" eventtype="45" id="339618213" time="86" type="46">
+<Text language="it">Secondo cartellino giallo per Steve De Ridder (Zulte Waregem) che ora deve lasciare il campo!</Text>
+<Text language="en">Steve De Ridder in SV Zulte Waregem has been yellow-carded a second time by Luc Wouters and is being sent off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203279129" eventtype="30" id="339611579" time="76" type="34">
+<Text language="it">Nick Proschwitz pareggia il conto allo stadio Staaien. Il risultato è ora di 1 - 1.</Text>
+<Text language="en">Goal! Nick Proschwitz equalizes to bring the score to 1 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278041" eventtype="60" id="339601729" time="70" type="44">
+<Text language="it">Sostituzione St. Truiden: esce Faycal Rherras ed entra Benito Raman.</Text>
+<Text language="en">Chris O'Loughlin is making the team's third substitution at Staaien with Benito Raman replacing Faycal Rherras.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203276193" eventtype="60" id="339592695" time="60" type="44">
+<Text language="it">Cambio Zulte Waregem! Stephen Buyl sostituisce Marko Poletanovic. Questo e' il primo cambio per Francky Dury.</Text>
+<Text language="en">The away team have replaced Marko Poletanovic with Stephen Buyl. This is the first substitution made today by Francky Dury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203276023" eventtype="40" id="339591611" time="59" type="45">
+<Text language="it">L'arbitro Luc Wouters estrae il cartellino giallo! Ammonito Steve De Ridder per la squadra che gioca ospite allo stadio Staaien di Sint- Truiden.</Text>
+<Text language="en">At Staaien, Steve De Ridder has been yellow-carded for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203274789" eventtype="60" id="339581499" time="54" type="44">
+<Text language="it">Chris O'Loughlin realizza il suo primo cambio allo stadio Staaien con Yves De Winter che rimpiazza William Dutoit.</Text>
+<Text language="en">Yves De Winter is replacing William Dutoit for St. Truidense VV at Staaien.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203274861" eventtype="60" id="339582161" time="46" type="44">
+<Text language="it">Secondo cambio St. Truiden: Pieter Gerkens lascia il posto a Allan Rodrigues De Souza.</Text>
+<Text language="en">Allan Rodrigues De Souza is replacing Pieter Gerkens for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203272921" eventtype="23" id="339568223" time="46" type="21">
+<Text language="it">Il fischio dell'arbitro ha dato il via al secondo tempo.</Text>
+<Text language="en">The second-half is underway at Staaien.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203268885" eventtype="35" id="339538621" time="45" type="22">
+<Text language="it">Il primo tempo è terminato.</Text>
+<Text language="en">The first-half has ended.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265347" eventtype="30" id="339515181" time="35" type="36">
+<Text language="it">Gol! Zulte Waregem in vantaggio per 1 - 0 grazie a Alessandro Cordaro.</Text>
+<Text language="en">Goal! Alessandro Cordaro gives SV Zulte Waregem a 1 - 0 lead.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203255293" eventtype="10" id="339460805" time="1" type="37">
+<Text language="it">La partita è iniziata.</Text>
+<Text language="en">The match is underway at Staaien.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245293" eventtype="80" id="339433975" time="0" type="19">
+<Text language="it">Tutto è pronto! Anche le formazioni ufficiali sono state rese note!</Text>
+<Text language="en">The line-ups for today's big match in Sint- Truiden are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56170715" id="339577273">
+<Text language="it">Sapevate che St. Truiden realizza il 35% dei suoi gol fra i minuti 46-60? Si tratta della percentuale più alta del campionato.</Text>
+<Text language="en">Did you know that St. Truidense VV scores 35% of their goals between the minutes 46-60? This is the highest percentage in the league.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56170711" id="339493467">
+<Text language="it">Nelle ultime 9 partite con St. Truiden che giocava in casa, St. Truiden ha vinto 3 volte, pareggiandone 3, mentre Zulte Waregem ne ha vinte 3. La differenza reti è di 12-11 in favore di Zulte Waregem.</Text>
+<Text language="en">During the last 9 meetings with St. Truidense VV playing at home, St. Truidense VV has won 3 times, there have been 3 draws while SV Zulte Waregem has won 3 times. The goal difference is 12-11 in the favour of SV Zulte Waregem.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56250307" id="339471605">
+<Text language="it">St. Truiden ha ricevuto 7 cartellini rossi in questa stagione. E' il maggior numero in Pro League.</Text>
+<Text language="en">St. Truidense VV has received 7 red cards this season. This is the highest number in Pro League.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57274935" id="339529847">
+<Text language="it">Zulte Waregem, se in vantaggio in trasferta per 1-0, non ha mai perso in questa stagione.</Text>
+<Text language="en">SV Zulte Waregem is undefeated this season when playing away and taking the lead 1-0.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56324723" id="339479135">
+<Text language="it">Zulte Waregem ha perso 3 partite di fila.</Text>
+<Text language="en">SV Zulte Waregem have lost 3 matches in a row.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56174183" id="339486693">
+<Text language="it">St. Truiden ha subito gol in ciascuna delle sue ultime 5 partite.</Text>
+<Text language="en">St. Truidense VV have conceded in each of their last 5 matches.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="65651" name="Wouters, Luc">
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+<City id="679" name="Sint- Truiden">
+<Name language="it">Sint- Truiden</Name>
+<Name language="en">Sint- Truiden</Name>
+</City>
+<Stadium id="1252" name="Staaien">
+<Name language="it">Staaien</Name>
+<Name language="en">Staaien</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<CornerKicks>
+<Team1>5</Team1>
+<Team2>3</Team2>
+</CornerKicks>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="35">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+<Tournament BetradarTournamentId="39" UniqueTournamentId="37">
+<Name language="it">Eredivisie</Name>
+<Name language="en">Eredivisie</Name>
+<Match BetradarMatchId="10265743" Id="7475388">
+<MatchDate>2016-02-27T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="5306" UniqueTeamId="2958" formation="4-3-3">
+<Color hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="16763904"/>
+<GoalkeeperColor hStripes="-1" main="52224" number="16777215" sleeve="52224" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vitesse Arnhem</Name>
+<Name language="en">Vitesse Arnhem</Name>
+</Team1>
+<Team2 BetradarTeamId="5302" UniqueTeamId="2961" formation="4-3-3">
+<Color hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3381504" number="16777215" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Willem II</Name>
+<Name language="en">Willem II Tilburg</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T22:02:59 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T21:45:35 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal from="heading" id="203278707">
+<Time>62</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="250505">Ondaan, Terell</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203276393" type="Yellow">
+<Time>49</Time>
+<Player id="284387">Rashica, Milot</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203276975" type="Yellow">
+<Time>52</Time>
+<Player id="50686">Achenteh, Rochdi</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203278289">
+<Time>60</Time>
+<PlayerOut id="45647">Oliynyk, Denis</PlayerOut>
+<PlayerIn id="358538">Nathan</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203280703">
+<Time>73</Time>
+<PlayerOut id="250505">Ondaan, Terell</PlayerOut>
+<PlayerIn id="2254">Braber, Robert</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203280829">
+<Time>74</Time>
+<PlayerOut id="97022">Kazaishvili, Valeri</PlayerOut>
+<PlayerIn id="314370">Brown, Isaiah</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203246611" pos="7">
+<Player id="190859">Baker, Lewis</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246601" pos="2">
+<Player id="43136">Kashia, Guram</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246617" pos="10">
+<Player id="97022">Kazaishvili, Valeri</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246605" pos="4">
+<Player id="2166">Kruiswijk, Arnold</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246607" pos="5">
+<Player id="44220">Leerdam, Kelvin</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246613" pos="8">
+<Player id="556904">Nakamba, Marvelous</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246619" pos="11">
+<Player id="45647">Oliynyk, Denis</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246615" pos="9">
+<Player id="284387">Rashica, Milot</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246599" pos="1">
+<Player id="40859">Room, Eloy</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246603" pos="3">
+<Player id="32597">Van der Werff, Maikel</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246609" pos="6">
+<Player id="54659">Yeini, Sheran</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246633" pos="0">
+<Player id="314370">Brown, Isaiah</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246623" pos="0">
+<Player id="583806">Diks, Kevin</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246627" pos="0">
+<Player id="158395">Ibarra, Renato</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246625" pos="0">
+<Player id="358538">Nathan</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246629" pos="0">
+<Player id="864512">Osman, Mohammed</Player>
+<ShirtNumber>41</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246621" pos="0">
+<Player id="14808">Velthuizen, Piet</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246631" pos="0">
+<Player id="849056">Yuning, Zhang</Player>
+<ShirtNumber>43</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247845" pos="8">
+<Player id="50686">Achenteh, Rochdi</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247851" pos="11">
+<Player id="135263">Andersen, Lucas</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247843" pos="7">
+<Player id="32922">Falkenburg, Erik</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247847" pos="9">
+<Player id="52088">Hupperts, Guus</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247839" pos="5">
+<Player id="137643">Koppers, Dico</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247831" pos="1">
+<Player id="42876">Lamprou, Kostas</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247841" pos="6">
+<Player id="51602">Ojo, Funso</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247849" pos="10">
+<Player id="250505">Ondaan, Terell</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247837" pos="4">
+<Player id="32345">Peters, Jordens</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247835" pos="3">
+<Player id="100683">Wuytens, Dries</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247833" pos="2">
+<Player id="3466">van der Struijk, Frank</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247861" pos="0">
+<Player id="2254">Braber, Robert</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247857" pos="0">
+<Player id="97416">De Sa, Lesley</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247855" pos="0">
+<Player id="81003">Heerkens, Freek</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247859" pos="0">
+<Player id="285947">Kawaya, Andy</Player>
+<ShirtNumber>38</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248039" pos="0">
+<Player id="966275">Kok, Thomas</Player>
+<ShirtNumber>42</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247853" pos="0">
+<Player id="74472">Meul, David</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247863" pos="0">
+<Player id="27531">Nemec, Adam</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203280873" eventtype="165" id="339618545" time="-1" type="114">
+<Text language="it">L'affluenza per la gara di oggi è di 15987 spettatori.</Text>
+<Text language="en">It is reported that 15987 spectators are in attendance today.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203280829" eventtype="60" id="339617963" time="74" type="44">
+<Text language="it">Sostituzione allo stadio Gelredome! Secondo cambio per Rob Maas (Vitesse Arnhem) che fa entrare sul terreno di gioco Isaiah Brown al posto di Valeri Kazaishvili.</Text>
+<Text language="en">Rob Maas (Vitesse Arnhem) is making a second substitution, with Isaiah Brown replacing Valeri Kazaishvili.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203280703" eventtype="60" id="339617215" time="73" type="44">
+<Text language="it">Sostituzione Willem II: esce Terell Ondaan ed entra Robert Braber.</Text>
+<Text language="en">Jurgen Streppel is making the team's first substitution at Gelredome with Robert Braber replacing Terell Ondaan.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203280489" eventtype="155" id="339615893" time="72" type="89">
+<Text language="it">Willem II avanza e calcia in porta con Terell Ondaan. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">Willem II Tilburg push forward through Terell Ondaan, whose finish on goal is saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203280315" eventtype="154" id="339614487" time="71" type="85">
+<Text language="it">A Arnhem Lucas Andersen (Willem II) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Willem II Tilburg have been awarded a corner by Richard Liesveld.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203279393" eventtype="172" id="339608771" time="66" type="116">
+<Text language="it">Nathan va alla conclusione allo stadio GelredomediArnhem, ma il suo tiro viene bloccato da un difensore avversario!</Text>
+<Text language="en">Vitesse Arnhem push forward at Gelredome and Nathan gets in a strike. This is blocked, however, by a determined Willem II Tilburg defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278707" eventtype="30" id="339605455" time="62" type="139">
+<Text language="it">Lucas Andersen ha effettuato l'assist.</Text>
+<Text language="en">Great play from Lucas Andersen to set up the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278707" eventtype="30" id="339605205" time="62" type="130">
+<Text language="it">Rete Willem II con un colpo di testa di Terell Ondaan allo stadio Gelredome di Arnhem! Willem II ora guida il match per 1 - 0.</Text>
+<Text language="en">Goal! Willem II Tilburg have taken a 1 - 0 lead courtesy of a header from Terell Ondaan.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278529" eventtype="154" id="339604295" time="61" type="85">
+<Text language="it">Angolo Willem II secondo l'arbitro Richard Liesveld. Lucas Andersen lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Willem II Tilburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278289" eventtype="60" id="339603051" time="60" type="44">
+<Text language="it">Primo cambio per la squadra che gioca in di casa. Nathan prende il posto di Denis Oliynyk.</Text>
+<Text language="en">Nathan is on a sub for Denis Oliynyk for Vitesse Arnhem.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278155" eventtype="155" id="339602389" time="59" type="118">
+<Text language="it">Guus Hupperts (Willem II) ci prova con un colpo di testa. La difesa del Vitesse Arnhem riesce però a liberare bene.</Text>
+<Text language="en">Guus Hupperts (Willem II Tilburg) gets in a header on goal but the attempt is cleared.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203278019" eventtype="153" id="339601563" time="59" type="112">
+<Text language="it">Offside Vitesse Arnhem!</Text>
+<Text language="en">In Arnhem, Vitesse Arnhem push forward quickly but are pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203277387" eventtype="154" id="339598503" time="55" type="85">
+<Text language="it">L'arbitro Richard Liesveld ha concesso un calcio d'angolo dalla destra allo stadio Gelredome di Arnhem. Lewis Baker (Vitesse Arnhem) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Vitesse Arnhem.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203277367" eventtype="155" id="339598335" time="55" type="89">
+<Text language="it">Occasione Vitesse Arnhem con Marvelous Nakamba, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">In Arnhem Vitesse Arnhem drive forward through Marvelous Nakamba. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203276975" eventtype="40" id="339596519" time="52" type="45">
+<Text language="it">Giallo a Rochdi Achenteh per la squadra che gioca ospite.</Text>
+<Text language="en">Rochdi Achenteh is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203276393" eventtype="40" id="339594443" time="49" type="45">
+<Text language="it">Milot Rashica (Vitesse Arnhem) riceve un'ammonizione.</Text>
+<Text language="en">Milot Rashica for Vitesse Arnhem has been booked by Richard Liesveld and receives a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203276077" eventtype="156" id="339592029" time="48" type="91">
+<Text language="it">Ci prova Marvelous Nakamba (Vitesse Arnhem), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">Vitesse Arnhem's Marvelous Nakamba misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203275995" eventtype="168" id="339591111" time="48" type="99">
+<Text language="it">Jordens Peters (Willem II ) è ritornato in campo allo stadio Gelredome di Arnhem.</Text>
+<Text language="en">Jordens Peters returns to the field for Willem II Tilburg after picking up a slight injury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203275887" eventtype="16" id="339590283" time="47" type="79">
+<Text language="it">L'arbitro Richard Liesveld ha fatto riprendere il gioco, dopo l'interruzione, allo stadio Gelredome di Arnhem.</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203275743" eventtype="158" id="339588865" time="47" type="97">
+<Text language="it">Richard Liesveld aspetta a far riprendere il gioco in quanto Jordens Peters (Willem II) è ancora a terra.</Text>
+<Text language="en">Jordens Peters is down and play has been interrupted for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203275571" eventtype="154" id="339587369" time="46" type="85">
+<Text language="it">Corner Vitesse Arnhem allo stadio Gelredome di Arnhem. Lewis Baker batterà dalla bandierina destra.</Text>
+<Text language="en">Vitesse Arnhem have been awarded a corner by Richard Liesveld.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203275463" eventtype="23" id="339586291" time="46" type="21">
+<Text language="it">Il direttore di gara ha dato il via al secondo tempo.</Text>
+<Text language="en">The second-half is underway in Arnhem.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203272059" eventtype="35" id="339561837" time="45" type="22">
+<Text language="it">Il duplice fischio del direttore di gara ha messo fine al primo tempo.</Text>
+<Text language="en">The first-half has ended.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271731" eventtype="172" id="339558603" time="44" type="116">
+<Text language="it">Willem II va al tiro con Milot Rashica, ma un difensore avversario gli toglie la gioia del gol!</Text>
+<Text language="en">Vitesse Arnhem drive upfield and Milot Rashica gets in a shot. The strike is blocked by a Willem II Tilburg defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271719" eventtype="172" id="339558519" time="44" type="116">
+<Text language="it">Vitesse Arnhem all'attacco allo stadio Gelredome con Valeri Kazaishvili. Il suo tiro viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Valeri Kazaishvili (Vitesse Arnhem) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271277" eventtype="156" id="339555875" time="42" type="91">
+<Text language="it">Willem II si spinge in avanti e con Terell Ondaan cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Terell Ondaan for Willem II Tilburg gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271173" eventtype="156" id="339555129" time="42" type="91">
+<Text language="it">Willem II con Funso Ojo cerca la rete allo stadio Gelredome con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Willem II Tilburg are pushing forward but Funso Ojo's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270297" eventtype="156" id="339549149" time="39" type="91">
+<Text language="it">Frank van der Struijk (Willem II) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Willem II Tilburg are coming forward and Frank van der Struijk gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270243" eventtype="154" id="339548735" time="38" type="85">
+<Text language="it">Allo stadio Gelredome, Lucas Andersen (Willem II) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Willem II Tilburg have been awarded a corner by Richard Liesveld.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269891" eventtype="155" id="339545995" time="37" type="89">
+<Text language="it">Ci prova Lewis Baker (Vitesse Arnhem), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">Vitesse Arnhem's Lewis Baker gets in a shot on goal at Gelredome. But the effort is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269473" eventtype="156" id="339544335" time="36" type="128">
+<Text language="it">Vitesse Arnhem in attacco! Guram Kashia sfiora la rete di testa!</Text>
+<Text language="en">Guram Kashia (Vitesse Arnhem) is first to the ball but his header is off-target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269141" eventtype="156" id="339540609" time="34" type="91">
+<Text language="it">Sheran Yeini (Vitesse Arnhem) prova il tiro allo stadio Gelredome. La sua conclusione però termina fuori.</Text>
+<Text language="en">Sheran Yeini of Vitesse Arnhem gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266339" eventtype="155" id="339519403" time="25" type="89">
+<Text language="it">Conclusione Vitesse Arnhem con Sheran Yeini! Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Sheran Yeini for Vitesse Arnhem drives towards goal at Gelredome. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262647" eventtype="154" id="339495869" time="11" type="85">
+<Text language="it">Allo stadio Gelredome, Lucas Andersen (Willem II) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Willem II Tilburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259443" eventtype="10" id="339481943" time="1" type="37">
+<Text language="it">L'arbitro Richard Liesveld ha fischiato! Ha inizio la partita allo stadio Gelredome.</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203246599" eventtype="80" id="339434141" time="0" type="19">
+<Text language="it">Sono ora disponibili le formazioni ufficiali per la partita di oggi allo stadio Gelredome.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57270027" id="339479381">
+<Text language="it">Se Valeri Kazaishvili segna contro Willem II, questo sarà il 10° gol per Vitesse Arnhem in questa stagione.</Text>
+<Text language="en">If Valeri Kazaishvili scores against Willem II Tilburg it will be his 10th goal for Vitesse Arnhem this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="52566" name="Liesveld, Richard">
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+<City id="104" name="Arnhem">
+<Name language="it">Arnhem</Name>
+<Name language="en">Arnhem</Name>
+</City>
+<Stadium id="643" name="GelreDome">
+<Name language="it">Gelredome</Name>
+<Name language="en">Gelredome</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>63</Team1>
+<Team2>37</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>3</Team1>
+<Team2>3</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>3</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>15</Team1>
+<Team2>13</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>2</Team1>
+<Team2>4</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>19</Team1>
+<Team2>15</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>6</Team1>
+<Team2>6</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>12</Team1>
+<Team2>15</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

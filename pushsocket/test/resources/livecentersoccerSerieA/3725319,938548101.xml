@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="997225" generatedAt="2016-02-27T21:28:28 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325652" Id="8736352">
+<MatchDate>2016-02-27T21:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="1056269" UniqueTeamId="42338" formation="4-3-3">
+<Color hStripes="-1" main="26112" number="16777215" sleeve="26112" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Sarmiento</Name>
+<Name language="en">CA Sarmiento</Name>
+</Team1>
+<Team2 BetradarTeamId="230648" UniqueTeamId="4936" formation="4-2-3-1">
+<Color hStripes="-1" main="16777215" number="13158" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="52479" number="0" sleeve="52479" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Quilmes</Name>
+<Name language="en">Quilmes AC</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T21:19:23 CET</Time>
+<Team>1</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T21:02:19 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203265251">
+<Time>4</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="249911">Elizari, Fernando</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal from="penalty" id="203269209">
+<Time>17</Time>
+<Team1>1</Team1>
+<Team2>1</Team2>
+<Player id="9076">Bueno, Carlos</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203267479" type="Yellow">
+<Time>11</Time>
+<Player id="802038">Fornari, Maximiliano</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203268451" type="Yellow">
+<Time>15</Time>
+<Player id="249859">Benitez, Walter</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203269443" type="Yellow">
+<Time>16</Time>
+<Player id="147350">Rescaldani, Ezequiel</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203269889" type="Yellow">
+<Time>20</Time>
+<Player id="33963">Brana, Rodrigo</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Lineups>
+<TeamPlayer id="203253245" pos="9">
+<Player id="9076">Bueno, Carlos</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253247" pos="6">
+<Player id="122613">Busse, Walter</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253249" pos="10">
+<Player id="802060">Cacheiro, Ignacio</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253251" pos="5">
+<Player id="295165">Cosaro, Guillermo</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253253" pos="2">
+<Player id="384130">Dutari, Francisco</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253255" pos="11">
+<Player id="802038">Fornari, Maximiliano</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253257" pos="4">
+<Player id="2673">Lequi, Matias</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253259" pos="7">
+<Player id="122713">Miloc, Dardo</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253261" pos="3">
+<Player id="122636">Peppino, Franco</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253263" pos="8">
+<Player id="339131">Pereira, Hamilton</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253265" pos="1">
+<Player id="249863">Tripodi, Emanuel</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253289">
+<Player id="803060">Alvarez, Fabio</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253291">
+<Player id="174421">Burrai, Javier</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253293">
+<Player id="105849">Caire, Maximiliano</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253295">
+<Player id="72741">Chaves, Diego</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253297">
+<Player id="955144">Coll, Israel</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253299">
+<Player id="34471">Franzoia, Andres</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253301">
+<Player id="802058">Spinacci, Renzo</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253267" pos="3">
+<Player id="249869">Alegre, Alan Jeses</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253269" pos="1">
+<Player id="249859">Benitez, Walter</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253271" pos="5">
+<Player id="249873">Bontempo, Leonel</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253273" pos="2">
+<Player id="950546">Bottino, Gaston</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253275" pos="6">
+<Player id="33963">Brana, Rodrigo</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253277" pos="7">
+<Player id="37948">Calello, Adrian</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253279" pos="9">
+<Player id="249911">Elizari, Fernando</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253281" pos="8">
+<Player id="954924">Imperiale, Daniel</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253283" pos="4">
+<Player id="33882">Malrechauffe, Damian</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253285" pos="10">
+<Player id="340947">Perez Godoy, Lucas</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253287" pos="11">
+<Player id="147350">Rescaldani, Ezequiel</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253303">
+<Player id="330865">Andrada, Federico</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253305">
+<Player id="954914">Arce, Damian</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253307">
+<Player id="578564">Celaya, Juan Gabriel</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253309">
+<Player id="47214">Dulcich, Silvio</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253311">
+<Player id="803786">Mansilla, Brian</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253313">
+<Player id="249919">Morales, Matias</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203253315">
+<Player id="579312">Suarez, Lucas</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203270947" eventtype="154" id="339554461" time="24" type="85">
+<Text language="it">L'arbitro Facundo Tello ha concesso un calcio d'angolo dalla destra allo stadio Estadio Eva Peron di Junin. Walter Busse (Sarmiento) si appresta a batterlo.</Text>
+<Text language="en">CA Sarmiento have been awarded a corner by Facundo Tello.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270903" eventtype="156" id="339553883" time="24" type="91">
+<Text language="it">Sarmiento si spinge in avanti ma Guillermo Cosaro con il suo tiro non indovina la porta.</Text>
+<Text language="en">In Junin CA Sarmiento attack through Guillermo Cosaro. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270687" eventtype="156" id="339552299" time="23" type="91">
+<Text language="it">Quilmes con Lucas Perez Godoy cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Lucas Perez Godoy of Quilmes AC gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270005" eventtype="153" id="339546907" time="20" type="112">
+<Text language="it">Offside Quilmes!</Text>
+<Text language="en">Quilmes AC push upfield but Facundo Tello quickly pulls them for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269889" eventtype="40" id="339545911" time="20" type="45">
+<Text language="it">Allo stadio Estadio Eva Peron, Rodrigo Brana (Quilmes) ha ricevuto un cartellino giallo.</Text>
+<Text language="en">Rodrigo Brana for Quilmes AC has been booked by Facundo Tello and receives a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269209" eventtype="30" id="339541191" time="17" type="41">
+<Text language="it">Carlos Bueno regala il pari su rigore alla squadra che gioca di casa! Il risultato della gara è ora di 1 - 1.</Text>
+<Text language="en">Carlos Bueno scores from the spot to level the match at 1 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269443" eventtype="40" id="339543011" time="16" type="45">
+<Text language="it">Giallo a Ezequiel Rescaldani per la squadra che gioca ospite.</Text>
+<Text language="en">Ezequiel Rescaldani (Quilmes AC) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203268451" eventtype="40" id="339534731" time="15" type="45">
+<Text language="it">Giallo per Walter Benitez (Quilmes) allo stadio Estadio Eva Peron di Junin.</Text>
+<Text language="en">At Estadio Eva Peron, Walter Benitez has been yellow-carded for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203268399" eventtype="161" id="339534401" time="14" type="95">
+<Text language="it">Rigore Sarmiento! L'arbitro ha indicato il dischetto.</Text>
+<Text language="en">An attacking CA Sarmiento player has been brought down in the area ... It's a penalty!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267479" eventtype="40" id="339528109" time="11" type="45">
+<Text language="it">L'arbitro Facundo Tello estrae il cartellino giallo! Ammonito Maximiliano Fornari per la squadra che gioca di casa allo stadio Estadio Eva Peron di Junin.</Text>
+<Text language="en">Maximiliano Fornari (CA Sarmiento) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267409" eventtype="172" id="339527365" time="11" type="116">
+<Text language="it">Sarmiento all'attacco con Guillermo Cosaro che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">Guillermo Cosaro (CA Sarmiento) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266469" eventtype="154" id="339520317" time="8" type="85">
+<Text language="it">Allo stadio Estadio Eva Peron, Walter Busse (Sarmiento) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to CA Sarmiento.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265251" eventtype="30" id="339522799" time="4" type="139">
+<Text language="it">Ezequiel Rescaldani ha effettuato l'assist.</Text>
+<Text language="en">That's a fine assist from Ezequiel Rescaldani.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265251" eventtype="30" id="339513691" time="4" type="36">
+<Text language="it">Quilmes in vantaggio ora per 1 - 0allo stadioEstadio Eva Peron. Marcatore: Fernando Elizari!</Text>
+<Text language="en">Quilmes AC take a 1 - 0 lead thanks to Fernando Elizari.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264075" eventtype="10" id="339504657" time="1" type="37">
+<Text language="it">La partita è iniziata.</Text>
+<Text language="en">The match is underway in Junin.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203253245" eventtype="80" id="339471769" time="0" type="19">
+<Text language="it">Le formazioni ufficiali della partita odierna allo stadio Estadio Eva Peron sono appena state confermate.</Text>
+<Text language="en">The team line-ups for today's match at Estadio Eva Peron are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57272525" id="339499263">
+<Text language="it">Se Carlos Bueno segna contro Quilmes, questo sarà il 5° gol per Sarmiento in questa stagione.</Text>
+<Text language="en">If Carlos Bueno scores against Quilmes AC it will be his 5th goal for CA Sarmiento this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="327873" name="Tello, Facundo">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="5711" name="Junin">
+<Name language="it">Junin</Name>
+<Name language="en">Junin</Name>
+</City>
+<Stadium id="8975" name="Estadio Eva Peron">
+<Name language="it">Estadio Eva Peron</Name>
+<Name language="en">Estadio Eva Peron</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>55</Team1>
+<Team2>45</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>2</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>4</Team1>
+<Team2>5</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>2</Team1>
+<Team2>0</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>7</Team1>
+<Team2>3</Team2>
+</ThrowIns>
+<GoalKicks>
+<Team1>1</Team1>
+<Team2>4</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>5</Team1>
+<Team2>3</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

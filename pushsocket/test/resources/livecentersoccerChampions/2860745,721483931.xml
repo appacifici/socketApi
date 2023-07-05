@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="930814" generatedAt="2016-02-17T21:18:55 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325623" Id="8736292">
+<MatchDate>2016-02-17T21:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="6397" UniqueTeamId="3212" formation="4-1-3-2">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="0" split="0" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3407871" number="0" sleeve="3407871" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Newell's Old Boys</Name>
+<Name language="en">Newell's Old Boys</Name>
+</Team1>
+<Team2 BetradarTeamId="5423" UniqueTeamId="3215" formation="4-2-3-1">
+<Color hStripes="-1" main="52479" number="0" sleeve="52479" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="3381759" number="0" sleeve="39423" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Racing Club</Name>
+<Name language="en">Racing Club</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-17T21:03:05 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Lineups>
+<TeamPlayer id="201016989" pos="9">
+<Player id="149850">Advincula, Luis</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201016991" pos="11">
+<Player id="584066">Boye, Lucas</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201016993" pos="2">
+<Player id="115693">Caceres, Marcos</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201016995" pos="4">
+<Player id="34365">Dominguez, Sebastian</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201016997" pos="3">
+<Player id="246129">Formiliano, Fabricio</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201016999" pos="5">
+<Player id="250345">Insua, Emanuel</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017001" pos="6">
+<Player id="106107">Mateo, Diego</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017005" pos="7">
+<Player id="857942">Rodriguez, Denis</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017003" pos="8">
+<Player id="3401">Rodriguez, Maxi</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017007" pos="10">
+<Player id="41015">Scocco, Nacho</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017009" pos="1">
+<Player id="805960">Unsain, Luis Ezequiel</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017011">
+<Player id="221572">D'Angelo, Sebastian</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017013">
+<Player id="960926">Fertoli, Hector</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017015">
+<Player id="106109">Formica, Mauro</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201021757" pos="0">
+<Player id="249881">Mugni, Lucas</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017017">
+<Player id="340525">Paz, Nehuen Mario</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017019">
+<Player id="956074">Valenzuela, Milton</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201017021">
+<Player id="106385">Villalba, Hernan</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015343" pos="7">
+<Player id="249965">Camacho, Washington</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015345" pos="4">
+<Player id="351824">Campi, Gaston</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015347" pos="9">
+<Player id="249399">De Paul, Rodrigo</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015349" pos="11">
+<Player id="13207">Lopez, Lisandro</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015351" pos="10">
+<Player id="39696">Noir, Ricardo</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015353" pos="8">
+<Player id="223684">Pereyra, Facundo</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015355" pos="1">
+<Player id="41014">Saja, Sebastian</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015357" pos="2">
+<Player id="951510">Schmidt, Damian</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015359" pos="6">
+<Player id="119888">Vismara, Federico</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015361" pos="3">
+<Player id="122616">Vittor, Sergio</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015363" pos="5">
+<Player id="33661">Voboril, German</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015365">
+<Player id="37942">Aued, Luciano</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015367">
+<Player id="385318">Cabral, Yonatan</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015369">
+<Player id="80879">Diaz, Gaston</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015371">
+<Player id="147572">Ibanez, Nelson</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015373">
+<Player id="925842">Martinez, Lautaro</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015375">
+<Player id="344243">Martinez, Roger</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201015377">
+<Player id="146416">Romero, Oscar</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="201029621" eventtype="156" id="334538409" time="16" type="90">
+<Text language="it">Racing Club si spinge in avanti e con Lisandro Lopez cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Racing Club are coming forward and Lisandro Lopez gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029513" eventtype="16" id="334538075" time="16" type="78">
+<Text language="it">La partita è ripresa.</Text>
+<Text language="en">Play is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029449" eventtype="158" id="334537991" time="15" type="96">
+<Text language="it">La partita è stata momentaneamente sospesa per prestare le cure a Sebastian Dominguez.</Text>
+<Text language="en">Sebastian Dominguez is down and play has been interrupted for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028825" eventtype="154" id="334536913" time="13" type="84">
+<Text language="it">Angolo Racing Club per l'arbitro Juan Pablo Pompei. Rodrigo De Paul batterà dalla bandierina sinistra.</Text>
+<Text language="en">Racing Club takes a corner from the left.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028703" eventtype="156" id="334538823" time="12" type="90">
+<Text language="it">Racing Club si spinge in avanti e con Facundo Pereyra cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Racing Club's Facundo Pereyra misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026985" eventtype="156" id="334533185" time="6" type="90">
+<Text language="it">Lucas Boye (Newell's Old Boys) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Newell's Old Boys's Lucas Boye misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026731" eventtype="156" id="334532609" time="5" type="90">
+<Text language="it">Ci prova Gaston Campi (Racing Club), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">Racing Club are pushing forward but Gaston Campi's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026691" eventtype="154" id="334532109" time="5" type="84">
+<Text language="it">Corner Racing Club! La formazione si guadagna un calcio d'angolo dalla destra.</Text>
+<Text language="en">Corner awarded to Racing Club.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026533" eventtype="172" id="334531609" time="5" type="115">
+<Text language="it">Washington Camacho (Racing Club) tenta la conclusione, ma il suo tiro viene però respinto da un difensore avversario.</Text>
+<Text language="en">Washington Camacho (Racing Club) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026093" eventtype="156" id="334530611" time="3" type="90">
+<Text language="it">Occasione Newell's Old Boys con Lucas Boye! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">Lucas Boye of Newell's Old Boys gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201025047" eventtype="10" id="334528955" time="1" type="0">
+<Text language="it">Il primo tempo è appena cominciato.</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201015343" eventtype="80" id="334527033" time="0" type="13">
+<Text language="it">Tutto è pronto! Anche le formazioni ufficiali sono state rese note!</Text>
+<Text language="en">Today's match line-ups are now presented.</Text>
+</Phrase>
+</Phrases>
+<Referee id="134786" name="Pompei, Juan Pablo">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="725" name="Rosario">
+<Name language="it">Rosario</Name>
+<Name language="en">Rosario</Name>
+</City>
+<Stadium id="1567" name="Estadio Marcelo Bielsa">
+<Name language="it">Stadio Marcelo Bielsa</Name>
+<Name language="en">Estadio Marcelo Bielsa</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<ShotsOffGoal>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>0</Team1>
+<Team2>2</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>1</Team1>
+<Team2>4</Team2>
+</ThrowIns>
+<GoalKicks>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

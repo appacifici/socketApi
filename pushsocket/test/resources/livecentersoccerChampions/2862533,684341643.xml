@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="931059" generatedAt="2016-02-17T21:48:43 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="393">
+<Name language="it">Clubs Internazionali</Name>
+<Name language="en">International Clubs</Name>
+<Tournament BetradarTournamentId="23" UniqueTournamentId="7">
+<Name language="it">UEFA Champions League, Knockout stage</Name>
+<Name language="en">UEFA Champions League, Knockout stage</Name>
+<Match BetradarMatchId="10221866" Id="8580990">
+<MatchDate>2016-02-17T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="5431241" UniqueTeamId="2903" formation="3-5-2">
+<Color hStripes="255" main="16777215" number="255" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16711680" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Gent</Name>
+<Name language="en">KAA Gent</Name>
+</Team1>
+<Team2 BetradarTeamId="1465334" UniqueTeamId="2524" formation="4-2-3-1">
+<Color hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3381708" number="16777215" sleeve="3381708" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Wolfsburg</Name>
+<Name language="en">VfL Wolfsburg</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-17T21:28:29 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-17T21:48:24 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="201032429">
+<Time>44</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="142680">Draxler, Julian</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Substitutions>
+<Substitution id="201033231">
+<Time>45</Time>
+<PlayerOut id="48555">Jung, Sebastian</PlayerOut>
+<PlayerIn id="70492">Schurrle, Andre</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="201001083" pos="4">
+<Player id="32743">Asare, Nana</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001093" pos="9">
+<Player id="122859">Dejaegere, Brecht</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001095" pos="10">
+<Player id="171235">Depoitre, Laurent</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001085" pos="5">
+<Player id="245615">Foket, Thomas</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001091" pos="8">
+<Player id="45990">Kums, Sven</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001087" pos="6">
+<Player id="14819">Milicevic, Danijel</Player>
+<ShirtNumber>77</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001081" pos="3">
+<Player id="108736">Mitrovic, Stefan</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001089" pos="7">
+<Player id="116369">Neto, Renato</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001079" pos="2">
+<Player id="21547">Nielsen, Lasse</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001077" pos="1">
+<Player id="78152">Sels, Matz</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001097" pos="11">
+<Player id="330051">Simon, Moses</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001111" pos="0">
+<Player id="159701">Coulibaly, Kalifa</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001107" pos="0">
+<Player id="51349">Deaux, Lucas</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001101" pos="0">
+<Player id="64902">Gershon, Rami</Player>
+<ShirtNumber>55</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001109" pos="0">
+<Player id="46400">Matton, Thomas</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001103" pos="0">
+<Player id="23023">Rafinha</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001105" pos="0">
+<Player id="194478">Saief, Kenneth Hassan</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201001099" pos="0">
+<Player id="2593">Vandenbussche, Brian</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002185" pos="9">
+<Player id="147289">Arnold, Maximilian</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002169" pos="1">
+<Player id="70987">Casteels, Koen</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002173" pos="4">
+<Player id="3577">Dante</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002187" pos="10">
+<Player id="142680">Draxler, Julian</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002181" pos="7">
+<Player id="29735">Gustavo, Luiz</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002171" pos="2">
+<Player id="48555">Jung, Sebastian</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002175" pos="3">
+<Player id="130433">Knoche, Robin</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002189" pos="11">
+<Player id="26687">Kruse, Max</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002177" pos="5">
+<Player id="67769">Rodriguez, Ricardo</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002179" pos="6">
+<Player id="15031">Trasch, Christian</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002183" pos="8">
+<Player id="41225">Vieirinha</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002195" pos="0">
+<Player id="769243">Azzaoui, Ismail</Player>
+<ShirtNumber>38</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002201" pos="0">
+<Player id="838379">Bruno Henrique</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002191" pos="0">
+<Player id="13025">Grun, Max</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002761">
+<Player id="241812">Klinger, Niklas</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002199" pos="0">
+<Player id="572850">Putaro, Leandro</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002193" pos="0">
+<Player id="2389">Schafer, Marcel</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201002197" pos="0">
+<Player id="70492">Schurrle, Andre</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="201037941" eventtype="23" id="334554027" time="46" type="21">
+<Text language="it">Svein Oddvar Moen ha fischiato! E' iniziato il secondo tempo.</Text>
+<Text language="en">The second-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033869" eventtype="35" id="334548067" time="45" type="22">
+<Text language="it">Si è concluso il primo tempo allo stadio Ghelamco Arena.</Text>
+<Text language="en">The ref's whistle signals the end of the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033711" eventtype="154" id="334547815" time="45" type="85">
+<Text language="it">Corner Gent allo stadio Ghelamco Arena di Gent. Danijel Milicevic batterà dalla bandierina sinistra.</Text>
+<Text language="en">KAA Gent have been awarded a corner by Svein Oddvar Moen.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033357" eventtype="90" id="334546977" time="45" type="106">
+<Text language="it">L'arbitro Svein Oddvar Moen ha concesso 2 minuti di recupero nel primo tempo della sfida dello stadio Ghelamco Arena.</Text>
+<Text language="en">2 minutes will be added to the first half in Gent.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033245" eventtype="154" id="334546559" time="45" type="85">
+<Text language="it">A Gent Danijel Milicevic (Gent) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to KAA Gent.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033233" eventtype="16" id="334546475" time="45" type="79">
+<Text language="it">Il match è ripreso!</Text>
+<Text language="en">The match is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033231" eventtype="60" id="334546391" time="45" type="73">
+<Text language="it">Dieter Hecking (Wolfsburg) è costretto a fare il primo cambio, con Andre Schurrle che rimpiazza il possibile infortunato Sebastian Jung.</Text>
+<Text language="en">Andre Schurrle (VfL Wolfsburg) has replaced the possibly injured Sebastian Jung.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032981" eventtype="158" id="334546055" time="45" type="97">
+<Text language="it">Il gioco a Gent è stato momentaneamente interrotto per controllare le condizioni di Sebastian Jung che accusava dolore.</Text>
+<Text language="en">Svein Oddvar Moen waits before resuming play because Sebastian Jung for VfL Wolfsburg is still down.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032429" eventtype="30" id="334545889" time="44" type="139">
+<Text language="it">Vieirinha ha fornito l'assist per il gol.</Text>
+<Text language="en">Great play from Vieirinha to set up the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032429" eventtype="30" id="334545305" time="44" type="36">
+<Text language="it">Gol! Julian Draxler (Wolfsburg) porta in vantaggio i suoi che ora conducono 1 - 0 allo stadio Ghelamco Arena.</Text>
+<Text language="en">Julian Draxler is on target to give VfL Wolfsburg a 1 - 0 advantage.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030781" eventtype="172" id="334541401" time="38" type="116">
+<Text language="it">Wolfsburg all'attacco con Julian Draxler che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">Julian Draxler (VfL Wolfsburg) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030767" eventtype="155" id="334541317" time="38" type="89">
+<Text language="it">Conclusione di Max Kruse (Wolfsburg) allo stadio Ghelamco Arena di Gent, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">Max Kruse gets his shot on target but fails to score for VfL Wolfsburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030351" eventtype="154" id="334539989" time="36" type="85">
+<Text language="it">Allo stadio Ghelamco Arena, Danijel Milicevic (Gent) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">KAA Gent have been awarded a corner by Svein Oddvar Moen.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029093" eventtype="172" id="334537493" time="32" type="116">
+<Text language="it">Moses Simon (Gent) allo stadio Ghelamco Arena prova un tiro che però viene respinto da uno dei difensori appostati nell'area di rigore.</Text>
+<Text language="en">KAA Gent push forward at Ghelamco Arena and Moses Simon gets in a strike. This is blocked, however, by a determined VfL Wolfsburg defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028045" eventtype="154" id="334535499" time="27" type="85">
+<Text language="it">L'arbitro Svein Oddvar Moen ha concesso un calcio d'angolo dalla destra allo stadio Ghelamco Arena di Gent. Vieirinha (Wolfsburg) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to VfL Wolfsburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201027257" eventtype="156" id="334533765" time="25" type="91">
+<Text language="it">Luiz Gustavo (Wolfsburg) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">VfL Wolfsburg are coming forward and Luiz Gustavo gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201027209" eventtype="154" id="334533599" time="25" type="85">
+<Text language="it">Allo stadio Ghelamco Arena, Ricardo Rodriguez (Wolfsburg) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Corner awarded to VfL Wolfsburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026763" eventtype="156" id="334532443" time="24" type="91">
+<Text language="it">Wolfsburg con Vieirinha cerca la rete allo stadio Ghelamco Arena con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Vieirinha of VfL Wolfsburg gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201025711" eventtype="155" id="334530199" time="20" type="89">
+<Text language="it">Occasione Wolfsburg con Maximilian Arnold, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">In Gent VfL Wolfsburg drive forward through Maximilian Arnold. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201025617" eventtype="154" id="334530113" time="20" type="85">
+<Text language="it">Angolo Wolfsburg secondo l'arbitro Svein Oddvar Moen. Ricardo Rodriguez lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">VfL Wolfsburg have been awarded a corner by Svein Oddvar Moen.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201025419" eventtype="172" id="334529947" time="19" type="116">
+<Text language="it">A Gent, Max Kruse (Wolfsburg) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">VfL Wolfsburg drive upfield and Max Kruse gets in a shot. The strike is blocked by a KAA Gent defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201024231" eventtype="156" id="334528119" time="15" type="91">
+<Text language="it">Allo stadio Ghelamco Arena di Gent occasione Wolfsburg! Ci prova Christian Trasch, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">VfL Wolfsburg's Christian Trasch misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201024219" eventtype="172" id="334528035" time="15" type="116">
+<Text language="it">Occasione Gent con Sebastian Jung, ma la sua conclusione viene intercettata da un difensore avversario.</Text>
+<Text language="en">Important block from the KAA Gent defence as Sebastian Jung fires in a strike for VfL Wolfsburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201023779" eventtype="156" id="334527621" time="13" type="91">
+<Text language="it">Wolfsburg si spinge in avanti ma Maximilian Arnold con il suo tiro non indovina la porta.</Text>
+<Text language="en">VfL Wolfsburg are pushing forward but Maximilian Arnold's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201023393" eventtype="168" id="334527365" time="12" type="99">
+<Text language="it">Sebastian Jung ha ricevuto le cure ed ora è tornato in campo allo stadio Ghelamco Arena di Gent.</Text>
+<Text language="en">Sebastian Jung returns to the field for VfL Wolfsburg after picking up a slight injury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201023173" eventtype="156" id="334527117" time="11" type="91">
+<Text language="it">Ci prova Thomas Foket (Gent), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">KAA Gent's Thomas Foket gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201022885" eventtype="16" id="334526867" time="10" type="79">
+<Text language="it">La gara è ripresa.</Text>
+<Text language="en">The match in Gent is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201022865" eventtype="158" id="334526783" time="10" type="97">
+<Text language="it">La partita allo stadio Ghelamco Arena è stata interrotta per controllare le condizioni di Sebastian Jung.</Text>
+<Text language="en">Sebastian Jung is writhing in pain and play has been suspended for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201021531" eventtype="156" id="334524697" time="5" type="91">
+<Text language="it">Julian Draxler (Wolfsburg) prova il tiro allo stadio Ghelamco Arena. La sua conclusione però termina fuori.</Text>
+<Text language="en">In Gent VfL Wolfsburg attack through Julian Draxler. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201019927" eventtype="156" id="334523783" time="1" type="128">
+<Text language="it">Christian Trasch (Wolfsburg) ci prova con un colpo di testa che però non centra la porta.</Text>
+<Text language="en">Christian Trasch (VfL Wolfsburg) wins the ball in the air but heads wide.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201019667" eventtype="10" id="334522865" time="1" type="37">
+<Text language="it">Prende il via il match in programma allo stadio Ghelamco Arena di Gent.</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201001077" eventtype="80" id="334511881" time="0" type="19">
+<Text language="it">Le formazioni ufficiali delle due squadre sono state rese note.</Text>
+<Text language="en">The line-ups for today's big match in Gent are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="52458" name="Moen, Svein Oddvar">
+<Country id="160" name="Norway">
+<Name language="it">Norvegia</Name>
+<Name language="en">Norway</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+<City id="673" name="Gent">
+<Name language="it">Gent</Name>
+<Name language="en">Gent</Name>
+</City>
+<Stadium id="13232" name="Ghelamco Arena">
+<Name language="it">Ghelamco Arena</Name>
+<Name language="en">Ghelamco Arena</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>52</Team1>
+<Team2>48</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>0</Team1>
+<Team2>3</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>1</Team1>
+<Team2>7</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>8</Team1>
+<Team2>6</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>3</Team1>
+<Team2>3</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>13</Team1>
+<Team2>11</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>0</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>9</Team1>
+<Team2>3</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>6</Team1>
+<Team2>8</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="44">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+<Tournament BetradarTournamentId="280" UniqueTournamentId="239">
+<Name language="it">Segunda Liga</Name>
+<Name language="en">Segunda Liga</Name>
+<Match BetradarMatchId="10240633" Id="7559300">
+<MatchDate>2016-02-17T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="127139" UniqueTeamId="3017">
+<Color hStripes="-1" main="13369344" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Penafiel</Name>
+<Name language="en">FC Penafiel</Name>
+</Team1>
+<Team2 BetradarTeamId="6269677" UniqueTeamId="74469">
+<Color hStripes="-1" main="204" number="16777215" sleeve="204" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="10066329" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Porto B</Name>
+<Name language="en">FC Porto B</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-17T21:26:59 CET</Time>
+<Team>1</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-17T21:03:42 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal from="heading" id="201014191">
+<Time>30</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="190159">Silva, Andre</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal id="201031929">
+<Time>68</Time>
+<Team1>1</Team1>
+<Team2>1</Team2>
+<Player id="170079">Aldair</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="201033725" type="YellowRed">
+<Time>74</Time>
+<Player id="270311">Leon, Ismael</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="201014391" type="Yellow">
+<Time>31</Time>
+<Player id="12285">Pedro Araujo</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="201020111" type="Yellow">
+<Time>45</Time>
+<Player id="794816">Garcia, Victor</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="201029165" type="Yellow">
+<Time>58</Time>
+<Player id="270311">Leon, Ismael</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="201031063" type="Yellow">
+<Time>66</Time>
+<Player id="59906">Melo, Diogo</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="201036807" type="Yellow">
+<Time>86</Time>
+<Player id="59799">Ribeiro, Pedro</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="201037073" type="Yellow">
+<Time>87</Time>
+<Player id="775079">Fernandes, Jorge</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="201037129" type="Yellow">
+<Time>87</Time>
+<Player id="190159">Silva, Andre</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="201024953">
+<Time>46</Time>
+<PlayerOut id="251911">Mbala, Davi</PlayerOut>
+<PlayerIn id="42126">Abreu, Goncalo</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="201027477">
+<Time>52</Time>
+<PlayerOut id="96854">Yero</PlayerOut>
+<PlayerIn id="62024">Miguel, Rui</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="201030823">
+<Time>65</Time>
+<PlayerOut id="125239">Barros, Tiago</PlayerOut>
+<PlayerIn id="78744">Martins, Joao</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="201035183">
+<Time>80</Time>
+<PlayerOut id="318943">Macedo, Ruben</PlayerOut>
+<PlayerIn id="310786">Ribeiro, Claudio</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="200990311">
+<Player id="170079">Aldair</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990319">
+<Player id="14311">Amoreirinha</Player>
+<ShirtNumber>52</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990323">
+<Player id="125239">Barros, Tiago</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990315">
+<Player id="99544">Caetano</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990305">
+<Player id="6786">Coelho, Julio</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990313">
+<Player id="868640">Kalindi</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990309">
+<Player id="251911">Mbala, Davi</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990317">
+<Player id="59906">Melo, Diogo</Player>
+<ShirtNumber>50</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990321">
+<Player id="12285">Pedro Araujo</Player>
+<ShirtNumber>55</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990307">
+<Player id="59799">Ribeiro, Pedro</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990325">
+<Player id="96854">Yero</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990359">
+<Player id="42126">Abreu, Goncalo</Player>
+<ShirtNumber>86</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990357">
+<Player id="344059">Bata</Player>
+<ShirtNumber>71</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990351">
+<Player id="14279">Ivo Goncalves</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990349">
+<Player id="78744">Martins, Joao</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990353">
+<Player id="62024">Miguel, Rui</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990355">
+<Player id="13141">Paulo, Joao</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990347">
+<Player id="309392">Zidnaba, Djibril</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990341">
+<Player id="775079">Fernandes, Jorge</Player>
+<ShirtNumber>64</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990329">
+<Player id="794816">Garcia, Victor</Player>
+<ShirtNumber>42</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990343">
+<Player id="359080">Govea, Omar</Player>
+<ShirtNumber>66</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990333">
+<Player id="309296">Graca, Joao</Player>
+<ShirtNumber>50</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200996335">
+<Player id="252669">Jose Sa</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990331">
+<Player id="270311">Leon, Ismael</Player>
+<ShirtNumber>47</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990345">
+<Player id="318943">Macedo, Ruben</Player>
+<ShirtNumber>77</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990339">
+<Player id="280959">Moreira, Rui</Player>
+<ShirtNumber>60</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990327">
+<Player id="190159">Silva, Andre</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990335">
+<Player id="869378">Soares, Rodrigo</Player>
+<ShirtNumber>52</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990337">
+<Player id="138888">Tomas</Player>
+<ShirtNumber>56</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990371">
+<Player id="343617">Caio, Andre</Player>
+<ShirtNumber>91</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200996337">
+<Player id="370272">Chikhaoui, Haykeul</Player>
+<ShirtNumber>96</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990361">
+<Player id="540112">Palmer-Brown, Erik</Player>
+<ShirtNumber>43</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990367">
+<Player id="310786">Ribeiro, Claudio</Player>
+<ShirtNumber>67</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990369">
+<Player id="280957">Ribeiro, Sergio</Player>
+<ShirtNumber>70</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990365">
+<Player id="605426">Ruiz, Leonardo</Player>
+<ShirtNumber>59</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="200990363">
+<Player id="757848">Zitouni, Nassim</Player>
+<ShirtNumber>46</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="201037977" eventtype="155" id="334554193" time="90" type="118">
+<Text language="it">Colpo di testa di Rui Miguel (Penafiel) allo stadio Estadio Municipal 25 de Abril di Penafiel, ma la retroguardia avversaria non si lascia impensierire!</Text>
+<Text language="en">Rui Miguel (FC Penafiel) gets in a powerful header but the ball is cleared away.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201037489" eventtype="172" id="334553111" time="88" type="116">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Joao Martins (Penafiel) ci prova con un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">FC Penafiel's Joao Martins gets in a shot but it is blocked by a FC Porto B defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201037129" eventtype="40" id="334552371" time="87" type="45">
+<Text language="it">Giallo per Andre Silva (Porto B) allo stadio Estadio Municipal 25 de Abril di Penafiel.</Text>
+<Text language="en">Andre Silva is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201037073" eventtype="40" id="334552287" time="87" type="45">
+<Text language="it">Jorge Fernandes (Porto B) ha ricevuto un cartellino giallo dall'arbitro Joao Borlido Matos.</Text>
+<Text language="en">Jorge Fernandes (FC Porto B) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201036807" eventtype="40" id="334551873" time="86" type="45">
+<Text language="it">Pedro Ribeiro (Penafiel) è finito sul taccuino dell'arbitro Joao Borlido Matos per un cartellino giallo.</Text>
+<Text language="en">Pedro Ribeiro (FC Penafiel) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201036209" eventtype="172" id="334551043" time="83" type="116">
+<Text language="it">Penafiel all'attacco con Rui Miguel che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">FC Penafiel push forward at Estadio Municipal 25 de Abril and Rui Miguel gets in a strike. This is blocked, however, by a determined FC Porto B defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201035183" eventtype="60" id="334549807" time="80" type="44">
+<Text language="it">Sostituzione Porto B: esce Ruben Macedo ed entra Claudio Ribeiro.</Text>
+<Text language="en">Claudio Ribeiro is replacing Ruben Macedo for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201035119" eventtype="153" id="334549559" time="79" type="93">
+<Text language="it">Porto B con Ruben Macedo si fa trovare in fuorigioco allo stadio Estadio Municipal 25 de Abril.</Text>
+<Text language="en">In Penafiel FC Porto B's Ruben Macedo is caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201034651" eventtype="155" id="334549145" time="78" type="118">
+<Text language="it">Rui Miguel (Penafiel) ci prova con un colpo di testa che viene però respinto bene dalla difesa avversaria.</Text>
+<Text language="en">FC Penafiel's Rui Miguel goes close with his head but his effort is blocked.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201034575" eventtype="154" id="334548979" time="78" type="85">
+<Text language="it">Angolo Penafiel secondo l'arbitro Joao Borlido Matos. Joao Martins lo batterà dalla bandierina destra.</Text>
+<Text language="en">FC Penafiel have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201034275" eventtype="156" id="334548565" time="77" type="91">
+<Text language="it">Aldair (Penafiel) cerca la rete a Penafiel con un tiro che, però, non trova lo specchio della porta.</Text>
+<Text language="en">FC Penafiel's Aldair breaks free at Estadio Municipal 25 de Abril. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201034245" eventtype="168" id="334548481" time="76" type="99">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril Kalindi, dopo aver ricevuto delle cure, ha fatto ritorno in campo.</Text>
+<Text language="en">Kalindi has recovered and rejoins the match in Penafiel.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201034057" eventtype="16" id="334548317" time="76" type="79">
+<Text language="it">L'arbitro Joao Borlido Matos ha fatto riprendere il gioco, dopo l'interruzione, allo stadio Estadio Municipal 25 de Abril di Penafiel.</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033903" eventtype="158" id="334548151" time="75" type="97">
+<Text language="it">Kalindi è a terra ed il gioco è stato momentaneamente interrotto.</Text>
+<Text language="en">Kalindi is down and play has been interrupted for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201033725" eventtype="45" id="334547899" time="74" type="46">
+<Text language="it">Ismael Leon (Porto B) ha ricevuto il secondo giallo da Joao Borlido Matos. Inevitabile a questo punto il rosso!</Text>
+<Text language="en">Ismael Leon (FC Porto B) has been booked for the second time by the referee and is off!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032711" eventtype="168" id="334545723" time="71" type="99">
+<Text language="it">Jorge Fernandes (Porto B) è tornato in campo.</Text>
+<Text language="en">Jorge Fernandes returns to the field for FC Porto B after picking up a slight injury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032519" eventtype="153" id="334545471" time="70" type="93">
+<Text language="it">Aldair (Penafiel) è stato colto in fuorigioco allo stadio Estadio Municipal 25 de Abril.</Text>
+<Text language="en">Aldair of FC Penafiel is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201032261" eventtype="16" id="334544889" time="70" type="79">
+<Text language="it">La partita è ripresa allo stadio Estadio Municipal 25 de Abril.</Text>
+<Text language="en">Joao Borlido Matos has blown to resume play in Penafiel.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031985" eventtype="158" id="334544639" time="69" type="97">
+<Text language="it">La partita allo stadio Estadio Municipal 25 de Abril è stata interrotta per controllare le condizioni di Jorge Fernandes.</Text>
+<Text language="en">Attention is being given to FC Porto B’s Jorge Fernandes and play has been suspended briefly.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031929" eventtype="30" id="334544391" time="68" type="139">
+<Text language="it">Joao Martins ha fornito l'assist per il gol.</Text>
+<Text language="en">Joao Martins instrumental with a fine assist.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031929" eventtype="30" id="334544225" time="68" type="34">
+<Text language="it">Aldair pareggia i conti! Il risultato è ora di: 1 - 1.</Text>
+<Text language="en">Goal! Aldair equalizes to bring the score to 1 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031717" eventtype="153" id="334543645" time="68" type="93">
+<Text language="it">Fuorigioco Porto B con Ismael Leon!</Text>
+<Text language="en">Ismael Leon for the away team is judged to be offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031501" eventtype="156" id="334543311" time="67" type="91">
+<Text language="it">Ci prova Tomas (Porto B), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">In Penafiel FC Porto B attack through Tomas. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031439" eventtype="154" id="334543227" time="67" type="85">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Omar Govea (Porto B) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to FC Porto B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201031063" eventtype="40" id="334542313" time="66" type="45">
+<Text language="it">Giallo a Diogo Melo per la squadra che gioca di casa.</Text>
+<Text language="en">At Estadio Municipal 25 de Abril, Diogo Melo has been yellow-carded for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030823" eventtype="60" id="334541567" time="65" type="44">
+<Text language="it">Cambio Penafiel: Joao Martins è il sostituto di Tiago Barros.</Text>
+<Text language="en">FC Penafiel make their third substitution with Joao Martins replacing Tiago Barros.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030733" eventtype="153" id="334541233" time="64" type="93">
+<Text language="it">Joao Borlido Matos fischia a Ismael Leon (Porto B) un fuorigioco.</Text>
+<Text language="en">FC Porto B's Ismael Leon has run offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201030567" eventtype="156" id="334540653" time="64" type="91">
+<Text language="it">Occasione Porto B nella sfida dello stadio Estadio Municipal 25 de Abril di Penafiel, ma Ismael Leon non trova la porta!</Text>
+<Text language="en">Ismael Leon for FC Porto B gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029637" eventtype="156" id="334538575" time="60" type="128">
+<Text language="it">A Penafiel, Diogo Melo (Penafiel) ci prova con un colpo di testa che però non centra la porta.</Text>
+<Text language="en">In Penafiel, Diogo Melo (FC Penafiel) misses the target with a header.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029547" eventtype="154" id="334538157" time="60" type="85">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Tiago Barros (Penafiel) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">FC Penafiel have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029165" eventtype="40" id="334537659" time="58" type="45">
+<Text language="it">L'arbitro Joao Borlido Matos estrae il cartellino giallo! Ammonito Ismael Leon per la squadra che gioca ospite allo stadio Estadio Municipal 25 de Abril di Penafiel.</Text>
+<Text language="en">Ismael Leon for FC Porto B has been booked by Joao Borlido Matos and receives a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201029033" eventtype="153" id="334537245" time="58" type="112">
+<Text language="it">La squadra ospite è stata colta in fuorigioco.</Text>
+<Text language="en">FC Porto B push upfield but Joao Borlido Matos quickly pulls them for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201028527" eventtype="156" id="334536415" time="56" type="91">
+<Text language="it">Porto B con Ruben Macedo cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Ruben Macedo of FC Porto B gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201027477" eventtype="60" id="334534427" time="52" type="44">
+<Text language="it">Cambio Penafiel! Rui Miguel sostituisce Yero. Questo e' il secondo cambio per Paulo Alves.</Text>
+<Text language="en">Paulo Alves (FC Penafiel) is making a second substitution, with Rui Miguel replacing Yero.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201027289" eventtype="154" id="334533931" time="52" type="85">
+<Text language="it">Angolo Porto B secondo l'arbitro Joao Borlido Matos. Omar Govea lo batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to FC Porto B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026513" eventtype="153" id="334531525" time="49" type="93">
+<Text language="it">Porto B in avanti, però Ismael Leon si fa cogliere in fuorigioco.</Text>
+<Text language="en">Ismael Leon for FC Porto B is whistled offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026423" eventtype="155" id="334531357" time="49" type="89">
+<Text language="it">Ci prova Ruben Macedo (Porto B), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">FC Porto B push forward through Ruben Macedo, whose finish on goal is saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201026295" eventtype="153" id="334531109" time="48" type="93">
+<Text language="it">Goncalo Abreu (Penafiel) è pescato in fuorigioco.</Text>
+<Text language="en">FC Penafiel's Goncalo Abreu is whistled for offside at Estadio Municipal 25 de Abril.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201025277" eventtype="23" id="334529535" time="46" type="21">
+<Text language="it">Il secondo tempo è appena iniziato.</Text>
+<Text language="en">The second half has started at Estadio Municipal 25 de Abril.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201024953" eventtype="60" id="334528787" time="46" type="44">
+<Text language="it">Cambio Penafiel: Goncalo Abreu prende il posto di Davi Mbala.</Text>
+<Text language="en">The home team have replaced Davi Mbala with Goncalo Abreu. This is the first substitution made today by Paulo Alves.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201020773" eventtype="35" id="334524197" time="45" type="22">
+<Text language="it">Il primo tempo è terminato.</Text>
+<Text language="en">The first-half has ended.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201020673" eventtype="156" id="334524031" time="45" type="91">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril di Penafiel occasione Penafiel! Ci prova Aldair, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">FC Penafiel's Aldair gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201020111" eventtype="40" id="334523365" time="45" type="45">
+<Text language="it">Ammonito Victor Garcia (Porto B)!</Text>
+<Text language="en">Victor Garcia (FC Porto B) has received a yellow card from Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201019841" eventtype="90" id="334522949" time="45" type="106">
+<Text language="it">Il quarto uomo ha appena indicato che saranno 1 i minuti di recupero per il primo tempo.</Text>
+<Text language="en">1 minutes of injury time will be added to the first half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201017997" eventtype="154" id="334522123" time="40" type="85">
+<Text language="it">L'arbitro Joao Borlido Matos ha concesso un calcio d'angolo dalla sinistra allo stadio Estadio Municipal 25 de Abril di Penafiel. Joao Graca (Porto B) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to FC Porto B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201016857" eventtype="156" id="334521457" time="37" type="91">
+<Text language="it">Porto B si spinge in avanti ma Victor Garcia con il suo tiro non indovina la porta.</Text>
+<Text language="en">FC Porto B are coming forward and Victor Garcia gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201016767" eventtype="172" id="334521373" time="37" type="116">
+<Text language="it">A Penafiel, Ismael Leon (Porto B) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Important block from the FC Penafiel defence as Ismael Leon fires in a strike for FC Porto B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201016503" eventtype="155" id="334521123" time="36" type="89">
+<Text language="it">Yero (Penafiel) ha calciato in porta. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">FC Penafiel's Yero is on target but unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201016427" eventtype="154" id="334521039" time="36" type="85">
+<Text language="it">A Penafiel Pedro Araujo (Penafiel) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">FC Penafiel have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201015935" eventtype="156" id="334520625" time="35" type="91">
+<Text language="it">Occasione Porto B con Tomas! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">FC Porto B's Tomas breaks free at Estadio Municipal 25 de Abril. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201015853" eventtype="154" id="334520541" time="34" type="85">
+<Text language="it">Corner Porto B allo stadio Estadio Municipal 25 de Abril di Penafiel. Omar Govea batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to FC Porto B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201014391" eventtype="40" id="334520041" time="31" type="45">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Pedro Araujo (Penafiel) ha ricevuto un cartellino giallo.</Text>
+<Text language="en">Pedro Araujo (FC Penafiel) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201014191" eventtype="30" id="334520791" time="30" type="139">
+<Text language="it">Omar Govea ha effettuato l'assist.</Text>
+<Text language="en">Omar Govea with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201014191" eventtype="30" id="334519957" time="30" type="130">
+<Text language="it">Gol! Porto B conduce ora per 1 - 0 grazie alla rete messa a segno con un bel colpo di testa da Andre Silva.</Text>
+<Text language="en">FC Porto B's Andre Silva scores with his head to give his side a 1 - 0 lead.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201013937" eventtype="154" id="334519873" time="29" type="85">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Omar Govea (Porto B) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">FC Porto B have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201012655" eventtype="156" id="334519209" time="25" type="128">
+<Text language="it">Amoreirinha (Penafiel) tenta la conclusione di testa ma la palla esce a lato.</Text>
+<Text language="en">Amoreirinha's header is off-target for FC Penafiel.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201012593" eventtype="154" id="334519125" time="25" type="85">
+<Text language="it">L'arbitro Joao Borlido Matos ha concesso un calcio d'angolo dalla destra allo stadio Estadio Municipal 25 de Abril di Penafiel. Pedro Araujo (Penafiel) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to FC Penafiel.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201012425" eventtype="154" id="334519041" time="24" type="85">
+<Text language="it">A Penafiel Pedro Araujo (Penafiel) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">FC Penafiel have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201012143" eventtype="153" id="334518873" time="24" type="93">
+<Text language="it">A Penafiel Ismael Leon (Porto B) si è fatto sorprendere in fuorigioco.</Text>
+<Text language="en">FC Porto B drive forward but Ismael Leon is judged offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201011899" eventtype="154" id="334518451" time="23" type="85">
+<Text language="it">Corner Penafiel allo stadio Estadio Municipal 25 de Abril di Penafiel. Aldair batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to FC Penafiel.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201012249" eventtype="172" id="334518957" time="22" type="116">
+<Text language="it">Aldair va alla conclusione allo stadio Estadio Municipal 25 de Abril di Penafiel, ma il suo tiro viene bloccato da un difensore avversario!</Text>
+<Text language="en">Aldair (FC Penafiel) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201010863" eventtype="155" id="334517947" time="19" type="89">
+<Text language="it">Porto B ci prova con un tiro in porta di Rodrigo Soares allo stadio Estadio Municipal 25 de Abril. Conclusione che però non va a buon fine.</Text>
+<Text language="en">Rodrigo Soares of FC Porto B smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201010785" eventtype="154" id="334517781" time="19" type="85">
+<Text language="it">Angolo Porto B secondo l'arbitro Joao Borlido Matos. Joao Graca lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Porto B have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201010465" eventtype="153" id="334517615" time="18" type="93">
+<Text language="it">L'arbitro Joao Borlido Matos fischia un fuorigioco a Davi Mbala per la squadra che gioca di casa nella sfida dello stadio Estadio Municipal 25 de Abril di Penafiel.</Text>
+<Text language="en">Davi Mbala of FC Penafiel is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201010051" eventtype="154" id="334516947" time="17" type="85">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Omar Govea (Porto B) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Corner awarded to FC Porto B.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201009845" eventtype="154" id="334516697" time="16" type="85">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril, Joao Graca (Porto B) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Porto B have been awarded a corner by Joao Borlido Matos.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201008733" eventtype="156" id="334516115" time="13" type="91">
+<Text language="it">Ruben Macedo (Porto B) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">FC Porto B are pushing forward but Ruben Macedo's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201008693" eventtype="172" id="334516031" time="13" type="116">
+<Text language="it">Victor Garcia (Porto B) prova un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Victor Garcia (FC Porto B) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201006489" eventtype="16" id="334514299" time="6" type="79">
+<Text language="it">La partita è di nuovo in corso.</Text>
+<Text language="en">The match in Penafiel is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201006463" eventtype="168" id="334514131" time="6" type="99">
+<Text language="it">Julio Coelho ha ricevuto le cure ed ora è tornato in campo allo stadio Estadio Municipal 25 de Abril di Penafiel.</Text>
+<Text language="en">FC Penafiel’s Julio Coelho is on his feet again at Estadio Municipal 25 de Abril.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201006135" eventtype="158" id="334513881" time="5" type="97">
+<Text language="it">Gara temporaneamente sospesa per l'infortunio a Julio Coelho (Penafiel)!</Text>
+<Text language="en">The match has been stopped briefly for attention to the injured Julio Coelho.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201004683" eventtype="10" id="334512967" time="1" type="37">
+<Text language="it">Allo stadio Estadio Municipal 25 de Abril di Penafiel l'arbitro Joao Borlido Matos ha dato il via alla gara.</Text>
+<Text language="en">Today's referee, Joao Borlido Matos, has blown to start the match.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="200990305" eventtype="80" id="334508967" time="0" type="19">
+<Text language="it">Sono state rese note le formazioni ufficiali.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Referee id="260135" name="Matos, Joao Borlido">
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+<City id="3640" name="Penafiel">
+<Name language="it">Penafiel</Name>
+<Name language="en">Penafiel</Name>
+</City>
+<Stadium id="5322" name="Estadio Municipal 25 de Abril">
+<Name language="it">Estadio Municipal 25 de Abril</Name>
+<Name language="en">Estadio Municipal 25 de Abril</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>42</Team1>
+<Team2>58</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>4</Team1>
+<Team2>3</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>4</Team1>
+<Team2>6</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>17</Team1>
+<Team2>24</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>6</Team1>
+<Team2>8</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>3</Team1>
+<Team2>6</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>19</Team1>
+<Team2>16</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>7</Team1>
+<Team2>9</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>21</Team1>
+<Team2>11</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

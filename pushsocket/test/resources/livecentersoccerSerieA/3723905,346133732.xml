@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="996680" generatedAt="2016-02-27T21:04:54 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325642" Id="8736332">
+<MatchDate>2016-02-27T21:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="6537" UniqueTeamId="3206" formation="4-2-3-1">
+<Color hStripes="-1" main="16711680" number="0" sleeve="16711680" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Estudiantes</Name>
+<Name language="en">Estudiantes de La Plata</Name>
+</Team1>
+<Team2 BetradarTeamId="5562" UniqueTeamId="3216" formation="4-2-3-1">
+<Color hStripes="-1" main="13369344" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6710886" number="16777215" sleeve="6710886" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Argentinos Juniors</Name>
+<Name language="en">Argentinos Jrs</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T21:02:28 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Phrases>
+<Phrase disabled="0" eventid="203264609" eventtype="154" id="339508715" time="2" type="85">
+<Text language="it">Corner Estudiantes allo stadio Estadio Ciudad de La Plata di La Plata. Gaston Fernandez batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Estudiantes de La Plata.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264291" eventtype="153" id="339506401" time="1" type="93">
+<Text language="it">Facundo Quintana (Estudiantes) è stato colto in fuorigioco.</Text>
+<Text language="en">In La Plata Estudiantes de La Plata's Facundo Quintana is caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264129" eventtype="10" id="339504989" time="1" type="37">
+<Text language="it">La partita è iniziata.</Text>
+<Text language="en">The first-half is just kicking off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250947" eventtype="80" id="339486775" time="0" type="19">
+<Text language="it">Nelson Vivas e Carlos Mayor hanno appena reso note le formazioni di partenza.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Referee id="249775" name="Delfino, German">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="429" name="La Plata">
+<Name language="it">La Plata</Name>
+<Name language="en">La Plata</Name>
+</City>
+<Stadium id="15400" name="Estadio Ciudad de La Plata">
+<Name language="it">Estadio Ciudad de La Plata</Name>
+<Name language="en">Estadio Ciudad de La Plata</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<ShotsOnGoal>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</ShotsOnGoal>
+<FreeKicks>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>2</Team1>
+<Team2>0</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Offsides>
+<Fouls>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="35">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+<Tournament BetradarTournamentId="39" UniqueTournamentId="37">
+<Name language="it">Eredivisie</Name>
+<Name language="en">Eredivisie</Name>
+<Match BetradarMatchId="10265743" Id="7475388">
+<MatchDate>2016-02-27T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="5306" UniqueTeamId="2958" formation="4-3-3">
+<Color hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="16763904"/>
+<GoalkeeperColor hStripes="-1" main="52224" number="16777215" sleeve="52224" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vitesse Arnhem</Name>
+<Name language="en">Vitesse Arnhem</Name>
+</Team1>
+<Team2 BetradarTeamId="5302" UniqueTeamId="2961" formation="4-3-3">
+<Color hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3381504" number="16777215" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Willem II</Name>
+<Name language="en">Willem II Tilburg</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T20:45:09 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Lineups>
+<TeamPlayer id="203246611" pos="7">
+<Player id="190859">Baker, Lewis</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246601" pos="2">
+<Player id="43136">Kashia, Guram</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246617" pos="10">
+<Player id="97022">Kazaishvili, Valeri</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246605" pos="4">
+<Player id="2166">Kruiswijk, Arnold</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246607" pos="5">
+<Player id="44220">Leerdam, Kelvin</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246613" pos="8">
+<Player id="556904">Nakamba, Marvelous</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246619" pos="11">
+<Player id="45647">Oliynyk, Denis</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246615" pos="9">
+<Player id="284387">Rashica, Milot</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246599" pos="1">
+<Player id="40859">Room, Eloy</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246603" pos="3">
+<Player id="32597">Van der Werff, Maikel</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246609" pos="6">
+<Player id="54659">Yeini, Sheran</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246633" pos="0">
+<Player id="314370">Brown, Isaiah</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246623" pos="0">
+<Player id="583806">Diks, Kevin</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246627" pos="0">
+<Player id="158395">Ibarra, Renato</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246625" pos="0">
+<Player id="358538">Nathan</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246629" pos="0">
+<Player id="864512">Osman, Mohammed</Player>
+<ShirtNumber>41</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246621" pos="0">
+<Player id="14808">Velthuizen, Piet</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203246631" pos="0">
+<Player id="849056">Yuning, Zhang</Player>
+<ShirtNumber>43</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247845" pos="8">
+<Player id="50686">Achenteh, Rochdi</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247851" pos="11">
+<Player id="135263">Andersen, Lucas</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247843" pos="7">
+<Player id="32922">Falkenburg, Erik</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247847" pos="9">
+<Player id="52088">Hupperts, Guus</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247839" pos="5">
+<Player id="137643">Koppers, Dico</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247831" pos="1">
+<Player id="42876">Lamprou, Kostas</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247841" pos="6">
+<Player id="51602">Ojo, Funso</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247849" pos="10">
+<Player id="250505">Ondaan, Terell</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247837" pos="4">
+<Player id="32345">Peters, Jordens</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247835" pos="3">
+<Player id="100683">Wuytens, Dries</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247833" pos="2">
+<Player id="3466">van der Struijk, Frank</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247861" pos="0">
+<Player id="2254">Braber, Robert</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247857" pos="0">
+<Player id="97416">De Sa, Lesley</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247855" pos="0">
+<Player id="81003">Heerkens, Freek</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247859" pos="0">
+<Player id="285947">Kawaya, Andy</Player>
+<ShirtNumber>38</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248039" pos="0">
+<Player id="966275">Kok, Thomas</Player>
+<ShirtNumber>42</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247853" pos="0">
+<Player id="74472">Meul, David</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203247863" pos="0">
+<Player id="27531">Nemec, Adam</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203262647" eventtype="154" id="339495869" time="11" type="85">
+<Text language="it">Allo stadio Gelredome, Lucas Andersen (Willem II) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Willem II Tilburg.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259443" eventtype="10" id="339481943" time="1" type="37">
+<Text language="it">L'arbitro Richard Liesveld ha fischiato! Ha inizio la partita allo stadio Gelredome.</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203246599" eventtype="80" id="339434141" time="0" type="19">
+<Text language="it">Sono ora disponibili le formazioni ufficiali per la partita di oggi allo stadio Gelredome.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57270027" id="339479381">
+<Text language="it">Se Valeri Kazaishvili segna contro Willem II, questo sarà il 10° gol per Vitesse Arnhem in questa stagione.</Text>
+<Text language="en">If Valeri Kazaishvili scores against Willem II Tilburg it will be his 10th goal for Vitesse Arnhem this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="52566" name="Liesveld, Richard">
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+<City id="104" name="Arnhem">
+<Name language="it">Arnhem</Name>
+<Name language="en">Arnhem</Name>
+</City>
+<Stadium id="643" name="GelreDome">
+<Name language="it">Gelredome</Name>
+<Name language="en">Gelredome</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>55</Team1>
+<Team2>45</Team2>
+</BallPossession>
+<FreeKicks>
+<Team1>3</Team1>
+<Team2>4</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>6</Team1>
+<Team2>4</Team2>
+</ThrowIns>
+<GoalKicks>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>4</Team1>
+<Team2>3</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="47">
+<Name language="it">Polonia</Name>
+<Name language="en">Poland</Name>
+<Tournament BetradarTournamentId="64" UniqueTournamentId="202">
+<Name language="it">Ekstraklasa</Name>
+<Name language="en">Ekstraklasa</Name>
+<Match BetradarMatchId="10264629" Id="7470580">
+<MatchDate>2016-02-27T20:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="7706" UniqueTeamId="3111" formation="4-4-1-1">
+<Color hStripes="-1" main="13369344" number="16777215" sleeve="13369344" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="10027008" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Wisla Cracovia</Name>
+<Name language="en">Wisla Krakow SA</Name>
+</Team1>
+<Team2 BetradarTeamId="5569720" UniqueTeamId="7919" formation="4-5-1">
+<Color hStripes="-1" main="13311" number="16777215" sleeve="13311" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">TS Podbeskidzie Bielsko-Biala</Name>
+<Name language="en">TS Podbeskidzie Bielsko-Biala</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T20:30:10 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Lineups>
+<TeamPlayer id="203250395" pos="9">
+<Player id="76523">Balashov, Vitaliy</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250397" pos="8">
+<Player id="16869">Cywka, Tomasz</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250399" pos="2">
+<Player id="82277">Jovic, Boban</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250401" pos="6">
+<Player id="18837">Malecki, Patryk</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250403" pos="1">
+<Player id="79796">Miskiewicz, Michal</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250749" pos="11">
+<Player id="45720">Ondrasek, Zdenek</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250405" pos="5">
+<Player id="95438">Pietrzak, Rafal</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250407" pos="7">
+<Player id="49031">Popovic, Denis</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250409" pos="4">
+<Player id="45439">Sadlok, Maciej</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203250411" pos="3">
+<Player id="138601">Uryga, Alan</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203248979" pos="10">
+<Player id="137135">Wolski, Rafal</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251293">
+<Player id="541720">Bartosz, Jakub</Player>
+<ShirtNumber>38</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251295">
+<Player id="39445">Boguski, Rafal</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251297">
+<Player id="19000">Brozek, Pawel</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251299">
+<Player id="45017">Buchalik, Michal</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251301">
+<Player id="146381">Crivellaro, Rafael</Player>
+<ShirtNumber>50</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251303">
+<Player id="955752">Drzazga, Krzysztof</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251305">
+<Player id="858036">Kujawa, Krystian</Player>
+<ShirtNumber>42</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251363" pos="4">
+<Player id="60724">Baranowski, Pawel</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251375" pos="10">
+<Player id="60763">Chmiel, Damian</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251379" pos="11">
+<Player id="23899">Demjan, Robert</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251369" pos="6">
+<Player id="136125">Kowalski, Jakub</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251367" pos="9">
+<Player id="96662">Mozdzen, Mateusz</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251381" pos="3">
+<Player id="25025">Piacek, Jozef</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251373" pos="8">
+<Player id="63346">Sloboda, Anton</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251371" pos="2">
+<Player id="45413">Sokolowski, Marek</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251377" pos="7">
+<Player id="95441">Szczepaniak, Mateusz</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251365" pos="5">
+<Player id="56627">Veretilo, Oleg</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203251361" pos="1">
+<Player id="52011">Zubas, Emilijus</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252057">
+<Player id="45448">Kaczmarek, Wojciech</Player>
+<ShirtNumber>83</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252059">
+<Player id="382118">Kato, Kohei</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252061">
+<Player id="54054">Kolcak, Kristian</Player>
+<ShirtNumber>90</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252063">
+<Player id="312954">Kwame, Frank Adu</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252065">
+<Player id="227852">Pazio, Adam</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252067">
+<Player id="109771">Stefanik, Samuel</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203252069">
+<Player id="255195">Tarnowski, Pawel</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203262677" eventtype="155" id="339496037" time="27" type="118">
+<Text language="it">Occasione TS Podbeskidzie Bielsko-Biala con un colpo di testa di Robert Demjan! La difesa avversaria però si salva!</Text>
+<Text language="en">Robert Demjan (TS Podbeskidzie Bielsko-Biala) gets in a powerful header but the ball is cleared away.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261601" eventtype="155" id="339490823" time="22" type="89">
+<Text language="it">Ci prova Mateusz Mozdzen (TS Podbeskidzie Bielsko-Biala), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">In Krakow TS Podbeskidzie Bielsko-Biala drive forward through Mateusz Mozdzen. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260885" eventtype="154" id="339487519" time="20" type="85">
+<Text language="it">L'arbitro Tomasz Kwiatkowski ha concesso un calcio d'angolo dalla destra allo stadio Stadion Miejski im. Henryka Reymana di Cracovia. Rafal Pietrzak (Wisla Cracovia) si appresta a batterlo.</Text>
+<Text language="en">Wisla Krakow SA have been awarded a corner by Tomasz Kwiatkowski.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260795" eventtype="154" id="339486941" time="19" type="85">
+<Text language="it">Corner Wisla Cracovia allo stadio Stadion Miejski im. Henryka Reymana di Cracovia. Rafal Pietrzak batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Wisla Krakow SA.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260705" eventtype="155" id="339486527" time="19" type="89">
+<Text language="it">Wisla Cracovia con Rafal Wolski cerca il gol, senza fortuna, allo stadio Stadion Miejski im. Henryka Reymana.</Text>
+<Text language="en">Rafal Wolski gets his shot on target but fails to score for Wisla Krakow SA.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256073" eventtype="154" id="339465289" time="5" type="85">
+<Text language="it">Allo stadio Stadion Miejski im. Henryka Reymana, Vitaliy Balashov (Wisla Cracovia) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Wisla Krakow SA have been awarded a corner by Tomasz Kwiatkowski.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203255923" eventtype="172" id="339464463" time="5" type="116">
+<Text language="it">Allo stadio Stadion Miejski im. Henryka Reymana, Rafal Pietrzak (Wisla Cracovia) ci prova con un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Wisla Krakow SA drive upfield and Rafal Pietrzak gets in a shot. The strike is blocked by a TS Podbeskidzie Bielsko-Biala defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254609" eventtype="10" id="339458815" time="1" type="37">
+<Text language="it">L'arbitro fischia l'inizio dell'incontro.</Text>
+<Text language="en">The match is underway in Krakow.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248979" eventtype="80" id="339451299" time="0" type="19">
+<Text language="it">Stadion Miejski im. Henryka Reymana: ecco le formazioni ufficiali della gara che si giocherà oggi a Cracovia.</Text>
+<Text language="en">Today's match line-ups are now presented.</Text>
+</Phrase>
+</Phrases>
+<Referee id="128393" name="Kwiatkowski, Tomasz">
+<Country id="171" name="Poland">
+<Name language="it">Polonia</Name>
+<Name language="en">Poland</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="171" name="Poland">
+<Name language="it">Polonia</Name>
+<Name language="en">Poland</Name>
+</Country>
+<City id="486" name="Krakow">
+<Name language="it">Cracovia</Name>
+<Name language="en">Krakow</Name>
+</City>
+<Stadium id="2330" name="Stadion Miejski im. Henryka Reymana">
+<Name language="it">Stadion Miejski im. Henryka Reymana</Name>
+<Name language="en">Stadion Miejski im. Henryka Reymana</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>57</Team1>
+<Team2>43</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>1</Team1>
+<Team2>2</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>1</Team1>
+<Team2>2</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>10</Team1>
+<Team2>5</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>4</Team1>
+<Team2>0</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>5</Team1>
+<Team2>12</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>1</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>4</Team1>
+<Team2>4</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>5</Team1>
+<Team2>10</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

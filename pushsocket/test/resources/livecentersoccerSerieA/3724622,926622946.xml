@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="996961" generatedAt="2016-02-27T21:16:51 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="7">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+<Tournament BetradarTournamentId="4" UniqueTournamentId="34">
+<Name language="it">Ligue 1</Name>
+<Name language="en">Ligue 1</Name>
+<Match BetradarMatchId="10265621" Id="7473936">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5525" UniqueTeamId="1652" formation="4-2-3-1">
+<Color hStripes="-1" main="255" number="16777215" sleeve="13158" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Troyes</Name>
+<Name language="en">Troyes AC</Name>
+</Team1>
+<Team2 BetradarTeamId="10926" UniqueTeamId="1656" formation="4-4-2">
+<Color hStripes="0" main="16777215" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6736896" number="16777215" sleeve="6736896" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lorient</Name>
+<Name language="en">FC Lorient</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T20:03:02 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T21:00:30 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203245121">
+<Time>3</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="109851">Waris, Majeed</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203265017" type="Yellow">
+<Time>50</Time>
+<Player id="45962">Ngcongca, Anele</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203267091">
+<Time>57</Time>
+<PlayerOut id="334149">Azamoum, Karim</PlayerOut>
+<PlayerIn id="191178">Jean, Corentin</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203224529" pos="6">
+<Player id="334149">Azamoum, Karim</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224531" pos="9">
+<Player id="14570">Ben Saada, Chaouki</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224533" pos="8">
+<Player id="3545">Camus, Fabien</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224535" pos="5">
+<Player id="9089">Dabo, Mouhamadou</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224821" pos="10">
+<Player id="51663">Darbion, Stephane</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224537" pos="1">
+<Player id="26869">Dreyer, Matthieu</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224539" pos="11">
+<Player id="14922">Gueye, Babacar</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224541" pos="2">
+<Player id="51554">Karaboue, Lossemy</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224543" pos="3">
+<Player id="45962">Ngcongca, Anele</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224545" pos="7">
+<Player id="342907">Pi, Jessy</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224547" pos="4">
+<Player id="23367">Veskovac, Dusan</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224567">
+<Player id="832895">Confais, Alois</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224569">
+<Player id="120443">Court, Yoann</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224571">
+<Player id="9988">Grandel, Franck</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224573">
+<Player id="191178">Jean, Corentin</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224575">
+<Player id="27007">Othon, Quentin</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224577">
+<Player id="180065">Perea, Brayan</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224579">
+<Player id="74089">Thiago, Xavier</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224549" pos="9">
+<Player id="72836">Barthelme, Maxime</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203225827" pos="7">
+<Player id="51487">Bellugou, Francois</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224551" pos="6">
+<Player id="308130">Cabot, Jimmy</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203225829" pos="5">
+<Player id="246999">Guerreiro, Raphael</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224553" pos="11">
+<Player id="147229">Jeannot, Benjamin</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224555" pos="1">
+<Player id="123207">Lecomte, Benjamin</Player>
+<ShirtNumber>40</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224557" pos="8">
+<Player id="74072">Mesloub, Walid</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224559" pos="2">
+<Player id="247015">Paye, Pape</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224561" pos="4">
+<Player id="113387">Rose, Lindsay</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224563" pos="3">
+<Player id="51623">Toure, Zargo</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224565" pos="10">
+<Player id="109851">Waris, Majeed</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224581">
+<Player id="3190">Chaigneau, Florent</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224583">
+<Player id="792029">Gakpa, Marvin</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224585">
+<Player id="99945">Le Goff, Vincent</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203225831">
+<Player id="123172">Mulumba, Remi</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224587">
+<Player id="307096">Philippoteaux, Romain</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203224589">
+<Player id="16018">Traore, Alain</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203268543" eventtype="153" id="339535641" time="62" type="112">
+<Text language="it">Lorient all'attacco, ma la squadra è stata fermata dall'arbitro Said Ennjimi per un fuorigioco.</Text>
+<Text language="en">At Stade de l'Aube, FC Lorient are penalized for being offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267091" eventtype="60" id="339525207" time="57" type="44">
+<Text language="it">Primo cambio per la squadra che gioca in di casa. Corentin Jean prende il posto di Karim Azamoum.</Text>
+<Text language="en">Michel Padovani (Troyes AC) is making a first substitution, with Corentin Jean replacing Karim Azamoum.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266465" eventtype="155" id="339520233" time="55" type="89">
+<Text language="it">Conclusione di Karim Azamoum (Troyes) allo stadio Stade de l'Aube di Troyes, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">Karim Azamoum of Troyes AC smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265017" eventtype="40" id="339511537" time="50" type="45">
+<Text language="it">Anele Ngcongca (Troyes) ha ricevuto la sua prima ammonizione.</Text>
+<Text language="en">Anele Ngcongca is booked for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264697" eventtype="154" id="339509047" time="49" type="85">
+<Text language="it">Angolo Lorient secondo l'arbitro Said Ennjimi. Maxime Barthelme lo batterà dalla bandierina destra.</Text>
+<Text language="en">FC Lorient have been awarded a corner by Said Ennjimi.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264527" eventtype="154" id="339508135" time="49" type="85">
+<Text language="it">L'arbitro Said Ennjimi ha concesso un calcio d'angolo dalla sinistra allo stadio Stade de l'Aube di Troyes. Walid Mesloub (Lorient) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to FC Lorient.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263591" eventtype="23" id="339501337" time="46" type="21">
+<Text language="it">Il secondo tempo è in corso allo stadio Stade de l'Aube.</Text>
+<Text language="en">The second-half has started.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259437" eventtype="35" id="339481775" time="45" type="22">
+<Text language="it">Si è chiusa la prima frazione di gioco allo stadio Stade de l'Aube.</Text>
+<Text language="en">The first-half has come to a close in Troyes.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203258723" eventtype="154" id="339477979" time="43" type="85">
+<Text language="it">Corner Troyes allo stadio Stade de l'Aube di Troyes. Fabien Camus batterà dalla bandierina sinistra.</Text>
+<Text language="en">Troyes AC have been awarded a corner by Said Ennjimi.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203258409" eventtype="156" id="339476075" time="42" type="91">
+<Text language="it">Lorient con Benjamin Lecomte cerca la rete allo stadio Stade de l'Aube con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">FC Lorient are coming forward and Benjamin Lecomte gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203258393" eventtype="155" id="339475991" time="42" type="89">
+<Text language="it">Walid Mesloub (Lorient) cerca il gol senza fortuna con un tiro nello specchio della porta allo stadio Stade de l'Aube.</Text>
+<Text language="en">In Troyes FC Lorient drive forward through Walid Mesloub. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254505" eventtype="156" id="339458153" time="30" type="91">
+<Text language="it">Troyes si spinge in avanti ma Karim Azamoum con il suo tiro non indovina la porta.</Text>
+<Text language="en">Troyes AC's Karim Azamoum misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203252317" eventtype="156" id="339450141" time="23" type="91">
+<Text language="it">Allo stadio Stade de l'Aube, Lorient attacca con Majeed Waris. La conclusione, però, non inquadra lo specchio della porta.</Text>
+<Text language="en">FC Lorient are pushing forward but Majeed Waris's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203251815" eventtype="154" id="339448977" time="22" type="85">
+<Text language="it">Allo stadio Stade de l'Aube, Maxime Barthelme (Lorient) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Corner awarded to FC Lorient.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203249611" eventtype="154" id="339438121" time="16" type="85">
+<Text language="it">Allo stadio Stade de l'Aube, Walid Mesloub (Lorient) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Lorient have been awarded a corner by Said Ennjimi.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248341" eventtype="154" id="339430665" time="12" type="85">
+<Text language="it">A Troyes Maxime Barthelme (Lorient) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to FC Lorient.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248071" eventtype="155" id="339430083" time="12" type="89">
+<Text language="it">Maxime Barthelme (Lorient) ha calciato in porta. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">FC Lorient drive forward and Maxime Barthelme gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245449" eventtype="153" id="339416083" time="4" type="112">
+<Text language="it">Offside Lorient!</Text>
+<Text language="en">FC Lorient push upfield but Said Ennjimi quickly pulls them for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245121" eventtype="30" id="339415751" time="3" type="139">
+<Text language="it">Jimmy Cabot ha effettuato l'assist.</Text>
+<Text language="en">Jimmy Cabot with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245121" eventtype="30" id="339413927" time="3" type="36">
+<Text language="it">Gol! Majeed Waris (Lorient) porta in vantaggio i suoi che ora conducono 1 - 0 allo stadio Stade de l'Aube.</Text>
+<Text language="en">Goal! Majeed Waris gives FC Lorient a 1 - 0 lead in Troyes.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243915" eventtype="10" id="339406391" time="1" type="37">
+<Text language="it">A Troyes l'arbitro Said Ennjimi ha dato il via alla gara.</Text>
+<Text language="en">The first-half is just kicking off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224529" eventtype="80" id="339330581" time="0" type="19">
+<Text language="it">Sono state ufficializzate le formazioni dei due schieramenti.</Text>
+<Text language="en">The big names in today's match at Stade de l'Aube have now been confirmed.</Text>
+</Phrase>
+</Phrases>
+<Referee id="52244" name="Ennjimi, Said">
+<Country id="73" name="France">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="73" name="France">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+</Country>
+<City id="946" name="Troyes">
+<Name language="it">Troyes</Name>
+<Name language="en">Troyes</Name>
+</City>
+<Stadium id="1867" name="Stade de l'Aube">
+<Name language="it">Stade de l'Aube</Name>
+<Name language="en">Stade de l'Aube</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>57</Team1>
+<Team2>43</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>2</Team1>
+<Team2>6</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>8</Team1>
+<Team2>4</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>1</Team1>
+<Team2>5</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>0</Team1>
+<Team2>2</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>18</Team1>
+<Team2>24</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>4</Team1>
+<Team2>2</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>7</Team1>
+<Team2>6</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>4</Team1>
+<Team2>6</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="25">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+<Tournament BetradarTournamentId="1060" UniqueTournamentId="215">
+<Name language="it">Super League</Name>
+<Name language="en">Super League</Name>
+<Match BetradarMatchId="10254715" Id="7482594">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="180432" UniqueTeamId="2450" formation="4-4-1-1">
+<Color hStripes="-1" main="16777215" number="3355647" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zurigo</Name>
+<Name language="en">FC Zurich</Name>
+</Team1>
+<Team2 BetradarTeamId="30314" UniqueTeamId="2445" formation="4-4-2">
+<Color hStripes="-1" main="16750848" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3394560" number="0" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Young Boys Berna</Name>
+<Name language="en">Young Boys Bern</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T21:07:02 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T21:00:35 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203265479">
+<Time>51</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="37230">Hoarau, Guillaume</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203252247" type="Yellow">
+<Time>22</Time>
+<Player id="4436">von Bergen, Steve</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203260199" type="Yellow">
+<Time>45</Time>
+<Player id="331465">Wuthrich, Gregory</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203268519" type="Yellow">
+<Time>59</Time>
+<Player id="10909">Kerzhakov, Aleksandr</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203264059">
+<Time>46</Time>
+<PlayerOut id="18784">Sulejmani, Miralem</PlayerOut>
+<PlayerIn id="21924">Gerndt, Alexander</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203235189" pos="5">
+<Player id="330689">Brunner, Cedric</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235191" pos="6">
+<Player id="335353">Bua, Kevin</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235193" pos="9">
+<Player id="108712">Buff, Oliver</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235195" pos="1">
+<Player id="23387">Favre, Anthony</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235197" pos="10">
+<Player id="318741">Grgic, Anto</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235199" pos="4">
+<Player id="78768">Kecojevic, Ivan</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235201" pos="11">
+<Player id="10909">Kerzhakov, Aleksandr</Player>
+<ShirtNumber>72</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235203" pos="2">
+<Player id="37383">Koch, Philippe</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235205" pos="8">
+<Player id="32162">Kukeli, Burim</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235207" pos="3">
+<Player id="33948">Sanchez, Leonardo</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235209" pos="7">
+<Player id="3147">Yapi Yapo, Gilles</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235211">
+<Player id="111748">Brecher, Yanick</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235221">
+<Player id="26284">Cabral</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235213">
+<Player id="2937">Chiumiento, David</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235215">
+<Player id="282233">Dominguez, Maxime</Player>
+<ShirtNumber>34</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235217">
+<Player id="816576">Kone, Moussa</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235219">
+<Player id="801012">Sarr, Sangone</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235223">
+<Player id="775341">Turkes, Aldin</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235675" pos="8">
+<Player id="37555">Gajic, Milan</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235677" pos="2">
+<Player id="354860">Hadergjonaj, Florent</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235679" pos="11">
+<Player id="37230">Hoarau, Guillaume</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235681" pos="10">
+<Player id="152132">Kubo, Yuya</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235683" pos="5">
+<Player id="49350">Lecjaks, Jan</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235685" pos="1">
+<Player id="149656">Mvogo, Yvon</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235687" pos="6">
+<Player id="39226">Ravet, Yoric</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235689" pos="9">
+<Player id="18784">Sulejmani, Miralem</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235693" pos="3">
+<Player id="331465">Wuthrich, Gregory</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235695" pos="7">
+<Player id="770677">Zakaria, Denis</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235691" pos="4">
+<Player id="4436">von Bergen, Steve</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235697">
+<Player id="234958">Bertone, Leonardo</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235699">
+<Player id="21924">Gerndt, Alexander</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235701">
+<Player id="4456">Nuzzolo, Raphael</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235703">
+<Player id="9019">Rochat, Alain</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235705">
+<Player id="144745">Sanogo Junior, Sekou</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235707">
+<Player id="12995">Sutter, Scott</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203235709">
+<Player id="4472">Wolfli, Marco</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203268519" eventtype="40" id="339535475" time="59" type="45">
+<Text language="it">Ammonito Aleksandr Kerzhakov (Zurigo)!</Text>
+<Text language="en">Aleksandr Kerzhakov (FC Zurich) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265479" eventtype="30" id="339517171" time="51" type="36">
+<Text language="it">Gol! Young Boys Berna in vantaggio grazie a Guillaume Hoarau. Il risultato è ora di: 1 - 0.</Text>
+<Text language="en">Goal! Young Boys Bern have got their heads in front thanks to a Guillaume Hoarau strike.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264059" eventtype="60" id="339504491" time="46" type="44">
+<Text language="it">Primo cambio Young Boys Berna: Miralem Sulejmani lascia il posto a Alexander Gerndt.</Text>
+<Text language="en">The away team have replaced Miralem Sulejmani with Alexander Gerndt. This is the first substitution made today by Adolf Hutter.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263609" eventtype="23" id="339501503" time="46" type="21">
+<Text language="it">Il secondo tempo è in corso allo stadio Letzigrund.</Text>
+<Text language="en">Stephan Klossner has blown to start the second-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260297" eventtype="35" id="339485103" time="45" type="22">
+<Text language="it">Il primo tempo è terminato.</Text>
+<Text language="en">The first-half is over at Letzigrund.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260199" eventtype="40" id="339484599" time="45" type="45">
+<Text language="it">Gregory Wuthrich (Young Boys Berna) ha ricevuto la sua prima ammonizione.</Text>
+<Text language="en">Young Boys Bern's Gregory Wuthrich has been booked in Zurich.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203252247" eventtype="40" id="339449975" time="22" type="45">
+<Text language="it">Steve von Bergen (Young Boys Berna) è stato ammonito e dovrà fare attenzione a non prendere il secondo giallo.</Text>
+<Text language="en">Steve von Bergen (Young Boys Bern) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243935" eventtype="10" id="339406475" time="1" type="37">
+<Text language="it">Il primo tempo è appena cominciato.</Text>
+<Text language="en">Today's referee, Stephan Klossner, has blown to start the match.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235189" eventtype="80" id="339353381" time="0" type="19">
+<Text language="it">Sono disponibili le formazioni ufficiali del match.</Text>
+<Text language="en">The big names in today's match at Letzigrund have now been confirmed.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56168057" id="339443681">
+<Text language="it">Young Boys Berna ha ricevuto 7 cartellini rossi in questa stagione. E' il maggior numero in Super League.</Text>
+<Text language="en">Young Boys Bern has received 7 red cards this season. This is the highest number in Super League.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56168059" id="339424955">
+<Text language="it">Zurigo non ha segnato in 1 delle 10 partite casalinghe di Super League in questa stagione.</Text>
+<Text language="en">FC Zurich haven't scored in 1 of their 10 home matches in Super League this season.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56168055" id="339456581">
+<Text language="it">Young Boys Berna non ha vinto nessuna delle ultime 5 partite in trasferta.</Text>
+<Text language="en">Young Boys Bern haven't won any of their last 5 away matches.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57264857" id="339403495">
+<Text language="it">Se Denis Zakaria riceverà un cartellino giallo nella partita di oggi, verrà squalificato visto che ha collezionato 4 cartellini gialli nel corso della stagione.</Text>
+<Text language="en">If Denis Zakaria receives a yellow card in today's match, he will be suspended after collecting 4 yellow cards so far this season.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57273117" id="339529765">
+<Text language="it">E' il 5° cartellino giallo per Gregory Wuthrich in questa stagione.</Text>
+<Text language="en">This was Gregory Wuthrich's 5th yellow card for the season.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="56168047" id="339433811">
+<Text language="it">Durante gli ultimi 56 incontri, Zurigo ha vinto 18 gare, pareggiando 14, mentre Young Boys Berna ha vinto 24 volte. La differenza reti è 105-94 in favore di Young Boys Berna.</Text>
+<Text language="en">During the last 56 meetings, FC Zurich has won 18 times, there have been 14 draws while Young Boys Bern has won 24 times. The goal difference is 105-94 in the favour of Young Boys Bern.</Text>
+</Funfact>
+<Funfact disabled="0" funfactid="57264855" id="339463133">
+<Text language="it">Se Oliver Buff segna contro Young Boys Berna, questo sarà il 5° gol per Zurigo in questa stagione.</Text>
+<Text language="en">If Oliver Buff scores against Young Boys Bern it will be his 5th goal for FC Zurich this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="66215" name="Klossner, Stephan">
+<Country id="206" name="Switzerland">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="206" name="Switzerland">
+<Name language="it">Svizzera</Name>
+<Name language="en">Switzerland</Name>
+</Country>
+<City id="115" name="Zurich">
+<Name language="it">Zurigo</Name>
+<Name language="en">Zurich</Name>
+</City>
+<Stadium id="790" name="Letzigrund">
+<Name language="it">Letzigrund</Name>
+<Name language="en">Letzigrund</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

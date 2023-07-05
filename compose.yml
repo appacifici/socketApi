@@ -1,0 +1,14 @@
+services:
+    
+  #docker compose exec node bash
+  node:
+    build: ./node/
+    ports:
+      - 3000:3000
+    expose: 
+      - 3000
+    container_name: node-container    
+    volumes:
+      - ./pushsocket:/home/node/app/:cache #per sharare i file compilati da webpack a php e nginx    
+    env_file:
+       - variables.env

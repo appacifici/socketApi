@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="931463" generatedAt="2016-02-17T22:51:06 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="393">
+<Name language="it">Clubs Internazionali</Name>
+<Name language="en">International Clubs</Name>
+<Tournament BetradarTournamentId="2928" UniqueTournamentId="384">
+<Name language="it">Coppa Libertadores, Gruppo 1</Name>
+<Name language="en">Copa Libertadores, Group 1</Name>
+<Match BetradarMatchId="10442972" Id="8903710">
+<MatchDate>2016-02-17T22:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="311900" UniqueTeamId="1981" formation="4-5-1">
+<Color hStripes="-1" main="16777215" number="16711680" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3355647" number="13408563" sleeve="39423" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">San Paolo</Name>
+<Name language="en">Sao Paulo SP</Name>
+</Team1>
+<Team2 BetradarTeamId="172919" UniqueTeamId="32529" formation="3-4-3">
+<Name language="it">The Strongest</Name>
+<Name language="en">The Strongest</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-17T22:31:27 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Cards>
+<Card id="201046477" type="Yellow">
+<Time>3</Time>
+<Player id="39656">Alan Kardec</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="201047601" type="Yellow">
+<Time>8</Time>
+<Player id="166273">Caio, Rodrigo</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="201048431" type="Yellow">
+<Time>15</Time>
+<Player id="147563">Veizaga, Walter</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Lineups>
+<TeamPlayer id="201038519" pos="11">
+<Player id="39656">Alan Kardec</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035747" pos="10">
+<Player id="16543">Bastos, Michel</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035735" pos="2">
+<Player id="220309">Bruno</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035737" pos="4">
+<Player id="166273">Caio, Rodrigo</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035751" pos="6">
+<Player id="249397">Centurion</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035733" pos="1">
+<Player id="47722">Denis</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035749" pos="8">
+<Player id="116853">Ganso</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035743" pos="7">
+<Player id="551478">Hudson</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035739" pos="3">
+<Player id="330059">Lucao</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035741" pos="5">
+<Player id="117430">Mena, Eugenio</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035745" pos="9">
+<Player id="329303">Mendes, Thiago</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201035753" pos="0">
+<Player id="340519">Calleri, Jonathan</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036967" pos="0">
+<Player id="243819">Carlinhos</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036975" pos="0">
+<Player id="76489">Kieza</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036969" pos="0">
+<Player id="854446">Lyanco</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036965" pos="0">
+<Player id="82598">Ribeiro, Renan</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036973" pos="0">
+<Player id="241472">Rogerio</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036971" pos="0">
+<Player id="34073">Wesley</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041447" pos="9">
+<Player id="53775">Alonso, Matias</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036143" pos="7">
+<Player id="386274">Castro, Raul</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036145" pos="8">
+<Player id="162707">Chumacero, Alejandro</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041443" pos="4">
+<Player id="33138">Cristaldo, Ernesto</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036151" pos="11">
+<Player id="162719">Escobar, Pablo</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036133" pos="2">
+<Player id="961861">Maldonado, Luis</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036135" pos="3">
+<Player id="803782">Martelli, Luis</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041441" pos="5">
+<Player id="91499">Pereyra, Frederico</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041445" pos="10">
+<Player id="163161">Ramallo, Rodrigo</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036131" pos="1">
+<Player id="34314">Vaca, Daniel</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036141" pos="6">
+<Player id="147563">Veizaga, Walter</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041509" pos="0">
+<Player id="47469">Ballivian, Ramiro</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036139" pos="0">
+<Player id="163179">Bejarano, Diego</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041511" pos="0">
+<Player id="312324">Chavez, Daniel</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036149" pos="0">
+<Player id="46971">Neumann, Carlos</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201041507" pos="0">
+<Player id="33193">Penarrieta, Jose</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036147" pos="0">
+<Player id="34259">Torres, Mariano</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="201036137" pos="0">
+<Player id="163181">Torrico, Jair</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="201049021" eventtype="154" id="334579513" time="19" type="85">
+<Text language="it">Angolo San Paolo secondo l'arbitro Carlos Caceres. Michel Bastos lo batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Sao Paulo SP.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201048817" eventtype="154" id="334579181" time="18" type="85">
+<Text language="it">A San Paolo Michel Bastos (San Paolo) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Sao Paulo SP have been awarded a corner by Carlos Caceres.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201048431" eventtype="40" id="334578185" time="15" type="45">
+<Text language="it">Walter Veizaga (The Strongest) riceve un'ammonizione.</Text>
+<Text language="en">Walter Veizaga (The Strongest) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201047659" eventtype="156" id="334576537" time="10" type="128">
+<Text language="it">Occasione Ganso (San Paolo) con un colpo di testa che però non trova lo specchio della porta.</Text>
+<Text language="en">In Sao Paulo, Ganso (Sao Paulo SP) misses the target with a header.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201047601" eventtype="40" id="334576289" time="8" type="45">
+<Text language="it">Ammonito Rodrigo Caio (San Paolo)!</Text>
+<Text language="en">Rodrigo Caio (Sao Paulo SP) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201047115" eventtype="155" id="334575377" time="6" type="120">
+<Text language="it">Allo stadio Pacaembú palo di Rodrigo Ramallo (The Strongest).</Text>
+<Text language="en">Rodrigo Ramallo (The Strongest) gets in a great strike – straight into the post! Ohhhh so close!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201046477" eventtype="40" id="334573303" time="3" type="45">
+<Text language="it">Alan Kardec (San Paolo) ha ricevuto un cartellino giallo dall'arbitro Carlos Caceres.</Text>
+<Text language="en">Alan Kardec is booked for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201046013" eventtype="10" id="334571559" time="1" type="37">
+<Text language="it">Fischio d'inizio!</Text>
+<Text language="en">The whistle has gone to start the match.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="201035733" eventtype="80" id="334562547" time="0" type="19">
+<Text language="it">Le formazioni ufficiali delle due squadre sono state rese note.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="161501" name="Caceres, Carlos">
+<Country id="167" name="Paraguay">
+<Name language="it">Paraguay</Name>
+<Name language="en">Paraguay</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="30" name="Brazil">
+<Name language="it">Brasile</Name>
+<Name language="en">Brazil</Name>
+</Country>
+<City id="149" name="Sao Paulo">
+<Name language="it">San Paolo</Name>
+<Name language="en">Sao Paulo</Name>
+</City>
+<Stadium id="722" name="Pacaembu">
+<Name language="it">Pacaembú</Name>
+<Name language="en">Pacaembú</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>49</Team1>
+<Team2>51</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>2</Team1>
+<Team2>0</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>2</Team1>
+<Team2>3</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>3</Team1>
+<Team2>0</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>7</Team1>
+<Team2>2</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>0</Team1>
+<Team2>1</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>0</Team1>
+<Team2>4</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

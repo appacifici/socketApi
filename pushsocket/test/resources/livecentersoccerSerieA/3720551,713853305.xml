@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995660" generatedAt="2016-02-27T20:09:00 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="44">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+<Tournament BetradarTournamentId="52" UniqueTournamentId="238">
+<Name language="it">Primeira Liga</Name>
+<Name language="en">Primeira Liga</Name>
+<Match BetradarMatchId="10267930" Id="7558406">
+<MatchDate>2016-02-27T19:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="6680468" UniqueTeamId="25777" formation="4-2-3-1">
+<Color hStripes="-1" main="16776960" number="16777215" sleeve="39423" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16724991" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Arouca</Name>
+<Name language="en">FC Arouca</Name>
+</Team1>
+<Team2 BetradarTeamId="5634" UniqueTeamId="2999" formation="4-4-2">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="10066329" number="16777215" sleeve="26112" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Sporting Braga</Name>
+<Name language="en">Sporting Braga</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T19:32:01 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Lineups>
+<TeamPlayer id="203226205" pos="7">
+<Player id="873014">Adilson</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226201" pos="4">
+<Player id="344185">Basto, Hugo</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226191" pos="1">
+<Player id="44676">Bracalli, Rafael</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226203" pos="6">
+<Player id="41649">Coelho, Nuno</Player>
+<ShirtNumber>66</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226193" pos="2">
+<Player id="138986">Gege</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226199" pos="11">
+<Player id="795872">Gonzalez, Walter</Player>
+<ShirtNumber>95</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226187" pos="5">
+<Player id="248529">Lima, Lucas</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226189" pos="9">
+<Player id="59800">Moreira, Artur</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226197" pos="10">
+<Player id="190171">Rodrigues, Ivo</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226207" pos="3">
+<Player id="52813">Velazquez, Jose</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226195" pos="8">
+<Player id="59843">Zequinha</Player>
+<ShirtNumber>87</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226239">
+<Player id="243693">Maurides</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226231">
+<Player id="251779">Nelsinho</Player>
+<ShirtNumber>55</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226233">
+<Player id="13341">Pintassilgo</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226241">
+<Player id="169725">Roberto</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226237">
+<Player id="59787">Sacramento, Rui</Player>
+<ShirtNumber>85</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226235">
+<Player id="47614">Valente, Nuno</Player>
+<ShirtNumber>50</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226243">
+<Player id="48111">Wallace, Rodney</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226217" pos="6">
+<Player id="6642">Alan</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226225" pos="3">
+<Player id="156231">Arghus</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226209" pos="8">
+<Player id="254561">Augusto, Filipe</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226227" pos="2">
+<Player id="44637">Baiano</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226211" pos="4">
+<Player id="139310">Boly, Willy</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226221" pos="5">
+<Player id="343585">Djavan</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226215" pos="10">
+<Player id="105404">Eduardo, Wilson</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226219" pos="11">
+<Player id="44235">Fonte, Rui</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226213" pos="1">
+<Player id="59715">Marafona</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226223" pos="9">
+<Player id="128353">Santos, Pedro</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226229" pos="7">
+<Player id="67739">Vukcevic, Nikola</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226245">
+<Player id="137973">Ferreira, Ricardo</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226255">
+<Player id="77726">Josue</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226251">
+<Player id="94203">Luiz Carlos</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226247">
+<Player id="270291">Marcelo Goiano</Player>
+<ShirtNumber>87</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226249">
+<Player id="603946">Matheus</Player>
+<ShirtNumber>92</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226253">
+<Player id="19025">Niguez, Aaron</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226257">
+<Player id="92198">Stoiljkovic, Nikola</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203247355" eventtype="16" id="339426275" time="37" type="79">
+<Text language="it">La partita di Arouca è di nuovo in corso.</Text>
+<Text language="en">The match in Arouca is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247153" eventtype="158" id="339424537" time="37" type="97">
+<Text language="it">Pedro Santos è a terra ed il gioco è stato momentaneamente interrotto.</Text>
+<Text language="en">Attention is being given to Sporting Braga’s Pedro Santos and play has been suspended briefly.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244479" eventtype="156" id="339410289" time="30" type="128">
+<Text language="it">Sporting Braga all'attacco allo stadio Estadio Municipal de Arouca, e con Pedro Santos va alla conclusione di testa senza però centrare la porta.</Text>
+<Text language="en">Sporting Braga attack but Pedro Santos's header doesn't find the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244227" eventtype="154" id="339408627" time="29" type="85">
+<Text language="it">Angolo Sporting Braga secondo l'arbitro Joao Pedro Silva Pinheiro. Wilson Eduardo lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Sporting Braga.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243893" eventtype="154" id="339406223" time="28" type="85">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Alan (Sporting Braga) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Sporting Braga have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243165" eventtype="154" id="339401679" time="25" type="85">
+<Text language="it">A Arouca Artur Moreira (FC Arouca) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to FC Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242341" eventtype="153" id="339397865" time="23" type="93">
+<Text language="it">L'arbitro Joao Pedro Silva Pinheiro fischia un fuorigioco a Walter Gonzalez per la squadra che gioca di casa nella sfida dello stadio Estadio Municipal de Arouca di Arouca.</Text>
+<Text language="en">Walter Gonzalez of FC Arouca is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241771" eventtype="156" id="339394381" time="21" type="91">
+<Text language="it">Sporting Braga con Alan cerca la rete allo stadio Estadio Municipal de Arouca con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Sporting Braga's Alan breaks free at Estadio Municipal de Arouca. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241617" eventtype="156" id="339392801" time="20" type="91">
+<Text language="it">Baiano (Sporting Braga) prova il tiro allo stadio Estadio Municipal de Arouca. La sua conclusione però termina fuori.</Text>
+<Text language="en">Baiano of Sporting Braga gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240683" eventtype="153" id="339385347" time="16" type="112">
+<Text language="it">La formazione di casa è stata fermata per un fuorigioco.</Text>
+<Text language="en">FC Arouca advance rapidly upfield but Joao Pedro Silva Pinheiro blows for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240535" eventtype="154" id="339384271" time="15" type="85">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Artur Moreira (FC Arouca) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240359" eventtype="154" id="339382281" time="15" type="85">
+<Text language="en">Corner awarded to FC Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240241" eventtype="154" id="339381369" time="14" type="85">
+<Text language="it">L'arbitro Joao Pedro Silva Pinheiro ha concesso un calcio d'angolo dalla sinistra allo stadio Estadio Municipal de Arouca di Arouca. Artur Moreira (FC Arouca) si appresta a batterlo.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240099" eventtype="155" id="339380449" time="14" type="120">
+<Text language="it">Palo FC Arouca con Zequinha allo stadio Estadio Municipal de Arouca di Arouca!</Text>
+<Text language="en">Zequinha (FC Arouca) gets in a great strike – straight into the post! Ohhhh so close!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238647" eventtype="155" id="339370927" time="10" type="118">
+<Text language="it">FC Arouca in attacco allo stadio Estadio Municipal de Arouca con Adilson. La sua conclusione di testa viene però respinta dalla difesa.</Text>
+<Text language="en">FC Arouca push forward at Estadio Municipal de Arouca and Adilson gets in a great header. The attempt is cleared by the Sporting Braga defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238301" eventtype="154" id="339368439" time="8" type="85">
+<Text language="en">Corner awarded to Sporting Braga.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238191" eventtype="155" id="339367527" time="8" type="89">
+<Text language="it">Sporting Braga ci prova con un tiro in porta di Wilson Eduardoallo stadioEstadio Municipal de Arouca. Conclusione che però non va a buon fine.</Text>
+<Text language="en">Wilson Eduardo of Sporting Braga smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237631" eventtype="153" id="339364129" time="7" type="93">
+<Text language="it">Offside di Wilson Eduardo (Sporting Braga)!</Text>
+<Text language="en">Joao Pedro Silva Pinheiro blows against Sporting Braga's Wilson Eduardo for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237507" eventtype="154" id="339363133" time="6" type="85">
+<Text language="it">Corner FC Arouca allo stadio Estadio Municipal de Arouca di Arouca. Artur Moreira batterà dalla bandierina destra.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236441" eventtype="155" id="339355775" time="3" type="89">
+<Text language="it">FC Arouca avanza e Artur Moreira va alla conclusione. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">FC Arouca drive forward and Artur Moreira gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235461" eventtype="10" id="339350723" time="1" type="37">
+<Text language="it">Partiti! Il direttore di gara ha fischiato l'inizio del primo tempo!</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226187" eventtype="80" id="339345001" time="0" type="19">
+<Text language="it">Sono state inserite le le formazioni ufficiali.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="222742" name="Silva Pinheiro, Joao Pedro">
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+<City id="5137" name="Arouca">
+<Name language="it">Arouca</Name>
+<Name language="en">Arouca</Name>
+</City>
+<Stadium id="8289" name="Estadio Municipal de Arouca">
+<Name language="it">Estadio Municipal de Arouca</Name>
+<Name language="en">Estadio Municipal de Arouca</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<ShotsOnGoal>
+<Team1>3</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>0</Team1>
+<Team2>3</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>3</Team1>
+<Team2>5</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>5</Team1>
+<Team2>3</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>2</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>14</Team1>
+<Team2>9</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>1</Team1>
+<Team2>2</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>4</Team1>
+<Team2>0</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="77">
+<Name language="it">Romania</Name>
+<Name language="en">Romania</Name>
+<Tournament BetradarTournamentId="219" UniqueTournamentId="152">
+<Name language="it">Liga I</Name>
+<Name language="en">Liga I</Name>
+<Match BetradarMatchId="10368249" Id="7509172">
+<MatchDate>2016-02-27T19:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="5455698" UniqueTeamId="24804" formation="4-2-3-1">
+<Color hStripes="-1" main="16711680" number="16776960" sleeve="16711680" split="-1" squares="-1" vStripes="3342591"/>
+<GoalkeeperColor hStripes="-1" main="13369446" number="0" sleeve="13369446" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Asa Targu Mures</Name>
+<Name language="en">Asa Targu Mures</Name>
+</Team1>
+<Team2 BetradarTeamId="6724249" UniqueTeamId="24798" formation="4-2-3-1">
+<Color hStripes="-1" main="16737792" number="16777215" sleeve="16737792" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6749952" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Botosani</Name>
+<Name language="en">FC Botosani</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:44:18 CET</Time>
+<Team>1</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:31:04 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203239589">
+<Time>14</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="84503">Tucudean, Marius George</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203246381" type="Yellow">
+<Time>36</Time>
+<Player id="44370">Parvulescu, Paul</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Lineups>
+<TeamPlayer id="203222445" pos="9">
+<Player id="42070">Brandan, Pablo Daniel</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222447" pos="3">
+<Player id="13760">Constantin, Marius</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222449" pos="10">
+<Player id="55889">Dedov, Alexandru</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222451" pos="4">
+<Player id="98307">Gonzales, Ivan</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222453" pos="8">
+<Player id="83487">Jazvic, Filip</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222455" pos="2">
+<Player id="69293">Matei, Gabriel Eugen</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222457" pos="6">
+<Player id="21361">Muresan, Gabriel</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222459" pos="5">
+<Player id="44370">Parvulescu, Paul</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222461" pos="1">
+<Player id="34540">Stancioiu, Eduard</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222463" pos="11">
+<Player id="84503">Tucudean, Marius George</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222465" pos="7">
+<Player id="44408">Voiculet, Claudiu</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222467">
+<Player id="69359">Balaur, Ionut</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222469">
+<Player id="98548">Borza, Adrian</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222471">
+<Player id="93843">Bus, Laurentiu</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222473">
+<Player id="339871">Costa, Ramiro</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222475">
+<Player id="44033">Gorobsov, Nicolas</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222477">
+<Player id="2090">Mutu, Adrian</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203222479">
+<Player id="83646">Viciu, Adrian</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223175" pos="10">
+<Player id="120909">Cabrera, Gonzalo</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223177" pos="6">
+<Player id="89220">Cucu, Stelian Nicolae</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223179" pos="2">
+<Player id="62170">Dimitrov, Radoslav</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223181" pos="9">
+<Player id="297310">Fulop, Istvan</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223183" pos="8">
+<Player id="149420">Martinus, Quenten</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223185" pos="11">
+<Player id="50055">Matulevicius, Deivydas</Player>
+<ShirtNumber>77</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223187" pos="4">
+<Player id="557342">Miron, George Andrei</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223189" pos="3">
+<Player id="245705">Ngadeu Ngadjui, Michael</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223191" pos="1">
+<Player id="44403">Plesca, Razvan</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223193" pos="5">
+<Player id="229596">Popovici, Sergiu</Player>
+<ShirtNumber>93</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223195" pos="7">
+<Player id="82970">Vasvari, Gabriel</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223197">
+<Player id="349298">Carralero</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223201">
+<Player id="44436">Hadnagy, Attila</Player>
+<ShirtNumber>80</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223203">
+<Player id="76895">Iliev, Plamen</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223205">
+<Player id="109571">Ivanovici, Petre Daniel</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223199">
+<Player id="312234">Jose David</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223207">
+<Player id="44388">Musat, Nicolae</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203223209">
+<Player id="110201">Plamada, Florin</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203246381" eventtype="40" id="339420473" time="36" type="45">
+<Text language="it">L'arbitro George Catalin Gaman estrae il cartellino giallo! Ammonito Paul Parvulescu per la squadra che gioca di casa allo stadio Stadionul Trans-Sil di Targu Mures.</Text>
+<Text language="en">Paul Parvulescu for Asa Targu Mures has been booked by George Catalin Gaman and receives a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245793" eventtype="156" id="339417581" time="34" type="91">
+<Text language="it">Occasione FC Botosani con Gabriel Vasvari! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">In Targu Mures FC Botosani attack through Gabriel Vasvari. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242819" eventtype="153" id="339399933" time="25" type="112">
+<Text language="it">Fuorigioco Asa Targu Mures! La squadra è caduta nella trappola degli avversari.</Text>
+<Text language="en">Asa Targu Mures are whistled for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242415" eventtype="154" id="339398443" time="24" type="85">
+<Text language="it">Allo stadio Stadionul Trans-Sil, Pablo Daniel Brandan (Asa Targu Mures) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Asa Targu Mures.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240697" eventtype="154" id="339385431" time="17" type="85">
+<Text language="it">A Targu Mures Quenten Martinus (FC Botosani) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">FC Botosani have been awarded a corner by George Catalin Gaman.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239589" eventtype="30" id="339377639" time="14" type="36">
+<Text language="it">Asa Targu Mures in vantaggio grazie alla rete di Marius George Tucudean! Il risultato è ora di 1 - 0.</Text>
+<Text language="en">Goal! Marius George Tucudean gives Asa Targu Mures a 1 - 0 lead.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239369" eventtype="154" id="339375405" time="12" type="85">
+<Text language="it">L'arbitro George Catalin Gaman ha concesso un calcio d'angolo dalla destra allo stadio Stadionul Trans-Sil di Targu Mures. Claudiu Voiculet (Asa Targu Mures) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Asa Targu Mures.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238261" eventtype="156" id="339368109" time="9" type="91">
+<Text language="it">Ivan Gonzales (Asa Targu Mures) cerca la rete a Targu Mures con un tiro che, però, non trova lo specchio della porta.</Text>
+<Text language="en">Ivan Gonzales for Asa Targu Mures gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238227" eventtype="154" id="339367695" time="9" type="85">
+<Text language="it">Corner Asa Targu Mures allo stadio Stadionul Trans-Sil di Targu Mures. Pablo Daniel Brandan batterà dalla bandierina sinistra.</Text>
+<Text language="en">Asa Targu Mures have been awarded a corner by George Catalin Gaman.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235153" eventtype="10" id="339348987" time="1" type="37">
+<Text language="it">Prende il via il match in programma allo stadio Stadionul Trans-Sil di Targu Mures.</Text>
+<Text language="en">The match is underway in Targu Mures.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222445" eventtype="80" id="339306465" time="0" type="19">
+<Text language="it">Sono state rese note le formazioni ufficiali.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57262261" id="339345085">
+<Text language="it">Se Quenten Martinus segna contro Asa Targu Mures, questo sarà il 5° gol per FC Botosani in questa stagione.</Text>
+<Text language="en">If Quenten Martinus scores against Asa Targu Mures it will be his 5th goal for FC Botosani this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="81543" name="Gaman, George Catalin">
+<Country id="176" name="Romania">
+<Name language="it">Romania</Name>
+<Name language="en">Romania</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="176" name="Romania">
+<Name language="it">Romania</Name>
+<Name language="en">Romania</Name>
+</Country>
+<City id="7567" name="Targu Mures">
+<Name language="it">Targu Mures</Name>
+<Name language="en">Targu Mures</Name>
+</City>
+<Stadium id="12299" name="Stadionul Trans-Sil">
+<Name language="it">Stadionul Trans-Sil</Name>
+<Name language="en">Stadionul Trans-Sil</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>54</Team1>
+<Team2>46</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>8</Team1>
+<Team2>10</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>7</Team1>
+<Team2>12</Team2>
+</ThrowIns>
+<GoalKicks>
+<Team1>1</Team1>
+<Team2>2</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>9</Team1>
+<Team2>8</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

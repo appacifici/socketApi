@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="995635" generatedAt="2016-02-27T20:07:55 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="17">
+<Name language="it">Austria</Name>
+<Name language="en">Austria</Name>
+<Tournament BetradarTournamentId="29" UniqueTournamentId="45">
+<Name language="it">Bundesliga</Name>
+<Name language="en">Bundesliga</Name>
+<Match BetradarMatchId="10264734" Id="7479184">
+<MatchDate>2016-02-27T18:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="804429" UniqueTeamId="4856" formation="4-2-3-1">
+<Color hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Rheindorf Altach</Name>
+<Name language="en">SCR Altach</Name>
+</Team1>
+<Team2 BetradarTeamId="6746" UniqueTeamId="2050" formation="4-2-3-1">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="0"/>
+<GoalkeeperColor hStripes="-1" main="10040319" number="16777215" sleeve="10040319" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Admira Wacker</Name>
+<Name language="en">Admira Wacker</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T19:48:03 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:32:17 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>1</Team2>
+</Score>
+<Score type="Period1">
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203224331">
+<Time>28</Time>
+<Team1>1</Team1>
+<Team2>0</Team2>
+<Player id="1195">Aigner, Hannes</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203240835">
+<Time>61</Time>
+<Team1>1</Team1>
+<Team2>1</Team2>
+<Player id="276131">Ayyildiz, Ilter</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203229069" type="Yellow">
+<Time>41</Time>
+<Player id="1195">Aigner, Hannes</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203238889" type="Yellow">
+<Time>55</Time>
+<Player id="37449">Salomon, Patrick</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203241179" type="Yellow">
+<Time>63</Time>
+<Player id="16873">Ngwat-Mahop, Louis Clement</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203243687" type="Yellow">
+<Time>72</Time>
+<Player id="66184">Zwischenbrugger, Jan</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203244223" type="Yellow">
+<Time>74</Time>
+<Player id="3617">Netzer, Philipp</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203244963" type="Yellow">
+<Time>76</Time>
+<Player id="80034">Lackner, Markus</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203222027">
+<Time>20</Time>
+<PlayerOut id="26211">Toth, Daniel</PlayerOut>
+<PlayerIn id="186693">Blutsch, Markus</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203240443">
+<Time>60</Time>
+<PlayerOut id="126224">Grozurek, Lukas</PlayerOut>
+<PlayerIn id="164095">Starkl, Dominik</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203246581">
+<Time>80</Time>
+<PlayerOut id="103030">Knasmullner, Christoph</PlayerOut>
+<PlayerIn id="95377">Zulj, Peter</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203246887">
+<Time>80</Time>
+<PlayerOut id="1195">Aigner, Hannes</PlayerOut>
+<PlayerIn id="66209">Topcagic, Mihret</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203247027">
+<Time>80</Time>
+<PlayerOut id="338483">Galvao, Lucas</PlayerOut>
+<PlayerIn id="7406">Seeger, Patrick</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203199209" pos="11">
+<Player id="1195">Aigner, Hannes</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199211" pos="10">
+<Player id="338483">Galvao, Lucas</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199213" pos="2">
+<Player id="7646">Lienhart, Andreas</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199215" pos="1">
+<Player id="13987">Lukse, Andreas</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199217" pos="7">
+<Player id="3617">Netzer, Philipp</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199219" pos="9">
+<Player id="16873">Ngwat-Mahop, Louis Clement</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199221" pos="6">
+<Player id="37449">Salomon, Patrick</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199223" pos="5">
+<Player id="129630">Schilling, Christian</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199225" pos="8">
+<Player id="311370">Tajouri, Ismael</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199227" pos="4">
+<Player id="66285">Zech, Benedikt</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199229" pos="3">
+<Player id="66184">Zwischenbrugger, Jan</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199253">
+<Player id="138124">Jager, Lukas</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199255">
+<Player id="26212">Kobras, Martin</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199257">
+<Player id="126209">Luxbacher, Daniel</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199259">
+<Player id="32959">Roth, Felix</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199261">
+<Player id="37315">Schreiner, Emanuel</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199263">
+<Player id="7406">Seeger, Patrick</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199265">
+<Player id="66209">Topcagic, Mihret</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199231" pos="10">
+<Player id="276131">Ayyildiz, Ilter</Player>
+<ShirtNumber>55</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199233" pos="8">
+<Player id="164083">Bajrami, Eldis</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199235" pos="11">
+<Player id="126224">Grozurek, Lukas</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199237" pos="9">
+<Player id="103030">Knasmullner, Christoph</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199239" pos="6">
+<Player id="80034">Lackner, Markus</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199241" pos="5">
+<Player id="923950">Pavic, Markus</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199243" pos="3">
+<Player id="37393">Schosswendter, Christoph</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199245" pos="1">
+<Player id="90008">Siebenhandl, Jorg</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199247" pos="7">
+<Player id="26211">Toth, Daniel</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199249" pos="4">
+<Player id="139189">Wostry, Markus</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199251" pos="2">
+<Player id="66289">Zwierschitz, Stephan</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199267">
+<Player id="186693">Blutsch, Markus</Player>
+<ShirtNumber>44</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199269">
+<Player id="165033">Kuttin, Manuel</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199271">
+<Player id="908644">Monschein, Christoph</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199273">
+<Player id="138122">Posch, Philipp</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199275">
+<Player id="4329">Schicker, Rene</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199277">
+<Player id="164095">Starkl, Dominik</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203199279">
+<Player id="95377">Zulj, Peter</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203247027" eventtype="60" id="339423793" time="80" type="44">
+<Text language="it">Patrick Seeger rimpiazza Lucas Galvao per la squadra di casa allo stadio Cashpoint Arena.</Text>
+<Text language="en">Patrick Seeger is replacing Lucas Galvao for SCR Altach at Cashpoint Arena.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203246887" eventtype="60" id="339422549" time="80" type="44">
+<Text language="it">Sostituzione Rheindorf Altach: esce Hannes Aigner ed entra Mihret Topcagic.</Text>
+<Text language="en">Mihret Topcagic is on a sub for Hannes Aigner for SCR Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203246581" eventtype="60" id="339421721" time="80" type="44">
+<Text language="it">Terzo cambio per la squadra che gioca in ospite. Peter Zulj prende il posto di Christoph Knasmullner.</Text>
+<Text language="en">Ernst Baumeister (Admira Wacker) is making a third substitution, with Peter Zulj replacing Christoph Knasmullner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245681" eventtype="156" id="339417331" time="78" type="91">
+<Text language="it">Occasione Rheindorf Altach nella sfida dello stadio Cashpoint Arena di Altach, ma Lucas Galvao non trova la porta!</Text>
+<Text language="en">SCR Altach are coming forward and Lucas Galvao gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245021" eventtype="168" id="339413345" time="76" type="99">
+<Text language="it">Jan Zwischenbrugger (Rheindorf Altach) è tornato in campo.</Text>
+<Text language="en">SCR Altach's Jan Zwischenbrugger looks ok and returns to the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244963" eventtype="40" id="339413013" time="76" type="45">
+<Text language="it">Primo cartellino giallo per Markus Lackner (Admira Wacker).</Text>
+<Text language="en">Markus Lackner (Admira Wacker) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244653" eventtype="154" id="339412109" time="75" type="85">
+<Text language="it">Corner Admira Wacker allo stadio Cashpoint Arena di Altach. Eldis Bajrami batterà dalla bandierina destra.</Text>
+<Text language="en">Admira Wacker have been awarded a corner by Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244223" eventtype="40" id="339408543" time="74" type="45">
+<Text language="it">Philipp Netzer (Rheindorf Altach) ha ricevuto la sua prima ammonizione.</Text>
+<Text language="en">Philipp Netzer (SCR Altach) has received a yellow card from Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244047" eventtype="153" id="339407387" time="73" type="93">
+<Text language="it">Louis Clement Ngwat-Mahop (Rheindorf Altach) si fa sorprendere in fuorigioco.</Text>
+<Text language="en">Harald Lechner blows against SCR Altach's Louis Clement Ngwat-Mahop for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243687" eventtype="40" id="339404981" time="72" type="45">
+<Text language="it">L'arbitro Harald Lechner estrae il cartellino giallo! Ammonito Jan Zwischenbrugger per la squadra che gioca di casa allo stadio Cashpoint Arena di Altach.</Text>
+<Text language="en">Jan Zwischenbrugger is booked for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243629" eventtype="16" id="339404817" time="72" type="79">
+<Text language="it">La partita è ripresa allo stadio Cashpoint Arena.</Text>
+<Text language="en">Play is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243575" eventtype="158" id="339404485" time="72" type="97">
+<Text language="it">L'arbitro Harald Lechner ha momentaneamente interrotto la sfida dello stadio Cashpoint Arena di Altach per un infortunio occorso a Jan Zwischenbrugger (Rheindorf Altach).</Text>
+<Text language="en">Attention is being given to SCR Altach’s Jan Zwischenbrugger and play has been suspended briefly.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243277" eventtype="155" id="339402175" time="70" type="89">
+<Text language="it">Occasione Rheindorf Altach con Ismael Tajouri, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">SCR Altach push forward through Ismael Tajouri, whose finish on goal is saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242335" eventtype="155" id="339397781" time="67" type="118">
+<Text language="it">Hannes Aigner (Rheindorf Altach) prova a segnare di testa, ma la difesa avversaria intercetta la conclusione!</Text>
+<Text language="en">SCR Altach push upfield and Hannes Aigner gets his head to the ball. The attempt is cleared by an alert Admira Wacker defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241975" eventtype="155" id="339395209" time="66" type="89">
+<Text language="it">Ci prova Louis Clement Ngwat-Mahop (Rheindorf Altach) a segnare allo stadio Cashpoint Arena di Altach, ma la formazione avversaria non si fa sorprendere!</Text>
+<Text language="en">In Altach SCR Altach drive forward through Louis Clement Ngwat-Mahop. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241245" eventtype="154" id="339389817" time="63" type="85">
+<Text language="en">Corner awarded to Admira Wacker.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241179" eventtype="40" id="339389487" time="63" type="45">
+<Text language="it">Louis Clement Ngwat-Mahop (Rheindorf Altach) riceve un'ammonizione.</Text>
+<Text language="en">Louis Clement Ngwat-Mahop (SCR Altach) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240835" eventtype="30" id="339388163" time="61" type="139">
+<Text language="it">L'assist del gol è di Markus Pavic.</Text>
+<Text language="en">That's a fine assist from Markus Pavic.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240835" eventtype="30" id="339386753" time="61" type="34">
+<Text language="it">Ilter Ayyildiz pareggia i conti! Il risultato è ora di: 1 - 1.</Text>
+<Text language="en">Ilter Ayyildiz is on target to level the scores at 1 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240443" eventtype="60" id="339383443" time="60" type="44">
+<Text language="it">La squadra che gioca ospite fa il suo secondo cambio con Dominik Starkl che rimpiazza Lukas Grozurek.</Text>
+<Text language="en">Admira Wacker make their second substitution with Dominik Starkl replacing Lukas Grozurek.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238889" eventtype="40" id="339372837" time="55" type="45">
+<Text language="it">Allo stadio Cashpoint Arena, Patrick Salomon (Rheindorf Altach) ha ricevuto un cartellino giallo.</Text>
+<Text language="en">At Cashpoint Arena, Patrick Salomon has been yellow-carded for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238685" eventtype="155" id="339371177" time="54" type="89">
+<Text language="it">Ci prova Ismael Tajouri (Rheindorf Altach), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">Ismael Tajouri gets his shot on target but fails to score for SCR Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238313" eventtype="154" id="339368523" time="53" type="85">
+<Text language="it">A Altach Ismael Tajouri (Rheindorf Altach) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">SCR Altach have been awarded a corner by Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236593" eventtype="155" id="339356851" time="48" type="89">
+<Text language="it">Eldis Bajrami (Admira Wacker) ha calciato in porta. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Eldis Bajrami for Admira Wacker drives towards goal at Cashpoint Arena. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235859" eventtype="154" id="339353215" time="46" type="85">
+<Text language="it">Allo stadio Cashpoint Arena, Andreas Lienhart (Rheindorf Altach) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Corner awarded to SCR Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235611" eventtype="23" id="339351221" time="46" type="21">
+<Text language="it">Partiti! Ha preso il via il secondo tempo a Altach.</Text>
+<Text language="en">The second-half has just kicked-off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230981" eventtype="35" id="339329087" time="45" type="22">
+<Text language="it">E' finito il primo tempo.</Text>
+<Text language="en">Harald Lechner blows to end the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230921" eventtype="154" id="339328589" time="45" type="85">
+<Text language="it">L'arbitro Harald Lechner ha concesso un calcio d'angolo dalla sinistra allo stadio Cashpoint Arena di Altach. Christoph Knasmullner (Admira Wacker) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Admira Wacker.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230815" eventtype="172" id="339328253" time="45" type="116">
+<Text language="it">Admira Wacker all'attacco allo stadio Cashpoint Arena con Christoph Knasmullner. Il suo tiro viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Christoph Knasmullner (Admira Wacker) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230499" eventtype="90" id="339326259" time="45" type="106">
+<Text language="it">Allo stadio Cashpoint Arena di Altach ci saranno 1 minuti di recupero nel primo tempo.</Text>
+<Text language="en">1 minutes will be added to the first half in Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229381" eventtype="172" id="339321707" time="42" type="116">
+<Text language="it">Occasione Rheindorf Altach con Christoph Knasmullner, ma la sua conclusione viene intercettata da un difensore avversario.</Text>
+<Text language="en">Christoph Knasmullner (Admira Wacker) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229069" eventtype="40" id="339320547" time="41" type="45">
+<Text language="it">Ammonito Hannes Aigner (Rheindorf Altach)!</Text>
+<Text language="en">SCR Altach's Hannes Aigner has been booked in Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226401" eventtype="154" id="339307711" time="33" type="85">
+<Text language="it">Angolo Rheindorf Altach secondo l'arbitro Harald Lechner. Ismael Tajouri lo batterà dalla bandierina destra.</Text>
+<Text language="en">SCR Altach have been awarded a corner by Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226287" eventtype="154" id="339306879" time="33" type="85">
+<Text language="it">A Altach Ismael Tajouri (Rheindorf Altach) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">SCR Altach have been awarded a corner by Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224331" eventtype="30" id="339305635" time="28" type="139">
+<Text language="it">Philipp Netzer ha fornito l'assist per il gol.</Text>
+<Text language="en">Philipp Netzer with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203224331" eventtype="30" id="339301831" time="28" type="36">
+<Text language="it">Rheindorf Altach in gol con Hannes Aigner! La squadra che gioca di casa conduce ora 1 - 0 allo stadio Cashpoint Arena.</Text>
+<Text language="en">Hannes Aigner is on target to give SCR Altach a 1 - 0 advantage.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223801" eventtype="154" id="339299653" time="26" type="85">
+<Text language="it">L'arbitro Harald Lechner ha concesso un calcio d'angolo dalla sinistra allo stadio Cashpoint Arena di Altach. Christoph Knasmullner (Admira Wacker) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Admira Wacker.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203223211" eventtype="154" id="339296913" time="23" type="85">
+<Text language="it">Allo stadio Cashpoint Arena, Christoph Knasmullner (Admira Wacker) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Admira Wacker have been awarded a corner by Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222173" eventtype="153" id="339291843" time="20" type="112">
+<Text language="it">La squadra ospite è stata colta in fuorigioco.</Text>
+<Text language="en">In Altach, Admira Wacker push forward quickly but are pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203222027" eventtype="60" id="339290923" time="20" type="73">
+<Text language="it">Sostituzione Admira Wacker. Daniel Toth sembra non riuscire a continuare la gara, al suo posto Markus Blutsch.</Text>
+<Text language="en">Daniel Toth (Admira Wacker) does not seem to be able to continue. He is replaced by Markus Blutsch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221619" eventtype="168" id="339288355" time="19" type="99">
+<Text language="it">Daniel Toth (Admira Wacker) ha fatto il suo ritorno sul terreno da gioco, dopo le cure dei sanitari, allo stadio Cashpoint Arena di Altach.</Text>
+<Text language="en">Daniel Toth returns to the field for Admira Wacker after picking up a slight injury.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221393" eventtype="155" id="339287939" time="18" type="89">
+<Text language="it">Rheindorf Altach avanza e calcia in porta con Philipp Netzer. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">SCR Altach drive forward and Philipp Netzer gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221359" eventtype="154" id="339287519" time="18" type="85">
+<Text language="it">Allo stadio Cashpoint Arena, Ismael Tajouri (Rheindorf Altach) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Corner awarded to SCR Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220619" eventtype="16" id="339282383" time="16" type="79">
+<Text language="it">L'interruzione momentanea è terminata.</Text>
+<Text language="en">The match is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220055" eventtype="158" id="339278727" time="14" type="97">
+<Text language="it">La partita allo stadio Cashpoint Arena è stata interrotta per controllare le condizioni di Daniel Toth.</Text>
+<Text language="en">Harald Lechner waits before resuming play because Daniel Toth for Admira Wacker is still down.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218851" eventtype="155" id="339270877" time="11" type="122">
+<Text language="it">Traversa Rheindorf Altach con Philipp Netzer allo stadio Cashpoint Arena di Altach!</Text>
+<Text language="en">Philipp Netzer (SCR Altach) shoots – and rattles the crossbar!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203216807" eventtype="154" id="339259781" time="7" type="85">
+<Text language="it">Angolo Admira Wacker secondo l'arbitro Harald Lechner. Ilter Ayyildiz lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Admira Wacker have been awarded a corner by Harald Lechner.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215831" eventtype="156" id="339255549" time="5" type="91">
+<Text language="it">Lucas Galvao (Rheindorf Altach) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">SCR Altach's Lucas Galvao gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215781" eventtype="154" id="339255137" time="5" type="85">
+<Text language="it">Corner Rheindorf Altach allo stadio Cashpoint Arena di Altach. Ismael Tajouri batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to SCR Altach.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203215467" eventtype="172" id="339254305" time="5" type="116">
+<Text language="it">Patrick Salomon (Rheindorf Altach) ci prova con un tiro che viene però bloccato da un difensore avversario.</Text>
+<Text language="en">Patrick Salomon (SCR Altach) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203213593" eventtype="10" id="339242543" time="1" type="37">
+<Text language="it">Il primo tempo è appena cominciato.</Text>
+<Text language="en">The match has started.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203199209" eventtype="80" id="339209517" time="0" type="19">
+<Text language="it">Le formazioni ufficiali della partita odierna allo stadio Cashpoint Arena sono appena state confermate.</Text>
+<Text language="en">The team line-ups for today's match at Cashpoint Arena are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="56169779" id="339237331">
+<Text language="it">Un anno fa, Admira Wacker era 10 in classifica con 20 punti. Ora è 5 con 31 punti.</Text>
+<Text language="en">A year ago, Admira Wacker were number 10 in the table with 20 points. Now they are number 5 with 31 points.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="52558" name="Lechner, Harald">
+<Country id="14" name="Austria">
+<Name language="it">Austria</Name>
+<Name language="en">Austria</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="14" name="Austria">
+<Name language="it">Austria</Name>
+<Name language="en">Austria</Name>
+</Country>
+<City id="107" name="Altach">
+<Name language="it">Altach</Name>
+<Name language="en">Altach</Name>
+</City>
+<Stadium id="794" name="Cashpoint Arena">
+<Name language="it">Cashpoint Arena</Name>
+<Name language="en">Cashpoint Arena</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>54</Team1>
+<Team2>46</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>7</Team1>
+<Team2>2</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>2</Team1>
+<Team2>0</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>13</Team1>
+<Team2>15</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>6</Team1>
+<Team2>6</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>27</Team1>
+<Team2>26</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>1</Team1>
+<Team2>5</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>3</Team1>
+<Team2>6</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>14</Team1>
+<Team2>12</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

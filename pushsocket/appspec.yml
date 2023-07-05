@@ -1,0 +1,15 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/prod/site/betradarSocket/
+hooks:
+  BeforeInstall:
+    - location: codedeploy/stop-services.sh
+      runas: root
+    - location: codedeploy/remove_item.sh
+  AfterInstall:
+    - location: codedeploy/fix-permission.sh
+  ApplicationStart:
+    - location: codedeploy/start-services.sh
+      runas: root

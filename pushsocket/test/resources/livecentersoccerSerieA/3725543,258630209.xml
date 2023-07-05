@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="997298" generatedAt="2016-02-27T21:32:12 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="33">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+<Tournament BetradarTournamentId="38" UniqueTournamentId="38">
+<Name language="it">Pro League</Name>
+<Name language="en">Pro League</Name>
+<Match BetradarMatchId="10262291" Id="7433956">
+<MatchDate>2016-02-27T20:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5296" UniqueTeamId="2893" formation="4-4-2">
+<Color hStripes="-1" main="16776960" number="3368703" sleeve="3368703" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16763904" number="0" sleeve="16763904" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Westerlo</Name>
+<Name language="en">KVC Westerlo</Name>
+</Team1>
+<Team2 BetradarTeamId="6542681" UniqueTeamId="44019" formation="5-2-3">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3368448" number="0" sleeve="3368448" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Royal Mouscron</Name>
+<Name language="en">Royal Mouscron</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<LastGoal>
+<Time>2016-02-27T20:33:39 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T21:03:02 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>2</Team1>
+<Team2>2</Team2>
+</Score>
+<Score type="Period1">
+<Team1>2</Team1>
+<Team2>2</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203245671">
+<Time>4</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="115569">Dussenne, Noe</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal from="heading" id="203248433">
+<Time>11</Time>
+<Team1>1</Team1>
+<Team2>1</Team2>
+<Player id="122855">Cools, Jens</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203254311">
+<Time>27</Time>
+<Team1>2</Team1>
+<Team2>1</Team2>
+<Player id="41758">Henkens, Robin</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203255715">
+<Time>32</Time>
+<Team1>2</Team1>
+<Team2>2</Team2>
+<Player id="9310">Oussalah, Mustapha</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203259705" type="Yellow">
+<Time>45</Time>
+<Player id="213120">Tirpan, Mickael</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203264913">
+<Time>48</Time>
+<PlayerOut id="127122">Lecomte, Raphael</PlayerOut>
+<PlayerIn id="89237">Molenberghs, Jarno</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203269371">
+<Time>62</Time>
+<PlayerOut id="188269">Dingome, Tristan</PlayerOut>
+<PlayerIn id="249415">Viola, Valentin</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203229777" pos="2">
+<Player id="74489">Apau, Mitch</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229795" pos="7">
+<Player id="122855">Cools, Jens</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229779" pos="4">
+<Player id="159">Daems, Filip</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229785" pos="11">
+<Player id="17074">De Ceulaer, Benjamin</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229789" pos="10">
+<Player id="228090">Gounongbe, Frederic</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229781" pos="6">
+<Player id="41758">Henkens, Robin</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229787" pos="8">
+<Player id="70939">Hyland, Khaleem</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229783" pos="9">
+<Player id="127122">Lecomte, Raphael</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229791" pos="5">
+<Player id="115518">Mustoe, Jordan</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229793" pos="3">
+<Player id="222016">Schuermans, Kenneth</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229797" pos="1">
+<Player id="247481">Van Langendonck, Koen</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229823">
+<Player id="58782">Annys, Maxime</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229827">
+<Player id="127110">Aoulad, Mohammed</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229825">
+<Player id="43983">Koffi, Jean Romaric Kevin</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229833">
+<Player id="89237">Molenberghs, Jarno</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229831">
+<Player id="329415">Ruyssen, Gilles</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229821">
+<Player id="45978">Van Hout, Kristof</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229835">
+<Player id="292971">Vercauteren, Julien</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229829">
+<Player id="578344">Verschueren, Arno</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229837">
+<Player id="56076">Visnakovs, Eduards</Player>
+<ShirtNumber>90</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229805" pos="10">
+<Player id="312830">Badri, Anice</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229809" pos="3">
+<Player id="191204">Castelletto, Jean Charles</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229811" pos="11">
+<Player id="45941">Coulibaly, Elimane</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229813" pos="8">
+<Player id="188269">Dingome, Tristan</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229799" pos="4">
+<Player id="115569">Dussenne, Noe</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229801" pos="7">
+<Player id="45965">Hubert, David</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229803" pos="5">
+<Player id="123266">Mezague, Teddy</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229807" pos="9">
+<Player id="166641">Mohamed, Dimitri</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229817" pos="6">
+<Player id="9310">Oussalah, Mustapha</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229815" pos="2">
+<Player id="213120">Tirpan, Mickael</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229819" pos="1">
+<Player id="110843">Vagner</Player>
+<ShirtNumber>86</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229843">
+<Player id="98442">Aksentijevic, Nikola</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229847">
+<Player id="19395">Gulan, Nikola</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229851">
+<Player id="138898">Maciel, Frederic</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229839">
+<Player id="287789">Michel, Julian</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229853">
+<Player id="234766">Mulic, Fejsal</Player>
+<ShirtNumber>45</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229841">
+<Player id="263619">Rausin, Thibault</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229849">
+<Player id="171169">Vaccaro, Luigi</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203229845">
+<Player id="249415">Viola, Valentin</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203272457" eventtype="155" id="339564645" time="74" type="89">
+<Text language="it">Ci prova Jarno Molenberghs (Westerlo), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">In Westerlo KVC Westerlo drive forward through Jarno Molenberghs. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271915" eventtype="153" id="339560347" time="72" type="93">
+<Text language="it">Offside di Robin Henkens (Westerlo)!</Text>
+<Text language="en">KVC Westerlo's Robin Henkens has run offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271857" eventtype="154" id="339560017" time="72" type="85">
+<Text language="it">A Westerlo Robin Henkens (Westerlo) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to KVC Westerlo.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271631" eventtype="153" id="339558105" time="71" type="93">
+<Text language="it">Anice Badri (Royal Mouscron) si fa sorprendere in fuorigioco.</Text>
+<Text language="en">Royal Mouscron's Anice Badri has run offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270739" eventtype="154" id="339552803" time="67" type="85">
+<Text language="it">L'arbitro Sebastien Delferiere ha concesso un calcio d'angolo dalla sinistra allo stadio Het Kuipje di Westerlo. Anice Badri (Royal Mouscron) si appresta a batterlo.</Text>
+<Text language="en">Royal Mouscron have been awarded a corner by Sebastien Delferiere.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270633" eventtype="155" id="339551969" time="67" type="89">
+<Text language="it">Conclusione di Valentin Viola (Royal Mouscron) allo stadio Het Kuipje di Westerlo, ma il suo tiro non gonfia la rete!</Text>
+<Text language="en">Valentin Viola gets his shot on target but fails to score for Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270117" eventtype="153" id="339547741" time="65" type="93">
+<Text language="it">Fuorigioco Royal Mouscron con Elimane Coulibaly!</Text>
+<Text language="en">Elimane Coulibaly for Royal Mouscron is whistled offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203269371" eventtype="60" id="339542761" time="62" type="44">
+<Text language="it">Glen de Boeck realizza il suo primo cambio allo stadio Het Kuipje con Valentin Viola che rimpiazza Tristan Dingome.</Text>
+<Text language="en">Valentin Viola is on a sub for Tristan Dingome for Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267707" eventtype="153" id="339529435" time="56" type="93">
+<Text language="it">Fuorigioco di Frederic Gounongbe(Westerlo) nella sfida dello stadio Het Kuipje di Westerlo!</Text>
+<Text language="en">Frederic Gounongbe for the home team is judged to be offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267445" eventtype="154" id="339527861" time="55" type="85">
+<Text language="it">Allo stadio Het Kuipje, Tristan Dingome (Royal Mouscron) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267337" eventtype="172" id="339526699" time="55" type="116">
+<Text language="it">Elimane Coulibaly (Royal Mouscron) tenta la conclusione, ma il suo tiro viene però respinto da un difensore avversario.</Text>
+<Text language="en">Royal Mouscron push forward at Het Kuipje and Elimane Coulibaly gets in a strike. This is blocked, however, by a determined KVC Westerlo defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267067" eventtype="153" id="339524957" time="54" type="93">
+<Text language="it">Offside di Elimane Coulibaly (Royal Mouscron)!</Text>
+<Text language="en">Elimane Coulibaly of Royal Mouscron is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266605" eventtype="168" id="339521229" time="53" type="99">
+<Text language="it">Anice Badri dopo le cure ha avuto il consenso dell'arbitro per ritornare in campo.</Text>
+<Text language="en">Anice Badri for Royal Mouscron is back on the field again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266583" eventtype="16" id="339521147" time="52" type="79">
+<Text language="it">La partita è ripresa allo stadio Het Kuipje.</Text>
+<Text language="en">Play has been resumed at Het Kuipje.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266433" eventtype="158" id="339520067" time="52" type="97">
+<Text language="it">La gara dello stadio Het Kuipje di Westerlo è stata temporaneamente interrotta per l'infortunio di Anice Badri (Royal Mouscron).</Text>
+<Text language="en">Anice Badri is down and play has been interrupted for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266215" eventtype="154" id="339518823" time="51" type="85">
+<Text language="it">Corner Westerlo allo stadio Het Kuipje di Westerlo. Robin Henkens batterà dalla bandierina sinistra.</Text>
+<Text language="en">KVC Westerlo have been awarded a corner by Sebastien Delferiere.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265179" eventtype="154" id="339512447" time="48" type="85">
+<Text language="it">Angolo Westerlo secondo l'arbitro Sebastien Delferiere. Robin Henkens lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to KVC Westerlo.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264913" eventtype="60" id="339510457" time="48" type="44">
+<Text language="it">Sostituzione allo stadio Het Kuipje! Primo cambio per Bob Peeters (Westerlo) che fa entrare sul terreno di gioco Jarno Molenberghs al posto di Raphael Lecomte.</Text>
+<Text language="en">The home team replace Raphael Lecomte with Jarno Molenberghs.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264871" eventtype="156" id="339510123" time="47" type="91">
+<Text language="it">Westerlo con Jarno Molenberghs cerca la rete allo stadio Het Kuipje con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Jarno Molenberghs for KVC Westerlo gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264275" eventtype="23" id="339506153" time="46" type="21">
+<Text language="it">E' iniziato il secondo tempo allo stadio Het Kuipje.</Text>
+<Text language="en">The second-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260421" eventtype="35" id="339485603" time="45" type="22">
+<Text language="it">Si è concluso il primo tempo a Westerlo.</Text>
+<Text language="en">The whistle has gone to end the first-half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260405" eventtype="155" id="339485519" time="45" type="118">
+<Text language="it">Elimane Coulibaly (Royal Mouscron) ci prova con un colpo di testa che viene però respinto bene dalla difesa avversaria.</Text>
+<Text language="en">Elimane Coulibaly (Royal Mouscron) gets in a powerful header but the ball is cleared away.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259705" eventtype="40" id="339483105" time="45" type="45">
+<Text language="it">Mickael Tirpan (Royal Mouscron) ha ricevuto un cartellino giallo dall'arbitro Sebastien Delferiere.</Text>
+<Text language="en">Mickael Tirpan (Royal Mouscron) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259515" eventtype="90" id="339482359" time="45" type="106">
+<Text language="it">Ci saranno 1 minuti di recupero nel primo tempoallo stadioHet Kuipje.</Text>
+<Text language="en">1 minutes of injury time will be added to the first half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203258051" eventtype="153" id="339474255" time="40" type="93">
+<Text language="it">L'arbitro Sebastien Delferiere fischia un fuorigioco a Anice Badri per la squadra che gioca ospite nella sfida dello stadio Het Kuipje di Westerlo.</Text>
+<Text language="en">In Westerlo Royal Mouscron's Anice Badri is caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203257179" eventtype="155" id="339470443" time="37" type="89">
+<Text language="it">A Het Kuipje Elimane Coulibaly (Royal Mouscron) va alla conclusione, senza però riuscire a gonfiare la rete.</Text>
+<Text language="en">Royal Mouscron drive forward and Elimane Coulibaly gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203257113" eventtype="154" id="339470027" time="37" type="85">
+<Text language="it">Allo stadio Het Kuipje, Anice Badri (Royal Mouscron) batterà un calcio d'angolo da sinistra.</Text>
+<Text language="en">Royal Mouscron have been awarded a corner by Sebastien Delferiere.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256985" eventtype="154" id="339469525" time="37" type="85">
+<Text language="it">Allo stadio Het Kuipje, Tristan Dingome (Royal Mouscron) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256969" eventtype="172" id="339469359" time="36" type="116">
+<Text language="it">David Hubert (Royal Mouscron) prova un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Important block from the KVC Westerlo defence as David Hubert fires in a strike for Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256895" eventtype="154" id="339468943" time="36" type="85">
+<Text language="it">Allo stadio Het Kuipje, Tristan Dingome (Royal Mouscron) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Royal Mouscron have been awarded a corner by Sebastien Delferiere.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256717" eventtype="154" id="339467945" time="36" type="85">
+<Text language="it">Angolo Royal Mouscron secondo l'arbitro Sebastien Delferiere. Dimitri Mohamed lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256689" eventtype="172" id="339467615" time="35" type="116">
+<Text language="it">Tristan Dingome (Royal Mouscron) ci prova con un tiro che viene però bloccato da un difensore avversario.</Text>
+<Text language="en">Royal Mouscron's Tristan Dingome gets in a shot but it is blocked by a KVC Westerlo defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256491" eventtype="153" id="339466789" time="35" type="93">
+<Text language="it">Benjamin De Ceulaer (Westerlo) si fa sorprendere in fuorigioco.</Text>
+<Text language="en">Sebastien Delferiere blows against KVC Westerlo's Benjamin De Ceulaer for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256425" eventtype="156" id="339466207" time="34" type="91">
+<Text language="it">Allo stadio Het Kuipje di Westerlo occasione Royal Mouscron! Ci prova Dimitri Mohamed, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">In Westerlo Royal Mouscron attack through Dimitri Mohamed. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256315" eventtype="154" id="339465871" time="34" type="85">
+<Text language="it">A Westerlo Tristan Dingome (Royal Mouscron) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Royal Mouscron have been awarded a corner by Sebastien Delferiere.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256277" eventtype="155" id="339465539" time="34" type="118">
+<Text language="it">Noe Dussenne (Royal Mouscron) tenta un colpo di testa che viene però intercettato dagli avversari.</Text>
+<Text language="en">Royal Mouscron push upfield and Noe Dussenne gets his head to the ball. The attempt is cleared by an alert KVC Westerlo defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203255715" eventtype="30" id="339463299" time="32" type="139">
+<Text language="it">Mickael Tirpan ha servito l'assist per il gol.</Text>
+<Text language="en">Great play from Mickael Tirpan to set up the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203255715" eventtype="30" id="339463215" time="32" type="34">
+<Text language="it">Gol! Pareggio Royal Mouscron! Il risultato è ora 2 - 2allo stadioHet Kuipje, grazie alla rete realizzata da Mustapha Oussalah.</Text>
+<Text language="en">Goal! Mustapha Oussalah levels the match at 2 - 2.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203255389" eventtype="153" id="339461221" time="32" type="93">
+<Text language="it">Westerlo con Frederic Gounongbe si fa trovare in fuorigioco allo stadio Het Kuipje.</Text>
+<Text language="en">KVC Westerlo drive forward but Frederic Gounongbe is judged offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254535" eventtype="156" id="339458319" time="29" type="91">
+<Text language="it">Frederic Gounongbe (Westerlo) prova il tiro allo stadio Het Kuipje. La sua conclusione però termina fuori.</Text>
+<Text language="en">KVC Westerlo's Frederic Gounongbe misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254391" eventtype="155" id="339457737" time="29" type="89">
+<Text language="it">Royal Mouscron ci prova con un tiro in porta di Anice Badriallo stadioHet Kuipje. Conclusione che però non va a buon fine.</Text>
+<Text language="en">Anice Badri for Royal Mouscron drives towards goal at Het Kuipje. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254311" eventtype="30" id="339457489" time="27" type="139">
+<Text language="it">Frederic Gounongbe ha fornito l'assist per il gol.</Text>
+<Text language="en">Frederic Gounongbe instrumental with a fine assist.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254311" eventtype="30" id="339457405" time="27" type="36">
+<Text language="it">Westerlo in gol con Robin Henkens! La squadra che gioca di casa conduce ora 2 - 1 allo stadio Het Kuipje.</Text>
+<Text language="en">Goal! KVC Westerlo have got their heads in front thanks to a Robin Henkens strike.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203253993" eventtype="154" id="339455757" time="27" type="85">
+<Text language="it">Corner Royal Mouscron allo stadio Het Kuipje di Westerlo. Tristan Dingome batterà dalla bandierina destra.</Text>
+<Text language="en">Royal Mouscron have been awarded a corner by Sebastien Delferiere.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250543" eventtype="156" id="339442191" time="17" type="91">
+<Text language="it">Royal Mouscron con Elimane Coulibaly cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Royal Mouscron's Elimane Coulibaly gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203249909" eventtype="153" id="339439035" time="15" type="93">
+<Text language="it">A Westerlo Teddy Mezague (Royal Mouscron) si è fatto sorprendere in fuorigioco.</Text>
+<Text language="en">Royal Mouscron's Teddy Mezague is whistled for offside at Het Kuipje.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203249451" eventtype="156" id="339437543" time="14" type="91">
+<Text language="it">Benjamin De Ceulaer (Westerlo) cerca la rete a Westerlo con un tiro che, però, non trova lo specchio della porta.</Text>
+<Text language="en">KVC Westerlo's Benjamin De Ceulaer breaks free at Het Kuipje. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248433" eventtype="30" id="339431409" time="11" type="139">
+<Text language="it">Benjamin De Ceulaer ha realizzato l'assiste del gol.</Text>
+<Text language="en">That's a fine assist from Benjamin De Ceulaer.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248433" eventtype="30" id="339431243" time="11" type="132">
+<Text language="it">Gol! Jens Cools (Westerlo) pareggia con un colpo di testa. Il risultato allo stadio Het Kuipje è quindi di 1 - 1.</Text>
+<Text language="en">Jens Cools equalizes with a header to make it 1 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247413" eventtype="153" id="339426689" time="8" type="93">
+<Text language="it">Elimane Coulibaly (Royal Mouscron) è pescato in fuorigioco.</Text>
+<Text language="en">Sebastien Delferiere blows against Royal Mouscron's Elimane Coulibaly for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247173" eventtype="153" id="339424621" time="7" type="93">
+<Text language="it">Benjamin De Ceulaer (Westerlo) è stato colto in fuorigioco.</Text>
+<Text language="en">In Westerlo KVC Westerlo's Benjamin De Ceulaer is caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245671" eventtype="30" id="339417497" time="4" type="139">
+<Text language="it">L'assist del gol è di Tristan Dingome.</Text>
+<Text language="en">Tristan Dingome with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245671" eventtype="30" id="339417247" time="4" type="36">
+<Text language="it">Noe Dussenne ha messo la palla in rete. Royal Mouscron avanti per 1 - 0.</Text>
+<Text language="en">Noe Dussenne scores to make it 1 - 0 at Het Kuipje.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245457" eventtype="154" id="339416167" time="3" type="85">
+<Text language="it">L'arbitro Sebastien Delferiere ha concesso un calcio d'angolo dalla destra allo stadio Het Kuipje di Westerlo. Tristan Dingome (Royal Mouscron) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Royal Mouscron.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245159" eventtype="153" id="339414257" time="2" type="93">
+<Text language="it">Royal Mouscron in avanti, però Elimane Coulibaly si fa cogliere in fuorigioco.</Text>
+<Text language="en">Elimane Coulibaly for the away team is judged to be offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244339" eventtype="10" id="339409375" time="1" type="37">
+<Text language="it">Allo stadio Het Kuipje di Westerlo l'arbitro Sebastien Delferiere ha dato il via alla gara.</Text>
+<Text language="en">The first-half is just kicking off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203229777" eventtype="80" id="339330749" time="0" type="19">
+<Text language="it">Het Kuipje: ecco le formazioni ufficiali della gara che si giocherà oggi a Westerlo.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57263131" id="339403577">
+<Text language="it">Se Anice Badri segna contro Westerlo, questo sarà il 5° gol per Royal Mouscron in questa stagione.</Text>
+<Text language="en">If Anice Badri scores against KVC Westerlo it will be his 5th goal for Royal Mouscron this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="72910" name="Delferiere, Sebastien">
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="21" name="Belgium">
+<Name language="it">Belgio</Name>
+<Name language="en">Belgium</Name>
+</Country>
+<City id="676" name="Westerlo">
+<Name language="it">Westerlo</Name>
+<Name language="en">Westerlo</Name>
+</City>
+<Stadium id="1249" name="Het Kuipje">
+<Name language="it">Het Kuipje</Name>
+<Name language="en">Het Kuipje</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>50</Team1>
+<Team2>50</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>3</Team1>
+<Team2>7</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>17</Team1>
+<Team2>12</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>3</Team1>
+<Team2>9</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>5</Team1>
+<Team2>7</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>8</Team1>
+<Team2>17</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>5</Team1>
+<Team2>1</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>10</Team1>
+<Team2>6</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>7</Team1>
+<Team2>10</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="31">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+<Tournament BetradarTournamentId="33" UniqueTournamentId="23">
+<Name language="it">Serie A</Name>
+<Name language="en">Serie A</Name>
+<Match BetradarMatchId="10265306" Id="7689170">
+<MatchDate>2016-02-27T18:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="124891" UniqueTeamId="2705" formation="4-3-1-2">
+<Color hStripes="-1" main="13311" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16777215" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Empoli</Name>
+<Name language="en">FC Empoli</Name>
+</Team1>
+<Team2 BetradarTeamId="9265" UniqueTeamId="2702" formation="4-3-3">
+<Color hStripes="-1" main="10027008" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3368601" number="16777215" sleeve="3368601" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Roma</Name>
+<Name language="en">AS Roma</Name>
+</Team2>
+<Status Code="100">
+<Name language="it">Terminata</Name>
+<Name language="en">Ended</Name>
+</Status>
+<Winner>2</Winner>
+<LastGoal>
+<Time>2016-02-27T19:31:41 CET</Time>
+<Team>2</Team>
+</LastGoal>
+<CurrentPeriodStart>2016-02-27T19:53:23 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>1</Team1>
+<Team2>3</Team2>
+</Score>
+<Score type="Period1">
+<Team1>1</Team1>
+<Team2>2</Team2>
+</Score>
+<Score type="Normaltime">
+<Team1>1</Team1>
+<Team2>3</Team2>
+</Score>
+</Scores>
+<Goals>
+<Goal id="203201017">
+<Time>5</Time>
+<Team1>0</Team1>
+<Team2>1</Team2>
+<Player id="45925">El Shaarawy, Stephan</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal from="owngoal" id="203210427">
+<Time>22</Time>
+<Team1>1</Team1>
+<Team2>1</Team2>
+<Player id="48543">Zukanovic, Ervin</Player>
+<ScoringTeam>1</ScoringTeam>
+</Goal>
+<Goal id="203212237">
+<Time>27</Time>
+<Team1>1</Team1>
+<Team2>2</Team2>
+<Player id="27678">Pjanic, Miralem</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+<Goal id="203235361">
+<Time>74</Time>
+<Team1>1</Team1>
+<Team2>3</Team2>
+<Player id="45925">El Shaarawy, Stephan</Player>
+<ScoringTeam>2</ScoringTeam>
+</Goal>
+</Goals>
+<Cards>
+<Card id="203241823" type="YellowRed">
+<Time>90</Time>
+<Player id="99546">Mario Rui</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203208283" type="Yellow">
+<Time>18</Time>
+<Player id="153212">Pucciarelli, Manuel</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203208489" type="Yellow">
+<Time>18</Time>
+<Player id="27678">Pjanic, Miralem</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203218915" type="Yellow">
+<Time>41</Time>
+<Player id="47171">Perotti, Diego</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203232213" type="Yellow">
+<Time>63</Time>
+<Player id="99546">Mario Rui</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203216853">
+<Time>37</Time>
+<PlayerOut id="44001">Nainggolan, Radja</PlayerOut>
+<PlayerIn id="46707">Falque, Iago</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203228635">
+<Time>51</Time>
+<PlayerOut id="155449">Krunic, Rade</PlayerOut>
+<PlayerIn id="95687">Buchel, Marcel</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203232371">
+<Time>64</Time>
+<PlayerOut id="136820">Croce, Daniele</PlayerOut>
+<PlayerIn id="94226">Livaja, Marko</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203235039">
+<Time>73</Time>
+<PlayerOut id="811">Maccarone, Massimo</PlayerOut>
+<PlayerIn id="31272">Mchedlidze, Levan</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203235121">
+<Time>73</Time>
+<PlayerOut id="17744">Maicon</PlayerOut>
+<PlayerIn id="41234">Manolas, Konstantinos</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203237185">
+<Time>79</Time>
+<PlayerOut id="45925">El Shaarawy, Stephan</PlayerOut>
+<PlayerIn id="14990">Dzeko, Edin</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203182893" pos="4">
+<Player id="32974">Ariaudo, Lorenzo</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182891" pos="3">
+<Player id="94531">Cosic, Uros</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182897" pos="8">
+<Player id="136820">Croce, Daniele</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182903" pos="9">
+<Player id="155449">Krunic, Rade</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182889" pos="2">
+<Player id="131815">Laurini, Vincent</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182905" pos="10">
+<Player id="811">Maccarone, Massimo</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182895" pos="5">
+<Player id="99546">Mario Rui</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182899" pos="7">
+<Player id="255389">Paredes, Leandro</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182907" pos="11">
+<Player id="153212">Pucciarelli, Manuel</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182887" pos="1">
+<Player id="44906">Skorupski, Lukasz</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182901" pos="6">
+<Player id="138605">Zielinski, Piotr</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182921" pos="0">
+<Player id="782240">Assane Diousse</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182913" pos="0">
+<Player id="250909">Bittante, Luca</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182919" pos="0">
+<Player id="95687">Buchel, Marcel</Player>
+<ShirtNumber>77</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182915" pos="0">
+<Player id="125874">Camporese, Michele</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182927" pos="0">
+<Player id="94226">Livaja, Marko</Player>
+<ShirtNumber>39</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182923" pos="0">
+<Player id="106260">Maiello, Raffaele</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182925" pos="0">
+<Player id="31272">Mchedlidze, Levan</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182911" pos="0">
+<Player id="31569">Pelagotti, Alberto</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182929" pos="0">
+<Player id="326161">Piu, Alessandro</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182909" pos="0">
+<Player id="44041">Pugliesi, Maurizio</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203182917" pos="0">
+<Player id="1907">Zambelli, Marco</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175389" pos="5">
+<Player id="96538">Digne, Lucas</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175391" pos="11">
+<Player id="45925">El Shaarawy, Stephan</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175393" pos="7">
+<Player id="3382">Keita, Seydou</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175405" pos="2">
+<Player id="17744">Maicon</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175395" pos="8">
+<Player id="44001">Nainggolan, Radja</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175397" pos="10">
+<Player id="47171">Perotti, Diego</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175399" pos="6">
+<Player id="27678">Pjanic, Miralem</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175401" pos="3">
+<Player id="142622">Rudiger, Antonio</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175403" pos="9">
+<Player id="159665">Salah, Mohamed</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203175407" pos="1">
+<Player id="50490">Szczesny, Wojciech</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181885" pos="4">
+<Player id="48543">Zukanovic, Ervin</Player>
+<ShirtNumber>87</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181887" pos="0">
+<Player id="2948">De Sanctis, Morgan</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181909" pos="0">
+<Player id="14990">Dzeko, Edin</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181891" pos="0">
+<Player id="155997">Emerson</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181903" pos="0">
+<Player id="46707">Falque, Iago</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181905" pos="0">
+<Player id="152420">Florenzi, Alessandro</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181897" pos="0">
+<Player id="30646">Leandro Castan</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181889" pos="0">
+<Player id="1897">Lobont, Bogdan</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181893" pos="0">
+<Player id="41234">Manolas, Konstantinos</Player>
+<ShirtNumber>44</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181899" pos="0">
+<Player id="34221">Strootman, Kevin</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181895" pos="0">
+<Player id="17416">Torosidis, Vasilis</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181907" pos="0">
+<Player id="1775">Totti, Francesco</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203181901" pos="0">
+<Player id="21280">Vainqueur, William</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203242153" eventtype="32" id="339396535" time="90" type="23">
+<Text language="it">Game over! Il risultato finale è 1 - 3.</Text>
+<Text language="en">Full-time! The final score is 1 - 3.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242131" eventtype="156" id="339396369" time="90" type="91">
+<Text language="it">Mohamed Salah (Roma) cerca la rete a Empoli con un tiro che, però, non trova lo specchio della porta.</Text>
+<Text language="en">AS Roma's Mohamed Salah breaks free at Carlo Castellani. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241823" eventtype="45" id="339394713" time="90" type="46">
+<Text language="it">Mario Rui (Empoli) ha ricevuto il secondo giallo da Andrea Gervasoni. Inevitabile a questo punto il rosso!</Text>
+<Text language="en">FC Empoli's Mario Rui has been shown a second yellow card and sent off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241503" eventtype="153" id="339391885" time="90" type="93">
+<Text language="it">L'arbitro Andrea Gervasoni fischia un fuorigioco a Marko Livaja per la squadra che gioca di casa nella sfida dello stadio Carlo Castellani di Empoli.</Text>
+<Text language="en">Marko Livaja for the home team is judged to be offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241417" eventtype="156" id="339391305" time="90" type="91">
+<Text language="it">Roma con Edin Dzeko cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">AS Roma are coming forward and Edin Dzeko gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240977" eventtype="90" id="339387333" time="90" type="106">
+<Text language="it">Allo stadio Carlo Castellani di Empoli ci saranno 4 minuti di recupero nel secondo tempo.</Text>
+<Text language="en">The second half is prolonged by 4 minutes of added time.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240867" eventtype="168" id="339386095" time="90" type="99">
+<Text language="it">Allo stadio Carlo Castellani Uros Cosic, dopo aver ricevuto delle cure, ha fatto ritorno in campo.</Text>
+<Text language="en">Uros Cosic has recovered and rejoins the match in Empoli.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240825" eventtype="153" id="339385763" time="90" type="93">
+<Text language="it">Edin Dzeko (Roma) è stato colto in fuorigioco allo stadio Carlo Castellani.</Text>
+<Text language="en">In Empoli AS Roma's Edin Dzeko is caught offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240519" eventtype="16" id="339384023" time="89" type="79">
+<Text language="it">Si torna a giocare!</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240341" eventtype="158" id="339382115" time="88" type="97">
+<Text language="it">L'arbitro Andrea Gervasoni ha momentaneamente interrotto la sfida dello stadio Carlo Castellani di Empoli per un infortunio occorso a Uros Cosic (Empoli).</Text>
+<Text language="en">Uros Cosic is writhing in pain and play has been suspended for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239639" eventtype="153" id="339377057" time="87" type="93">
+<Text language="it">Fuorigioco di Mohamed Salah(Roma) nella sfida dello stadio Carlo Castellani di Empoli!</Text>
+<Text language="en">Mohamed Salah for AS Roma is whistled offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239565" eventtype="168" id="339376727" time="86" type="99">
+<Text language="it">Seydou Keita (Roma) ha ricevuto le cure ed ora è tornato in campo allo stadio Carlo Castellani.</Text>
+<Text language="en">AS Roma's Seydou Keita looks ok and returns to the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239545" eventtype="168" id="339376643" time="86" type="99">
+<Text language="it">Levan Mchedlidze (Empoli) ha fatto il suo ritorno sul terreno da gioco, dopo le cure dei sanitari, allo stadio Carlo Castellani di Empoli.</Text>
+<Text language="en">Levan Mchedlidze is back on the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239281" eventtype="16" id="339374579" time="85" type="79">
+<Text language="it">Andrea Gervasoni ha fischiato per far riprendere la partita di Empoli.</Text>
+<Text language="en">The match is underway again.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239213" eventtype="158" id="339374413" time="85" type="97">
+<Text language="it">Seydou Keita si è infortunato ed il gioco è stato al momento interrotto.</Text>
+<Text language="en">The match has been stopped briefly for attention to the injured Seydou Keita.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203239189" eventtype="158" id="339374083" time="85" type="97">
+<Text language="it">Gara temporaneamente sospesa per l'infortunio a Levan Mchedlidze (Empoli)!</Text>
+<Text language="en">Attention is being given to FC Empoli’s Levan Mchedlidze and play has been suspended briefly.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238847" eventtype="156" id="339372507" time="84" type="91">
+<Text language="it">Allo stadio Carlo Castellani, Roma attacca con Mohamed Salah. La conclusione, però, non inquadra lo specchio della porta.</Text>
+<Text language="en">Mohamed Salah of AS Roma gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238751" eventtype="155" id="339371597" time="84" type="89">
+<Text language="it">A Carlo Castellani Levan Mchedlidze (Empoli) va alla conclusione, senza però riuscire a gonfiare la rete.</Text>
+<Text language="en">Levan Mchedlidze of FC Empoli smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237447" eventtype="156" id="339362719" time="80" type="91">
+<Text language="it">Empoli si spinge in avanti e con Marko Livaja cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">In Empoli FC Empoli attack through Marko Livaja. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237185" eventtype="60" id="339360983" time="79" type="44">
+<Text language="it">Edin Dzeko rimpiazza Stephan El Shaarawy per la squadra ospite allo stadio Carlo Castellani.</Text>
+<Text language="en">Luciano Spalletti (AS Roma) is making a third substitution, with Edin Dzeko replacing Stephan El Shaarawy.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235361" eventtype="30" id="339350227" time="74" type="35">
+<Text language="it">Gol Roma! La squadra si porta sul confortante risultato di 3 - 1 grazie al gol realizzato da Stephan El Shaarawy.</Text>
+<Text language="en">Goal! Stephan El Shaarawy extends AS Roma's lead to 3 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235121" eventtype="60" id="339348819" time="73" type="44">
+<Text language="it">Cambio Roma! Konstantinos Manolas sostituisce Maicon. Questo e' il secondo cambio per Luciano Spalletti.</Text>
+<Text language="en">AS Roma make their second substitution with Konstantinos Manolas replacing Maicon.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235039" eventtype="60" id="339348407" time="73" type="44">
+<Text language="it">Cambio Empoli: Levan Mchedlidze è il sostituto di Massimo Maccarone.</Text>
+<Text language="en">The home team have replaced Massimo Maccarone with Levan Mchedlidze. This is the third substitution made today by Marco Giampaolo.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234927" eventtype="156" id="339347575" time="72" type="91">
+<Text language="it">Occasione Roma nella sfida dello stadio Carlo Castellani di Empoli, ma Iago Falque non trova la porta!</Text>
+<Text language="en">AS Roma's Iago Falque breaks free at Carlo Castellani. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203234339" eventtype="172" id="339346081" time="71" type="116">
+<Text language="it">Empoli all'attacco allo stadio Carlo Castellani con Leandro Paredes. Il suo tiro viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Leandro Paredes (FC Empoli) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232691" eventtype="156" id="339337969" time="65" type="91">
+<Text language="it">Iago Falque (Roma) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">In Empoli AS Roma attack through Iago Falque. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232643" eventtype="154" id="339337803" time="64" type="85">
+<Text language="it">Allo stadio Carlo Castellani, Diego Perotti (Roma) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232371" eventtype="60" id="339335813" time="64" type="44">
+<Text language="it">Secondo cambio per la squadra che gioca in di casa. Marko Livaja prende il posto di Daniele Croce.</Text>
+<Text language="en">Marco Giampaolo is making the team's second substitution at Carlo Castellani with Marko Livaja replacing Daniele Croce.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232213" eventtype="40" id="339334983" time="63" type="45">
+<Text language="it">Giallo per Mario Rui (Empoli) allo stadio Carlo Castellani di Empoli.</Text>
+<Text language="en">Mario Rui (FC Empoli) has received a first yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203232091" eventtype="154" id="339334483" time="62" type="85">
+<Text language="it">Corner Empoli allo stadio Carlo Castellani di Empoli. Leandro Paredes batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Empoli have been awarded a corner by Andrea Gervasoni.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230573" eventtype="156" id="339326673" time="58" type="91">
+<Text language="it">Massimo Maccarone (Empoli) prova il tiro allo stadio Carlo Castellani. La sua conclusione però termina fuori.</Text>
+<Text language="en">FC Empoli are pushing forward but Massimo Maccarone's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203230081" eventtype="154" id="339324599" time="56" type="85">
+<Text language="it">Corner Empoli allo stadio Carlo Castellani di Empoli. Leandro Paredes batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Empoli have been awarded a corner by Andrea Gervasoni.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228635" eventtype="60" id="339317315" time="51" type="44">
+<Text language="it">Marco Giampaolo (Empoli) fa il suo primo cambio con Marcel Buchel che rimpiazza Rade Krunic.</Text>
+<Text language="en">The home team replace Rade Krunic with Marcel Buchel.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203228075" eventtype="155" id="339314663" time="50" type="89">
+<Text language="it">Stephan El Shaarawy (Roma) cerca il gol senza fortuna con un tiro nello specchio della porta allo stadio Carlo Castellani.</Text>
+<Text language="en">AS Roma's Stephan El Shaarawy gets in a shot on goal at Carlo Castellani. But the effort is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227369" eventtype="172" id="339311019" time="48" type="116">
+<Text language="it">Occasione Romaallo stadioCarlo CastellanidiEmpoli! Il tiro di Iago Falque viene però intercettato da un difensore avversario.</Text>
+<Text language="en">AS Roma drive upfield and Iago Falque gets in a shot. The strike is blocked by a FC Empoli defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227105" eventtype="154" id="339309693" time="47" type="85">
+<Text language="it">Allo stadio Carlo Castellani, Miralem Pjanic (Roma) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226369" eventtype="23" id="339307545" time="46" type="21">
+<Text language="it">Partiti! Ha preso il via il secondo tempo a Empoli.</Text>
+<Text language="en">The second-half has just kicked-off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203221253" eventtype="35" id="339286351" time="45" type="22">
+<Text language="it">Si è conclusa la prima frazione di gioco.</Text>
+<Text language="en">The first-half is over at Carlo Castellani.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220589" eventtype="90" id="339282215" time="45" type="106">
+<Text language="it">L'arbitro ha concesso 2 minuti di recupero nel primo tempo.</Text>
+<Text language="en">Andrea Gervasoni will wait an extra 2 minutes before blowing the whistle to end the first half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220237" eventtype="168" id="339279887" time="45" type="99">
+<Text language="it">Rade Krunic è tornato ora in campo!</Text>
+<Text language="en">FC Empoli’s Rade Krunic is on his feet again at Carlo Castellani.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220155" eventtype="16" id="339279473" time="44" type="79">
+<Text language="it">La partita è ripresa allo stadio Carlo Castellani.</Text>
+<Text language="en">Play has been resumed.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203220139" eventtype="158" id="339279223" time="44" type="97">
+<Text language="it">La partita allo stadio Carlo Castellani è stata momentaneamente sospesa per l'infortunio a Rade Krunic (Empoli).</Text>
+<Text language="en">Play has been temporarily suspended for attention to Rade Krunic for FC Empoli who is writhing in pain on the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203219781" eventtype="155" id="339276657" time="43" type="89">
+<Text language="it">Empoli avanza e Rade Krunic va alla conclusione. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Rade Krunic for FC Empoli drives towards goal at Carlo Castellani. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218915" eventtype="40" id="339269215" time="41" type="45">
+<Text language="it">Allo stadio Carlo Castellani, Diego Perotti (Roma) ha ricevuto un cartellino giallo.</Text>
+<Text language="en">Diego Perotti is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203218067" eventtype="153" id="339264415" time="39" type="93">
+<Text language="it">A Empoli Lucas Digne (Roma) si è fatto sorprendere in fuorigioco.</Text>
+<Text language="en">Lucas Digne of AS Roma is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203216891" eventtype="154" id="339260441" time="37" type="85">
+<Text language="it">L'arbitro Andrea Gervasoni ha concesso un calcio d'angolo dalla sinistra allo stadio Carlo Castellani di Empoli. Leandro Paredes (Empoli) si appresta a batterlo.</Text>
+<Text language="en">FC Empoli have been awarded a corner by Andrea Gervasoni.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203216855" eventtype="16" id="339260277" time="37" type="79">
+<Text language="it">La partita è ripresa.</Text>
+<Text language="en">Play is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203216853" eventtype="60" id="339260193" time="37" type="73">
+<Text language="it">Cambio Roma! Radja Nainggolan è costretto a lasciare il terreno di gioco, al suo posto entra Iago Falque.</Text>
+<Text language="en">Luciano Spalletti (AS Roma) is making a first change, with Iago Falque replacing the possibly injured Radja Nainggolan.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203216523" eventtype="158" id="339258869" time="36" type="97">
+<Text language="it">Radja Nainggolan è a terra ed il gioco è stato momentaneamente interrotto.</Text>
+<Text language="en">Radja Nainggolan is down and play has been interrupted for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203212237" eventtype="30" id="339237495" time="27" type="36">
+<Text language="it">Gol Roma che ora comanda 2 - 1 grazie a Miralem Pjanic allo stadio Carlo Castellani.</Text>
+<Text language="en">Miralem Pjanic scores to make it 2 - 1 at Carlo Castellani.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211273" eventtype="156" id="339232127" time="25" type="128">
+<Text language="it">Occasione Antonio Rudiger (Roma) con un colpo di testa che però non trova lo specchio della porta.</Text>
+<Text language="en">AS Roma surge into the attack at Carlo Castellani but Antonio Rudiger’s header is off-target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211193" eventtype="154" id="339231707" time="25" type="85">
+<Text language="it">Allo stadio Carlo Castellani, Miralem Pjanic (Roma) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203211159" eventtype="172" id="339231459" time="25" type="116">
+<Text language="it">Radja Nainggolan (Roma) tenta la conclusione, ma il suo tiro viene però respinto da un difensore avversario.</Text>
+<Text language="en">Radja Nainggolan (AS Roma) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203210427" eventtype="30" id="339226749" time="22" type="43">
+<Text language="it">Ervin Zukanovic ha segnato un'autorete, il risultato è ora di 1 - 1.</Text>
+<Text language="en">Own goal! Ervin Zukanovic has scored at the wrong end to make it 1 - 1.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203208519" eventtype="154" id="339219475" time="18" type="85">
+<Text language="it">A Empoli Leandro Paredes (Empoli) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">FC Empoli have been awarded a corner by Andrea Gervasoni.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203208489" eventtype="40" id="339219225" time="18" type="110">
+<Text language="it">Miralem Pjanic (Roma) ha ricevuto un cartellino giallo che gli farà saltare la prossima partita.</Text>
+<Text language="en">Miralem Pjanic (AS Roma) gets a yellow card. He will be suspended from the next match!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203208283" eventtype="40" id="339219057" time="18" type="45">
+<Text language="it">Ammonito Manuel Pucciarelli (Empoli)!</Text>
+<Text language="en">Manuel Pucciarelli (FC Empoli) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203207307" eventtype="155" id="339215905" time="16" type="89">
+<Text language="it">Ci prova Massimo Maccarone (Empoli), ma la sua conclusione trova pronto il portiere avversario!</Text>
+<Text language="en">In Empoli FC Empoli drive forward through Massimo Maccarone. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203206677" eventtype="156" id="339213665" time="15" type="91">
+<Text language="it">Allo stadio Carlo Castellani di Empoli occasione Empoli! Ci prova Manuel Pucciarelli, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">Manuel Pucciarelli for FC Empoli gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203204565" eventtype="153" id="339206879" time="11" type="93">
+<Text language="it">Roma con Stephan El Shaarawy si fa trovare in fuorigioco allo stadio Carlo Castellani.</Text>
+<Text language="en">AS Roma's Stephan El Shaarawy has run offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203203333" eventtype="154" id="339203413" time="8" type="85">
+<Text language="it">Angolo Roma secondo l'arbitro Andrea Gervasoni. Miralem Pjanic lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to AS Roma.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203201017" eventtype="30" id="339198787" time="5" type="139">
+<Text language="it">L'assist del gol è di Diego Perotti.</Text>
+<Text language="en">Diego Perotti with an assist there.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203201017" eventtype="30" id="339198703" time="5" type="36">
+<Text language="it">Roma in gol con Stephan El Shaarawy! La squadra che gioca ospite conduce ora 1 - 0 allo stadio Carlo Castellani.</Text>
+<Text language="en">Goal! AS Roma have got their heads in front thanks to a Stephan El Shaarawy strike.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203198443" eventtype="172" id="339193823" time="3" type="116">
+<Text language="it">Stephan El Shaarawy (Roma) ci prova con un tiro che viene però bloccato da un difensore avversario.</Text>
+<Text language="en">AS Roma's Stephan El Shaarawy gets in a shot but it is blocked by a FC Empoli defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203196573" eventtype="10" id="339190515" time="1" type="37">
+<Text language="it">L'arbitro Andrea Gervasoni ha fischiato! Ha inizio la partita allo stadio Carlo Castellani.</Text>
+<Text language="en">The match is underway at Carlo Castellani.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203175389" eventtype="80" id="339147971" time="0" type="19">
+<Text language="it">Sono state rese note le formazioni ufficiali.</Text>
+<Text language="en">Marco Giampaolo and Luciano Spalletti have now revealed their starting line-ups.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57231319" id="339188191">
+<Text language="it">Se Manuel Pucciarelli segna contro Roma, questo sarà il 5° gol per Empoli in questa stagione.</Text>
+<Text language="en">If Manuel Pucciarelli scores against AS Roma it will be his 5th goal for FC Empoli this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="52295" name="Gervasoni, Andrea">
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="71" name="Empoli">
+<Name language="it">Empoli</Name>
+<Name language="en">Empoli</Name>
+</City>
+<Stadium id="602" name="Carlo Castellani">
+<Name language="it">Carlo Castellani</Name>
+<Name language="en">Carlo Castellani</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>49</Team1>
+<Team2>51</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>3</Team1>
+<Team2>4</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>3</Team1>
+<Team2>7</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>18</Team1>
+<Team2>13</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>4</Team1>
+<Team2>4</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>4</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>23</Team1>
+<Team2>24</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>1</Team1>
+<Team2>3</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>9</Team1>
+<Team2>9</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>12</Team1>
+<Team2>14</Team2>
+</Fouls>
+</Statistics>
+</Match>
+<Match BetradarMatchId="10265750" Id="7689178">
+<MatchDate>2016-02-27T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="9246" UniqueTeamId="2692" formation="4-4-2">
+<Color hStripes="-1" main="0" number="16777215" sleeve="13369344" split="-1" squares="-1" vStripes="13369344"/>
+<GoalkeeperColor hStripes="-1" main="6723993" number="16777215" sleeve="6723993" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Milan</Name>
+<Name language="en">AC Milan</Name>
+</Team1>
+<Team2 BetradarTeamId="32867" UniqueTeamId="2696" formation="3-5-2">
+<Color hStripes="-1" main="16777215" number="6684672" sleeve="6684672" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Torino</Name>
+<Name language="en">Turin FC</Name>
+</Team2>
+<Status Code="6">
+<Name language="it">1° tempo</Name>
+<Name language="en">1st half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T20:48:11 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Cards>
+<Card id="203272091" type="Yellow">
+<Time>43</Time>
+<Player id="45362">Glik, Kamil</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Lineups>
+<TeamPlayer id="203241841" pos="2">
+<Player id="27916">Abate, Ignazio</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241851" pos="3">
+<Player id="27780">Alex</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241843" pos="5">
+<Player id="19172">Antonelli, Luca</Player>
+<ShirtNumber>31</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241845" pos="11">
+<Player id="106572">Bacca, Carlos</Player>
+<ShirtNumber>70</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241847" pos="8">
+<Player id="47568">Bertolacci, Andrea</Player>
+<ShirtNumber>91</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241849" pos="9">
+<Player id="36784">Bonaventura, Giacomo</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241853" pos="1">
+<Player id="756514">Donnarumma, Gianluigi</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241855" pos="6">
+<Player id="24238">Honda, Keisuke</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241857" pos="7">
+<Player id="48563">Kucka, Juraj</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241859" pos="10">
+<Player id="139228">Niang, Mbaye</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241861" pos="4">
+<Player id="12673">Zapata, Cristian</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241885">
+<Player id="1750">Abbiati, Christian</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241887">
+<Player id="25530">Balotelli, Mario</Player>
+<ShirtNumber>45</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241889">
+<Player id="8713">Boateng, Kevin Prince</Player>
+<ShirtNumber>72</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241891">
+<Player id="318607">Calabria, Davide</Player>
+<ShirtNumber>96</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241893">
+<Player id="137667">De Sciglio, Mattia</Player>
+<ShirtNumber>2</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241895">
+<Player id="366594">Livieri, Alessandro</Player>
+<ShirtNumber>97</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241897">
+<Player id="363860">Locatelli, Manuel</Player>
+<ShirtNumber>73</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241899">
+<Player id="284359">Mauri, Jose</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241901">
+<Player id="3186">Menez, Jeremy</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241903">
+<Player id="29746">Poli, Andrea</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241905">
+<Player id="227864">Romagnoli, Alessio</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241907">
+<Player id="188335">Simic, Stefan</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241863" pos="6">
+<Player id="127257">Afriyie, Acquah</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241865" pos="8">
+<Player id="168647">Baselli, Daniele</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241867" pos="10">
+<Player id="220223">Belotti, Andrea</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241871" pos="3">
+<Player id="45362">Glik, Kamil</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241873" pos="11">
+<Player id="45923">Immobile, Ciro</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241875" pos="2">
+<Player id="68076">Maksimovic, Nikola</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241877" pos="4">
+<Player id="3031">Moretti, Emiliano</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241879" pos="1">
+<Player id="2899">Padelli, Daniele</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241869" pos="9">
+<Player id="243175">Peres, Bruno</Player>
+<ShirtNumber>33</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241881" pos="7">
+<Player id="41487">Vives, Giuseppe</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241883" pos="5">
+<Player id="132318">Zappacosta, Davide</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241909">
+<Player id="1886">Castellazzi, Luca</Player>
+<ShirtNumber>13</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241911">
+<Player id="3497">Farnerud, Alexander</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241913">
+<Player id="158605">Ichazo, Salvador</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241915">
+<Player id="55123">Jansson, Pontus</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241917">
+<Player id="17611">Lopez, Maxi</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241919">
+<Player id="133990">Martinez, Josef</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241921">
+<Player id="11658">Molinaro, Cristian</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241923">
+<Player id="79403">Obi, Joel</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203241925">
+<Player id="155952">Silva, Gaston</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203272389" eventtype="172" id="339564229" time="44" type="116">
+<Text language="it">Juraj Kucka (Milan) prova un tiro che viene però respinto da un difensore avversario.</Text>
+<Text language="en">Juraj Kucka (AC Milan) goes for goal but the shot is blocked by an alert defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203272361" eventtype="172" id="339564063" time="44" type="116">
+<Text language="it">Keisuke Honda (Milan) allo stadio Giuseppe Meazza prova un tiro che però viene respinto da uno dei difensori appostati nell'area di rigore.</Text>
+<Text language="en">AC Milan drive upfield and Keisuke Honda gets in a shot. The strike is blocked by a Turin FC defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203272091" eventtype="40" id="339562085" time="43" type="45">
+<Text language="it">L'arbitro Domenico Celi estrae il cartellino giallo! Ammonito Kamil Glik per la squadra che gioca ospite allo stadio Giuseppe Meazza di Milano.</Text>
+<Text language="en">Kamil Glik (Turin FC) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271763" eventtype="155" id="339558687" time="41" type="118">
+<Text language="it">Carlos Bacca (Milan) ci prova con un colpo di testa. La difesa del Torino riesce però a liberare bene.</Text>
+<Text language="en">Carlos Bacca (AC Milan) gets in a powerful header but the ball is cleared away.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203271163" eventtype="156" id="339554963" time="39" type="91">
+<Text language="it">Occasione Milan nella sfida dello stadio Giuseppe Meazza di Milano, ma Mbaye Niang non trova la porta!</Text>
+<Text language="en">AC Milan's Mbaye Niang breaks free at Giuseppe Meazza. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270389" eventtype="156" id="339549813" time="36" type="128">
+<Text language="it">A Milano, Alex (Milan) ci prova con un colpo di testa che però non centra la porta.</Text>
+<Text language="en">AC Milan attack but Alex's header doesn't find the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270357" eventtype="154" id="339549563" time="36" type="85">
+<Text language="it">Allo stadio Giuseppe Meazza, Giacomo Bonaventura (Milan) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">AC Milan have been awarded a corner by Domenico Celi.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203270269" eventtype="155" id="339548901" time="35" type="89">
+<Text language="it">Occasione Milan con Giacomo Bonaventura, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">Giacomo Bonaventura of AC Milan smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203268569" eventtype="156" id="339535893" time="29" type="91">
+<Text language="it">Allo stadio Giuseppe Meazza di Milano occasione Torino! Ci prova Ciro Immobile, ma il suo tiro non centra lo specchio della porta.</Text>
+<Text language="en">Turin FC are coming forward and Ciro Immobile gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267933" eventtype="172" id="339531005" time="27" type="116">
+<Text language="it">A Milano, Juraj Kucka (Milan) prova un tiro che viene però respinto dalla difesa avversaria.</Text>
+<Text language="en">Juraj Kucka (AC Milan) is given an opening but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203267803" eventtype="155" id="339530755" time="27" type="122">
+<Text language="it">Traversa Milan con Keisuke Honda!</Text>
+<Text language="en">Great shot from AC Milan's Keisuke Honda but he is denied by the crossbar.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203266989" eventtype="172" id="339523881" time="24" type="116">
+<Text language="it">Milan va al tiro con Acquah Afriyie, ma un difensore avversario gli toglie la gioia del gol!</Text>
+<Text language="en">Turin FC's Acquah Afriyie gets in a shot but it is blocked by a AC Milan defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265611" eventtype="154" id="339515349" time="19" type="85">
+<Text language="it">L'arbitro Domenico Celi ha concesso un calcio d'angolo dalla destra allo stadio Giuseppe Meazza di Milano. Daniele Baselli (Torino) si appresta a batterlo.</Text>
+<Text language="en">Corner awarded to Turin FC.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264039" eventtype="154" id="339504407" time="14" type="85">
+<Text language="it">Angolo Torino secondo l'arbitro Domenico Celi. Daniele Baselli lo batterà dalla bandierina destra.</Text>
+<Text language="en">Turin FC have been awarded a corner by Domenico Celi.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263861" eventtype="155" id="339503497" time="14" type="89">
+<Text language="it">Ciro Immobile (Torino) ha calciato in porta. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">Ciro Immobile gets his shot on target but fails to score for Turin FC.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263335" eventtype="155" id="339499923" time="12" type="89">
+<Text language="it">Conclusione Milan con Keisuke Honda! Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">In Milan AC Milan drive forward through Keisuke Honda. His shot is on target but it's saved.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262477" eventtype="156" id="339495207" time="8" type="128">
+<Text language="it">Occasione Alex (Milan) con un colpo di testa che però non trova lo specchio della porta.</Text>
+<Text language="en">In Milan, Alex (AC Milan) misses the target with a header.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262445" eventtype="154" id="339494875" time="8" type="85">
+<Text language="it">A Milano Giacomo Bonaventura (Milan) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to AC Milan.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261033" eventtype="172" id="339488511" time="2" type="116">
+<Text language="it">Occasione Torinoallo stadioGiuseppe MeazzadiMilano! Il tiro di Andrea Belotti viene però intercettato da un difensore avversario.</Text>
+<Text language="en">In Milan, Andrea Belotti of Turin FC is presented with a shooting opportunity. But the strike is blocked by the covering defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260577" eventtype="10" id="339486193" time="1" type="37">
+<Text language="it">L'arbitro Domenico Celi ha fischiato! Ha inizio la partita allo stadio Giuseppe Meazza.</Text>
+<Text language="en">The match has started at Giuseppe Meazza.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241841" eventtype="80" id="339414505" time="0" type="19">
+<Text language="it">Sono disponibili le formazioni ufficiali del match.</Text>
+<Text language="en">The official team line-ups are now available.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57269025" id="339479299">
+<Text language="it">Se Davide Zappacosta riceverà un cartellino giallo nella partita di oggi, verrà squalificato visto che ha collezionato 4 cartellini gialli nel corso della stagione.</Text>
+<Text language="en">If Davide Zappacosta receives a yellow card in today's match, he will be suspended after collecting 4 yellow cards so far this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="52288" name="Celi, Domenico">
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="279" name="Milan">
+<Name language="it">Milano</Name>
+<Name language="en">Milan</Name>
+</City>
+<Stadium id="647" name="Giuseppe Meazza">
+<Name language="it">Giuseppe Meazza</Name>
+<Name language="en">Giuseppe Meazza</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>53</Team1>
+<Team2>47</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>4</Team1>
+<Team2>1</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>3</Team1>
+<Team2>1</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>6</Team1>
+<Team2>4</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>3</Team1>
+<Team2>2</Team2>
+</CornerKicks>
+<ThrowIns>
+<Team1>16</Team1>
+<Team2>9</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>1</Team1>
+<Team2>3</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>2</Team1>
+<Team2>9</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>4</Team1>
+<Team2>6</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

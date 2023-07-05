@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="996730" generatedAt="2016-02-27T21:06:44 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="35">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+<Tournament BetradarTournamentId="39" UniqueTournamentId="37">
+<Name language="it">Eredivisie</Name>
+<Name language="en">Eredivisie</Name>
+<Match BetradarMatchId="10265605" Id="7475384">
+<MatchDate>2016-02-27T19:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="104216" UniqueTeamId="2970" formation="4-3-3">
+<Color hStripes="-1" main="16776960" number="0" sleeve="39423" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Cambuur Leeuwarden</Name>
+<Name language="en">Cambuur Leeuwarden</Name>
+</Team1>
+<Team2 BetradarTeamId="121817" UniqueTeamId="2971" formation="4-2-3-1">
+<Color hStripes="16777215" main="26112" number="16777215" sleeve="26112" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="39168" number="16777215" sleeve="39168" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zwolle</Name>
+<Name language="en">PEC Zwolle</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T20:49:45 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Cards>
+<Card id="203264915" type="YellowRed">
+<Time>61</Time>
+<Player id="111721">Bouy, Ouasim</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203248699" type="Yellow">
+<Time>28</Time>
+<Player id="111721">Bouy, Ouasim</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+</Cards>
+<Lineups>
+<TeamPlayer id="203227779" pos="5">
+<Player id="67896">Andriuskevicius, Vytautas</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227781" pos="6">
+<Player id="32451">Bakker, Erik</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227783" pos="11">
+<Player id="13975">Barto, Martijn</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227785" pos="10">
+<Player id="279451">Byrne, Jack</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227787" pos="3">
+<Player id="43462">Lachman, Darryl</Player>
+<ShirtNumber>29</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227789" pos="9">
+<Player id="40931">Narsingh, Furdjel</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227791" pos="1">
+<Player id="101835">Nienhuis, Leonard</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227793" pos="7">
+<Player id="27736">Overgoor, Sjoerd</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227795" pos="2">
+<Player id="76160">Peersman, Marvin</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227799" pos="4">
+<Player id="19158">Van der Laan, Martijn</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227797" pos="8">
+<Player id="220155">van de Streek, Sander</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227823">
+<Player id="18114">Hiariej, Tom</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227825">
+<Player id="19325">Hoefdraad, Jerge</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227827">
+<Player id="51595">Houtkoop, Xander</Player>
+<ShirtNumber>12</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227829">
+<Player id="73801">Mac-Intosh, Calvin</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227831">
+<Player id="73558">Rosheuvel, Mikhail</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227833">
+<Player id="125432">Van Veen, Kevin</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227835">
+<Player id="44867">Zeinstra, Harm</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227801" pos="4">
+<Player id="111721">Bouy, Ouasim</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227803" pos="7">
+<Player id="363790">Dekker, Rick</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227805" pos="8">
+<Player id="609206">Ehizibue, Kingsley</Player>
+<ShirtNumber>20</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227807" pos="3">
+<Player id="110934">Lam, Thomas</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227809" pos="2">
+<Player id="20777">Marcellis, Dirk</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227811" pos="6">
+<Player id="190891">Marinus, Wouter</Player>
+<ShirtNumber>18</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227813" pos="10">
+<Player id="232318">Menig, Queensy</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227815" pos="9">
+<Player id="27676">Nijland, Stefan</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227817" pos="5">
+<Player id="99150">Schenkeveld, Bart</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227821" pos="11">
+<Player id="146119">Veldwijk, Lars</Player>
+<ShirtNumber>9</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227819" pos="1">
+<Player id="242313">van der Hart, Mickey</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203231705">
+<Player id="295459">Browne, David</Player>
+<ShirtNumber>37</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227837">
+<Player id="923834">Bruintjes, Mark</Player>
+<ShirtNumber>45</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227839">
+<Player id="138822">De Jong, Boy</Player>
+<ShirtNumber>25</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227841">
+<Player id="936968">Evre, Tarik</Player>
+<ShirtNumber>48</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227843">
+<Player id="365912">Rasevic, Boris</Player>
+<ShirtNumber>26</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227845">
+<Player id="190887">Tanda, Dario</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203227847">
+<Player id="939440">Thomas, Sander</Player>
+<ShirtNumber>42</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203265213" eventtype="172" id="339512783" time="62" type="116">
+<Text language="it">Sjoerd Overgoor va alla conclusione allo stadio Cambuur StadiondiLeeuwarden, ma il suo tiro viene bloccato da un difensore avversario!</Text>
+<Text language="en">Important block from the PEC Zwolle defence as Sjoerd Overgoor fires in a strike for Cambuur Leeuwarden.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264915" eventtype="45" id="339510541" time="61" type="46">
+<Text language="it">Ouasim Bouy(Zwolle) è costretto ad abbandonare il terreno di gioco! L'arbitro Siemen Mulder gli ha infatti mostrato il secondo cartellino giallo nel match di Leeuwarden.</Text>
+<Text language="en">PEC Zwolle's Ouasim Bouy has been shown a second yellow card and sent off.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264549" eventtype="168" id="339508383" time="60" type="99">
+<Text language="it">Kingsley Ehizibue (Zwolle ) è ritornato in campo allo stadio Cambuur Stadion di Leeuwarden.</Text>
+<Text language="en">PEC Zwolle’s Kingsley Ehizibue is on his feet again at Cambuur Stadion.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264487" eventtype="16" id="339507889" time="60" type="79">
+<Text language="it">L'arbitro Siemen Mulder ha fatto riprendere il gioco, dopo l'interruzione, allo stadio Cambuur Stadion di Leeuwarden.</Text>
+<Text language="en">Play has been resumed at Cambuur Stadion.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203264185" eventtype="158" id="339505487" time="58" type="97">
+<Text language="it">Siemen Mulder aspetta a far riprendere il gioco in quanto Kingsley Ehizibue (Zwolle) è ancora a terra.</Text>
+<Text language="en">Kingsley Ehizibue is down and play has been interrupted for a few moments.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263531" eventtype="156" id="339500841" time="56" type="91">
+<Text language="it">Ci prova Dirk Marcellis (Zwolle), ma la sua conclusione non centra lo specchio della porta.</Text>
+<Text language="en">Dirk Marcellis of PEC Zwolle gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261787" eventtype="156" id="339492229" time="49" type="91">
+<Text language="it">Cambuur Leeuwarden si spinge in avanti e con Erik Bakker cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Cambuur Leeuwarden's Erik Bakker breaks free at Cambuur Stadion. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260939" eventtype="23" id="339487933" time="46" type="21">
+<Text language="it">Partiti! Ha preso il via il secondo tempo a Leeuwarden.</Text>
+<Text language="en">The second-half is underway at Cambuur Stadion.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256289" eventtype="35" id="339465705" time="45" type="22">
+<Text language="it">Si è concluso il primo tempo a Leeuwarden.</Text>
+<Text language="en">The first-half is over.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203254687" eventtype="90" id="339459067" time="45" type="106">
+<Text language="it">Ci saranno 4 minuti di recupero nel primo tempoallo stadioCambuur Stadion.</Text>
+<Text language="en">The fourth official's board shows 4 minutes, which will be added to the first half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203253155" eventtype="172" id="339453363" time="41" type="116">
+<Text language="it">Occasione Zwolleallo stadioCambuur StadiondiLeeuwarden! Il tiro di Ouasim Bouy viene però intercettato da un difensore avversario.</Text>
+<Text language="en">Ouasim Bouy (PEC Zwolle) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203253119" eventtype="154" id="339453195" time="40" type="85">
+<Text language="it">Allo stadio Cambuur Stadion, Stefan Nijland (Zwolle) si è guadagnato un calcio d'angolo che batterà dalla bandierina destra.</Text>
+<Text language="en">Corner awarded to PEC Zwolle.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203252195" eventtype="154" id="339449727" time="37" type="85">
+<Text language="en">Cambuur Leeuwarden have been awarded a corner by Siemen Mulder.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250355" eventtype="154" id="339441113" time="32" type="85">
+<Text language="it">A Leeuwarden Stefan Nijland (Zwolle) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to PEC Zwolle.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248699" eventtype="40" id="339433317" time="28" type="45">
+<Text language="it">Allo stadio Cambuur Stadion, Ouasim Bouy (Zwolle) ha ricevuto un cartellino giallo.</Text>
+<Text language="en">Ouasim Bouy (PEC Zwolle) has received a yellow card from Siemen Mulder.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203246123" eventtype="156" id="339419481" time="21" type="91">
+<Text language="it">Cambuur Leeuwarden si spinge in avanti ma Marvin Peersman con il suo tiro non indovina la porta.</Text>
+<Text language="en">Cambuur Leeuwarden's Marvin Peersman misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203245651" eventtype="156" id="339417081" time="20" type="91">
+<Text language="it">Erik Bakker (Cambuur Leeuwarden) cerca la rete con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Cambuur Leeuwarden's Erik Bakker gets his shot away but it misses the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244625" eventtype="156" id="339411859" time="17" type="91">
+<Text language="it">Occasione Cambuur Leeuwarden con Sjoerd Overgoor! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">In Leeuwarden Cambuur Leeuwarden attack through Sjoerd Overgoor. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244365" eventtype="154" id="339409625" time="16" type="85">
+<Text language="it">L'arbitro Siemen Mulder ha concesso un calcio d'angolo dalla destra allo stadio Cambuur Stadion di Leeuwarden. Stefan Nijland (Zwolle) si appresta a batterlo.</Text>
+<Text language="en">PEC Zwolle have been awarded a corner by Siemen Mulder.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243335" eventtype="156" id="339402341" time="13" type="91">
+<Text language="it">Allo stadio Cambuur Stadion, Cambuur Leeuwarden attacca con Martijn Barto. La conclusione, però, non inquadra lo specchio della porta.</Text>
+<Text language="en">Martijn Barto for Cambuur Leeuwarden gets in a strike but fails to hit the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242363" eventtype="153" id="339398031" time="9" type="93">
+<Text language="it">Fuorigioco Cambuur Leeuwarden con Martijn Barto!</Text>
+<Text language="en">Cambuur Leeuwarden drive forward but Martijn Barto is judged offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240425" eventtype="156" id="339383277" time="2" type="91">
+<Text language="it">Sander van de Streek (Cambuur Leeuwarden) prova il tiro allo stadio Cambuur Stadion. La sua conclusione però termina fuori.</Text>
+<Text language="en">Cambuur Leeuwarden are coming forward and Sander van de Streek gets in a strike, it misses the target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240047" eventtype="10" id="339379787" time="1" type="37">
+<Text language="it">L'arbitro fischia l'inizio dell'incontro.</Text>
+<Text language="en">The whistle has gone to start the match.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203227779" eventtype="80" id="339338383" time="0" type="19">
+<Text language="it">Sono disponibili le formazioni ufficiali del match.</Text>
+<Text language="en">The official line-ups for today's match are out.</Text>
+</Phrase>
+</Phrases>
+<Funfacts>
+<Funfact disabled="0" funfactid="57263617" id="339375157">
+<Text language="it">Se Sander van de Streek segna contro Zwolle, questo sarà il 5° gol per Cambuur Leeuwarden in questa stagione.</Text>
+<Text language="en">If Sander van de Streek scores against PEC Zwolle it will be his 5th goal for Cambuur Leeuwarden this season.</Text>
+</Funfact>
+</Funfacts>
+<Referee id="300164" name="Mulder, Siemen">
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="150" name="Netherlands">
+<Name language="it">Olanda</Name>
+<Name language="en">Netherlands</Name>
+</Country>
+<City id="1277" name="Leeuwarden">
+<Name language="it">Leeuwarden</Name>
+<Name language="en">Leeuwarden</Name>
+</City>
+<Stadium id="2340" name="Cambuur Stadion">
+<Name language="it">Cambuur Stadion</Name>
+<Name language="en">Cambuur Stadion</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>60</Team1>
+<Team2>40</Team2>
+</BallPossession>
+<ShotsOffGoal>
+<Team1>7</Team1>
+<Team2>1</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>13</Team1>
+<Team2>8</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>1</Team1>
+<Team2>3</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>1</Team1>
+<Team2>0</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>17</Team1>
+<Team2>13</Team2>
+</ThrowIns>
+<GoalKicks>
+<Team1>2</Team1>
+<Team2>10</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>7</Team1>
+<Team2>13</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="44">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+<Tournament BetradarTournamentId="52" UniqueTournamentId="238">
+<Name language="it">Primeira Liga</Name>
+<Name language="en">Primeira Liga</Name>
+<Match BetradarMatchId="10267930" Id="7558406">
+<MatchDate>2016-02-27T19:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="6680468" UniqueTeamId="25777" formation="4-2-3-1">
+<Color hStripes="-1" main="16776960" number="16777215" sleeve="39423" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16724991" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Arouca</Name>
+<Name language="en">FC Arouca</Name>
+</Team1>
+<Team2 BetradarTeamId="5634" UniqueTeamId="2999" formation="4-4-2">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="10066329" number="16777215" sleeve="26112" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Sporting Braga</Name>
+<Name language="en">Sporting Braga</Name>
+</Team2>
+<Status Code="7">
+<Name language="it">2° tempo</Name>
+<Name language="en">2nd half</Name>
+</Status>
+<Winner>0</Winner>
+<CurrentPeriodStart>2016-02-27T20:35:41 CET</CurrentPeriodStart>
+<Scores>
+<Score type="Current">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+<Score type="Period1">
+<Team1>0</Team1>
+<Team2>0</Team2>
+</Score>
+</Scores>
+<Cards>
+<Card id="203260387" type="Red">
+<Time>57</Time>
+<Player id="44235">Fonte, Rui</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203262131" type="Red">
+<Time>64</Time>
+<Player id="343585">Djavan</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203248079" type="Yellow">
+<Time>40</Time>
+<Player id="254561">Augusto, Filipe</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203259351" type="Yellow">
+<Time>55</Time>
+<Player id="873014">Adilson</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+<Card id="203260159" type="Yellow">
+<Time>56</Time>
+<Player id="128353">Santos, Pedro</Player>
+<PlayerTeam>2</PlayerTeam>
+</Card>
+<Card id="203260219" type="Yellow">
+<Time>57</Time>
+<Player id="138986">Gege</Player>
+<PlayerTeam>1</PlayerTeam>
+</Card>
+</Cards>
+<Substitutions>
+<Substitution id="203256433">
+<Time>46</Time>
+<PlayerOut id="254561">Augusto, Filipe</PlayerOut>
+<PlayerIn id="94203">Luiz Carlos</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203261609">
+<Time>62</Time>
+<PlayerOut id="59843">Zequinha</PlayerOut>
+<PlayerIn id="47614">Valente, Nuno</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+<Substitution id="203261657">
+<Time>62</Time>
+<PlayerOut id="105404">Eduardo, Wilson</PlayerOut>
+<PlayerIn id="92198">Stoiljkovic, Nikola</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203263949">
+<Time>71</Time>
+<PlayerOut id="6642">Alan</PlayerOut>
+<PlayerIn id="270291">Marcelo Goiano</PlayerIn>
+<PlayerTeam>2</PlayerTeam>
+</Substitution>
+<Substitution id="203265359">
+<Time>76</Time>
+<PlayerOut id="52813">Velazquez, Jose</PlayerOut>
+<PlayerIn id="243693">Maurides</PlayerIn>
+<PlayerTeam>1</PlayerTeam>
+</Substitution>
+</Substitutions>
+<Lineups>
+<TeamPlayer id="203226205" pos="7">
+<Player id="873014">Adilson</Player>
+<ShirtNumber>22</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226201" pos="4">
+<Player id="344185">Basto, Hugo</Player>
+<ShirtNumber>3</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226191" pos="1">
+<Player id="44676">Bracalli, Rafael</Player>
+<ShirtNumber>1</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226203" pos="6">
+<Player id="41649">Coelho, Nuno</Player>
+<ShirtNumber>66</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226193" pos="2">
+<Player id="138986">Gege</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226199" pos="11">
+<Player id="795872">Gonzalez, Walter</Player>
+<ShirtNumber>95</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226187" pos="5">
+<Player id="248529">Lima, Lucas</Player>
+<ShirtNumber>6</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226189" pos="9">
+<Player id="59800">Moreira, Artur</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226197" pos="10">
+<Player id="190171">Rodrigues, Ivo</Player>
+<ShirtNumber>11</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226207" pos="3">
+<Player id="52813">Velazquez, Jose</Player>
+<ShirtNumber>4</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226195" pos="8">
+<Player id="59843">Zequinha</Player>
+<ShirtNumber>87</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226239">
+<Player id="243693">Maurides</Player>
+<ShirtNumber>99</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226231">
+<Player id="251779">Nelsinho</Player>
+<ShirtNumber>55</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226233">
+<Player id="13341">Pintassilgo</Player>
+<ShirtNumber>10</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226241">
+<Player id="169725">Roberto</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226237">
+<Player id="59787">Sacramento, Rui</Player>
+<ShirtNumber>85</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226235">
+<Player id="47614">Valente, Nuno</Player>
+<ShirtNumber>50</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226243">
+<Player id="48111">Wallace, Rodney</Player>
+<ShirtNumber>88</ShirtNumber>
+<PlayerTeam>1</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226217" pos="6">
+<Player id="6642">Alan</Player>
+<ShirtNumber>30</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226225" pos="3">
+<Player id="156231">Arghus</Player>
+<ShirtNumber>32</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226209" pos="8">
+<Player id="254561">Augusto, Filipe</Player>
+<ShirtNumber>21</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226227" pos="2">
+<Player id="44637">Baiano</Player>
+<ShirtNumber>15</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226211" pos="4">
+<Player id="139310">Boly, Willy</Player>
+<ShirtNumber>5</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226221" pos="5">
+<Player id="343585">Djavan</Player>
+<ShirtNumber>16</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226215" pos="10">
+<Player id="105404">Eduardo, Wilson</Player>
+<ShirtNumber>7</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226219" pos="11">
+<Player id="44235">Fonte, Rui</Player>
+<ShirtNumber>17</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226213" pos="1">
+<Player id="59715">Marafona</Player>
+<ShirtNumber>28</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226223" pos="9">
+<Player id="128353">Santos, Pedro</Player>
+<ShirtNumber>23</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226229" pos="7">
+<Player id="67739">Vukcevic, Nikola</Player>
+<ShirtNumber>35</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>0</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226245">
+<Player id="137973">Ferreira, Ricardo</Player>
+<ShirtNumber>24</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226255">
+<Player id="77726">Josue</Player>
+<ShirtNumber>27</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226251">
+<Player id="94203">Luiz Carlos</Player>
+<ShirtNumber>8</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226247">
+<Player id="270291">Marcelo Goiano</Player>
+<ShirtNumber>87</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226249">
+<Player id="603946">Matheus</Player>
+<ShirtNumber>92</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226253">
+<Player id="19025">Niguez, Aaron</Player>
+<ShirtNumber>14</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+<TeamPlayer id="203226257">
+<Player id="92198">Stoiljkovic, Nikola</Player>
+<ShirtNumber>19</ShirtNumber>
+<PlayerTeam>2</PlayerTeam>
+<Substitute>1</Substitute>
+</TeamPlayer>
+</Lineups>
+<Phrases>
+<Phrase disabled="0" eventid="203265359" eventtype="60" id="339514271" time="76" type="44">
+<Text language="it">Cambio FC Arouca: Maurides prende il posto di Jose Velazquez.</Text>
+<Text language="en">Maurides is replacing Jose Velazquez for FC Arouca at Estadio Municipal de Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203265285" eventtype="156" id="339513775" time="76" type="91">
+<Text language="it">FC Arouca si spinge in avanti ma Ivo Rodrigues con il suo tiro non indovina la porta.</Text>
+<Text language="en">FC Arouca are pushing forward but Ivo Rodrigues's finish is wide of the goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263949" eventtype="60" id="339504075" time="71" type="44">
+<Text language="it">Sostituzione allo stadio Estadio Municipal de Arouca! Terzo cambio per Paulo Fonseca (Sporting Braga) che fa entrare sul terreno di gioco Marcelo Goiano al posto di Alan.</Text>
+<Text language="en">Paulo Fonseca is making the team's third substitution at Estadio Municipal de Arouca with Marcelo Goiano replacing Alan.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263801" eventtype="156" id="339503001" time="71" type="91">
+<Text language="it">Pedro Santos (Sporting Braga) cerca la rete a Arouca con un tiro che, però, non trova lo specchio della porta.</Text>
+<Text language="en">Sporting Braga's Pedro Santos misses with an attempt on goal.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203263691" eventtype="154" id="339502001" time="70" type="85">
+<Text language="it">L'arbitro Joao Pedro Silva Pinheiro ha concesso un calcio d'angolo dalla destra allo stadio Estadio Municipal de Arouca di Arouca. Artur Moreira (FC Arouca) si appresta a batterlo.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262919" eventtype="172" id="339497777" time="68" type="116">
+<Text language="it">FC Arouca all'attacco con Jose Velazquez che prova un tiro. La conclusione viene però bloccata da un difensore avversario.</Text>
+<Text language="en">Jose Velazquez (FC Arouca) gets in a strike but the shot is blocked by a defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262849" eventtype="154" id="339497113" time="67" type="85">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Artur Moreira (FC Arouca) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to FC Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262615" eventtype="155" id="339495785" time="66" type="89">
+<Text language="it">FC Arouca con Lucas Lima cerca il gol, senza fortuna, allo stadio Estadio Municipal de Arouca.</Text>
+<Text language="en">Lucas Lima for FC Arouca drives towards goal at Estadio Municipal de Arouca. But the finish is unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262567" eventtype="168" id="339495619" time="66" type="99">
+<Text language="it">Allo stadio Estadio Municipal de Arouca di Arouca ha fatto il suo rientro in campo dopo l'infortunio Gege (FC Arouca).</Text>
+<Text language="en">Gege has recovered and rejoins the match in Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262529" eventtype="16" id="339495455" time="66" type="79">
+<Text language="it">Il match è ripreso!</Text>
+<Text language="en">Play has been resumed at Estadio Municipal de Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262261" eventtype="158" id="339494625" time="65" type="97">
+<Text language="it">Gara temporaneamente sospesa per l'infortunio a Gege (FC Arouca)!</Text>
+<Text language="en">Play has been temporarily suspended for attention to Gege for FC Arouca who is writhing in pain on the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203262131" eventtype="50" id="339494373" time="64" type="47">
+<Text language="it">Djavan (Sporting Braga) è stato espulso.</Text>
+<Text language="en">Djavan (Sporting Braga) has been sent off!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261657" eventtype="60" id="339491321" time="62" type="44">
+<Text language="it">La squadra che gioca ospite fa il suo secondo cambio con Nikola Stoiljkovic che rimpiazza Wilson Eduardo.</Text>
+<Text language="en">The away team have replaced Wilson Eduardo with Nikola Stoiljkovic. This is the second substitution made today by Paulo Fonseca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261609" eventtype="60" id="339490907" time="62" type="44">
+<Text language="it">Nuno Valente rimpiazza Zequinha per la squadra di casa allo stadio Estadio Municipal de Arouca.</Text>
+<Text language="en">The home team replace Zequinha with Nuno Valente.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261285" eventtype="156" id="339489009" time="60" type="91">
+<Text language="it">Occasione Sporting Braga con Alan! La sua conclusione, però, non trova lo specchio della porta.</Text>
+<Text language="en">In Arouca Sporting Braga attack through Alan. The finish is off target, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203261081" eventtype="154" id="339488759" time="60" type="85">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Pedro Santos (Sporting Braga) batterà un calcio d'angolo da destra.</Text>
+<Text language="en">Corner awarded to Sporting Braga.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260965" eventtype="154" id="339488099" time="59" type="85">
+<Text language="it">L'arbitro Joao Pedro Silva Pinheiro ha concesso un calcio d'angolo dalla destra allo stadio Estadio Municipal de Arouca di Arouca. Wilson Eduardo (Sporting Braga) si appresta a batterlo.</Text>
+<Text language="en">Sporting Braga have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260901" eventtype="155" id="339487603" time="59" type="89">
+<Text language="it">Occasione Sporting Braga con Alan, ma il suo tiro non sorprende il portiere avversario!</Text>
+<Text language="en">Sporting Braga's Alan is on target but unsuccessful.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260867" eventtype="666" id="339487273" time="59" type="75">
+<Text language="it">Alan (Sporting Braga) non ha realizzato il rigore concesso alla sua squadra!</Text>
+<Text language="en">Alan (Sporting Braga) places the ball on the penalty spot ... and fails to net!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260387" eventtype="50" id="339485433" time="57" type="47">
+<Text language="it">Cartellino rosso! Rui Fonte (Sporting Braga) è stato espulso dall'arbitro!</Text>
+<Text language="en">Rui Fonte (Sporting Braga) has been shown a straight red card by referee Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260219" eventtype="40" id="339484683" time="57" type="45">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Gege (FC Arouca) ha ricevuto un cartellino giallo.</Text>
+<Text language="en">Gege (FC Arouca) gets a yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203260159" eventtype="40" id="339484433" time="56" type="45">
+<Text language="it">Pedro Santos (Sporting Braga) riceve un'ammonizione.</Text>
+<Text language="en">Pedro Santos is booked for the away team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259351" eventtype="40" id="339481525" time="55" type="45">
+<Text language="it">Ammonito Adilson (FC Arouca)!</Text>
+<Text language="en">At Estadio Municipal de Arouca, Adilson has been yellow-carded for the home team.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203259213" eventtype="161" id="339480369" time="54" type="95">
+<Text language="it">Sporting Braga ha guadagnato un calcio di rigore!</Text>
+<Text language="en">An attacking Sporting Braga player has been brought down in the area - penalty!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203257111" eventtype="154" id="339469943" time="47" type="85">
+<Text language="it">A Arouca Wilson Eduardo (Sporting Braga) si è guadagnato un calcio d'angolo che batterà da sinistra.</Text>
+<Text language="en">Corner awarded to Sporting Braga.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203257003" eventtype="172" id="339469609" time="47" type="116">
+<Text language="it">Occasione FC Arouca con Pedro Santos, ma la sua conclusione viene intercettata da un difensore avversario.</Text>
+<Text language="en">Sporting Braga drive upfield and Pedro Santos gets in a shot. The strike is blocked by a FC Arouca defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256487" eventtype="23" id="339466623" time="46" type="21">
+<Text language="it">Joao Pedro Silva Pinheiro ha fischiato! E' iniziato il secondo tempo.</Text>
+<Text language="en">The second-half is underway at Estadio Municipal de Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203256433" eventtype="60" id="339466373" time="46" type="44">
+<Text language="it">Primo cambio per la squadra che gioca in ospite. Luiz Carlos prende il posto di Filipe Augusto.</Text>
+<Text language="en">Paulo Fonseca (Sporting Braga) is making a first substitution, with Luiz Carlos replacing Filipe Augusto.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250793" eventtype="35" id="339443597" time="45" type="22">
+<Text language="it">Il duplice fischio del direttore di gara ha messo fine al primo tempo.</Text>
+<Text language="en">The first-half is over at Estadio Municipal de Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250719" eventtype="155" id="339443183" time="45" type="89">
+<Text language="it">FC Arouca avanza e calcia in porta con Lucas Lima. Il tiro però non coglie impreparato il portiere.</Text>
+<Text language="en">Lucas Lima gets his shot on target but fails to score for FC Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203250447" eventtype="90" id="339441611" time="45" type="106">
+<Text language="it">Il quarto uomo ha appena indicato che saranno 1 i minuti di recupero per il primo tempo.</Text>
+<Text language="en">Joao Pedro Silva Pinheiro will wait an extra 1 minutes before blowing the whistle to end the first half.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203249081" eventtype="154" id="339435723" time="42" type="85">
+<Text language="it">Corner FC Arouca allo stadio Estadio Municipal de Arouca di Arouca. Artur Moreira batterà dalla bandierina destra.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203248079" eventtype="40" id="339430167" time="40" type="45">
+<Text language="it">Filipe Augusto (Sporting Braga) è stato ammonito e dovrà fare attenzione a non prendere il secondo giallo.</Text>
+<Text language="en">Filipe Augusto (Sporting Braga) has been booked and must now be careful not to get a second yellow card.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247783" eventtype="172" id="339428929" time="39" type="116">
+<Text language="it">Rui Fonte (Sporting Braga) tenta la conclusione, ma il suo tiro viene però respinto da un difensore avversario.</Text>
+<Text language="en">Sporting Braga's Rui Fonte gets in a shot but it is blocked by a FC Arouca defender.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247573" eventtype="168" id="339427605" time="38" type="99">
+<Text language="it">Allo stadio Estadio Municipal de Arouca Pedro Santos, dopo aver ricevuto delle cure, ha fatto ritorno in campo.</Text>
+<Text language="en">Sporting Braga's Pedro Santos looks ok and returns to the pitch.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247355" eventtype="16" id="339426275" time="37" type="79">
+<Text language="it">La partita di Arouca è di nuovo in corso.</Text>
+<Text language="en">The match in Arouca is underway once more.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203247153" eventtype="158" id="339424537" time="37" type="97">
+<Text language="it">Pedro Santos è a terra ed il gioco è stato momentaneamente interrotto.</Text>
+<Text language="en">Attention is being given to Sporting Braga’s Pedro Santos and play has been suspended briefly.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244479" eventtype="156" id="339410289" time="30" type="128">
+<Text language="it">Sporting Braga all'attacco allo stadio Estadio Municipal de Arouca, e con Pedro Santos va alla conclusione di testa senza però centrare la porta.</Text>
+<Text language="en">Sporting Braga attack but Pedro Santos's header doesn't find the target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203244227" eventtype="154" id="339408627" time="29" type="85">
+<Text language="it">Angolo Sporting Braga secondo l'arbitro Joao Pedro Silva Pinheiro. Wilson Eduardo lo batterà dalla bandierina sinistra.</Text>
+<Text language="en">Corner awarded to Sporting Braga.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243893" eventtype="154" id="339406223" time="28" type="85">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Alan (Sporting Braga) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">Sporting Braga have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203243165" eventtype="154" id="339401679" time="25" type="85">
+<Text language="it">A Arouca Artur Moreira (FC Arouca) si è guadagnato un calcio d'angolo che batterà da destra.</Text>
+<Text language="en">Corner awarded to FC Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203242341" eventtype="153" id="339397865" time="23" type="93">
+<Text language="it">L'arbitro Joao Pedro Silva Pinheiro fischia un fuorigioco a Walter Gonzalez per la squadra che gioca di casa nella sfida dello stadio Estadio Municipal de Arouca di Arouca.</Text>
+<Text language="en">Walter Gonzalez of FC Arouca is pulled up for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241771" eventtype="156" id="339394381" time="21" type="91">
+<Text language="it">Sporting Braga con Alan cerca la rete allo stadio Estadio Municipal de Arouca con un tiro che però non trova lo specchio della porta.</Text>
+<Text language="en">Sporting Braga's Alan breaks free at Estadio Municipal de Arouca. But the strike goes wide of the post.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203241617" eventtype="156" id="339392801" time="20" type="91">
+<Text language="it">Baiano (Sporting Braga) prova il tiro allo stadio Estadio Municipal de Arouca. La sua conclusione però termina fuori.</Text>
+<Text language="en">Baiano of Sporting Braga gets in a strike, but is off target.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240683" eventtype="153" id="339385347" time="16" type="112">
+<Text language="it">La formazione di casa è stata fermata per un fuorigioco.</Text>
+<Text language="en">FC Arouca advance rapidly upfield but Joao Pedro Silva Pinheiro blows for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240535" eventtype="154" id="339384271" time="15" type="85">
+<Text language="it">Allo stadio Estadio Municipal de Arouca, Artur Moreira (FC Arouca) si è guadagnato un calcio d'angolo che batterà dalla bandierina sinistra.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240359" eventtype="154" id="339382281" time="15" type="85">
+<Text language="en">Corner awarded to FC Arouca.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240241" eventtype="154" id="339381369" time="14" type="85">
+<Text language="it">L'arbitro Joao Pedro Silva Pinheiro ha concesso un calcio d'angolo dalla sinistra allo stadio Estadio Municipal de Arouca di Arouca. Artur Moreira (FC Arouca) si appresta a batterlo.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203240099" eventtype="155" id="339380449" time="14" type="120">
+<Text language="it">Palo FC Arouca con Zequinha allo stadio Estadio Municipal de Arouca di Arouca!</Text>
+<Text language="en">Zequinha (FC Arouca) gets in a great strike – straight into the post! Ohhhh so close!</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238647" eventtype="155" id="339370927" time="10" type="118">
+<Text language="it">FC Arouca in attacco allo stadio Estadio Municipal de Arouca con Adilson. La sua conclusione di testa viene però respinta dalla difesa.</Text>
+<Text language="en">FC Arouca push forward at Estadio Municipal de Arouca and Adilson gets in a great header. The attempt is cleared by the Sporting Braga defence.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238301" eventtype="154" id="339368439" time="8" type="85">
+<Text language="en">Corner awarded to Sporting Braga.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203238191" eventtype="155" id="339367527" time="8" type="89">
+<Text language="it">Sporting Braga ci prova con un tiro in porta di Wilson Eduardoallo stadioEstadio Municipal de Arouca. Conclusione che però non va a buon fine.</Text>
+<Text language="en">Wilson Eduardo of Sporting Braga smashes in a shot on target. The keeper saves, though.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237631" eventtype="153" id="339364129" time="7" type="93">
+<Text language="it">Offside di Wilson Eduardo (Sporting Braga)!</Text>
+<Text language="en">Joao Pedro Silva Pinheiro blows against Sporting Braga's Wilson Eduardo for offside.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203237507" eventtype="154" id="339363133" time="6" type="85">
+<Text language="it">Corner FC Arouca allo stadio Estadio Municipal de Arouca di Arouca. Artur Moreira batterà dalla bandierina destra.</Text>
+<Text language="en">FC Arouca have been awarded a corner by Joao Pedro Silva Pinheiro.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203236441" eventtype="155" id="339355775" time="3" type="89">
+<Text language="it">FC Arouca avanza e Artur Moreira va alla conclusione. Il portiere non si è però fatto sorprendere.</Text>
+<Text language="en">FC Arouca drive forward and Artur Moreira gets in a shot. Without netting, however.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203235461" eventtype="10" id="339350723" time="1" type="37">
+<Text language="it">Partiti! Il direttore di gara ha fischiato l'inizio del primo tempo!</Text>
+<Text language="en">The first-half is now underway.</Text>
+</Phrase>
+<Phrase disabled="0" eventid="203226187" eventtype="80" id="339345001" time="0" type="19">
+<Text language="it">Sono state inserite le le formazioni ufficiali.</Text>
+<Text language="en">The team line-ups for today's match are now available.</Text>
+</Phrase>
+</Phrases>
+<Referee id="222742" name="Silva Pinheiro, Joao Pedro">
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+<City id="5137" name="Arouca">
+<Name language="it">Arouca</Name>
+<Name language="en">Arouca</Name>
+</City>
+<Stadium id="8289" name="Estadio Municipal de Arouca">
+<Name language="it">Estadio Municipal de Arouca</Name>
+<Name language="en">Estadio Municipal de Arouca</Name>
+</Stadium>
+</Venue>
+<Statistics>
+<BallPossession>
+<Team1>51</Team1>
+<Team2>49</Team2>
+</BallPossession>
+<ShotsOnGoal>
+<Team1>6</Team1>
+<Team2>2</Team2>
+</ShotsOnGoal>
+<ShotsOffGoal>
+<Team1>1</Team1>
+<Team2>5</Team2>
+</ShotsOffGoal>
+<FreeKicks>
+<Team1>9</Team1>
+<Team2>6</Team2>
+</FreeKicks>
+<CornerKicks>
+<Team1>8</Team1>
+<Team2>6</Team2>
+</CornerKicks>
+<Offsides>
+<Team1>2</Team1>
+<Team2>1</Team2>
+</Offsides>
+<ThrowIns>
+<Team1>24</Team1>
+<Team2>14</Team2>
+</ThrowIns>
+<GoalkeeperSaves>
+<Team1>2</Team1>
+<Team2>5</Team2>
+</GoalkeeperSaves>
+<GoalKicks>
+<Team1>8</Team1>
+<Team2>2</Team2>
+</GoalKicks>
+<Fouls>
+<Team1>4</Team1>
+<Team2>8</Team2>
+</Fouls>
+</Statistics>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

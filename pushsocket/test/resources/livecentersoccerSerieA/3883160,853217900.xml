@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData generatedAt="2016-02-29T17:19:09 CET" generatedFor="1841" type="full">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325647" Id="8736342">
+<MatchDate>2016-02-29T23:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5425" UniqueTeamId="3208">
+<Color hStripes="-1" main="16777215" number="13158" sleeve="13158" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="0" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Velez Sarsfield</Name>
+<Name language="en">Velez Sarsfield</Name>
+</Team1>
+<Team2 BetradarTeamId="5429" UniqueTeamId="3205">
+<Color hStripes="-1" main="16777215" number="51" sleeve="51" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="13209" number="16777215" sleeve="51" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Gimnasia La Plata</Name>
+<Name language="en">Gimnasia y Esgrima</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="262437" name="Echenique, Fernando">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="45" name="Buenos Aires">
+<Name language="it">Buenos Aires</Name>
+<Name language="en">Buenos Aires</Name>
+</City>
+<Stadium id="1079" name="Estadio Jose Amalfitani">
+<Name language="it">Jose Amalfitani</Name>
+<Name language="en">Jose Amalfitani</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10325649" Id="8736346">
+<MatchDate>2016-03-01T01:15:00 CET</MatchDate>
+<Team1 BetradarTeamId="5427" UniqueTeamId="3211">
+<Color hStripes="-1" main="16777215" number="0" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="16777215" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">River Plate</Name>
+<Name language="en">River Plate</Name>
+</Team1>
+<Team2 BetradarTeamId="5570" UniqueTeamId="3209">
+<Color hStripes="-1" main="13369344" number="16777215" sleeve="13369344" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16737843" number="16777215" sleeve="16737843" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Independiente</Name>
+<Name language="en">CA Independiente</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="110759" name="Pitana, Nestor Fabian">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="45" name="Buenos Aires">
+<Name language="it">Buenos Aires</Name>
+<Name language="en">Buenos Aires</Name>
+</City>
+<Stadium id="1009" name="Estadio Monumental Antonio Vespucio Liberti">
+<Name language="it">Estadio Monumental Antonio Vespucio Liberti</Name>
+<Name language="en">Estadio Monumental Antonio Vespucio Liberti</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10325653" Id="8736354">
+<MatchDate>2016-03-01T01:15:00 CET</MatchDate>
+<Team1 BetradarTeamId="7268766" UniqueTeamId="112499">
+<Color hStripes="-1" main="39423" number="16777215" sleeve="39423" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6736896" number="0" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">CA Temperley</Name>
+<Name language="en">CA Temperley</Name>
+</Team1>
+<Team2 BetradarTeamId="1048782" UniqueTeamId="7628">
+<Color hStripes="-1" main="153" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="10066329" number="16777215" sleeve="10066329" split="-1" squares="-1" vStripes="0"/>
+<Name language="it">Tigre</Name>
+<Name language="en">CA Tigre</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="813014" name="Espinoza, Fernando">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="7834" name="Turdera">
+<Name language="it">Turdera</Name>
+<Name language="en">Turdera</Name>
+</City>
+<Stadium id="12728" name="Estadio Alfredo Beranger">
+<Name language="it">Estadio Alfredo Beranger</Name>
+<Name language="en">Estadio Alfredo Beranger</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="78">
+<Name language="it">Bulgaria</Name>
+<Name language="en">Bulgaria</Name>
+<Tournament BetradarTournamentId="232" UniqueTournamentId="247">
+<Name language="it">A PFG</Name>
+<Name language="en">A PFG</Name>
+<Match BetradarMatchId="10275161" Id="7652126">
+<MatchDate>2016-03-01T17:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5767835" UniqueTeamId="43840">
+<Color hStripes="-1" main="3368448" number="16777215" sleeve="3368448" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Ludogorets Razgrad</Name>
+<Name language="en">Ludogorets Razgrad</Name>
+</Team1>
+<Team2 BetradarTeamId="78758" UniqueTeamId="3272">
+<Color hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="0"/>
+<GoalkeeperColor hStripes="-1" main="16724736" number="16777215" sleeve="16724736" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lokomotiv Plovdiv</Name>
+<Name language="en">Lokomotiv Plovdiv</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="33" name="Bulgaria">
+<Name language="it">Bulgaria</Name>
+<Name language="en">Bulgaria</Name>
+</Country>
+<City id="2028" name="Razgrad">
+<Name language="it">Razgrad</Name>
+<Name language="en">Razgrad</Name>
+</City>
+<Stadium id="3136" name="Ludogorets Arena">
+<Name language="it">Ludogorets Arena</Name>
+<Name language="en">Ludogorets Arena</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="8">
+<Name language="it">Danimarca</Name>
+<Name language="en">Denmark</Name>
+<Tournament BetradarTournamentId="12" UniqueTournamentId="39">
+<Name language="it">Superligaen</Name>
+<Name language="en">Superligaen</Name>
+<Match BetradarMatchId="10198018" Id="7494866">
+<MatchDate>2016-02-29T19:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="4725" UniqueTeamId="1289">
+<Color hStripes="-1" main="0" number="16711680" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Midtjylland</Name>
+<Name language="en">FC Midtjylland</Name>
+</Team1>
+<Team2 BetradarTeamId="5235" UniqueTeamId="1290">
+<Color hStripes="-1" main="16777215" number="16711680" sleeve="16777215" split="-1" squares="-1" vStripes="16711680"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="3355647" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Aalborg</Name>
+<Name language="en">Aalborg BK</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="70285" name="Kristofferssen, Mads Kristoffer">
+<Country id="58" name="Denmark">
+<Name language="it">Danimarca</Name>
+<Name language="en">Denmark</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="58" name="Denmark">
+<Name language="it">Danimarca</Name>
+<Name language="en">Denmark</Name>
+</Country>
+<City id="484" name="Herning">
+<Name language="it">Herning</Name>
+<Name language="en">Herning</Name>
+</City>
+<Stadium id="1041" name="MCH Arena">
+<Name language="it">MCH Arena</Name>
+<Name language="en">MCH Arena</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="1">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+<Tournament BetradarTournamentId="2" UniqueTournamentId="18">
+<Name language="it">Championship</Name>
+<Name language="en">Championship</Name>
+<Match BetradarMatchId="10270293" Id="7466556">
+<MatchDate>2016-02-29T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="96589" UniqueTeamId="30">
+<Color hStripes="-1" main="3355647" number="16777215" sleeve="3355647" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="13369344" number="16777215" sleeve="13369344" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Brighton &amp; Hove Albion</Name>
+<Name language="en">Brighton &amp; Hove Albion FC</Name>
+</Team1>
+<Team2 BetradarTeamId="341832" UniqueTeamId="34">
+<Color hStripes="-1" main="16777215" number="13311" sleeve="13311" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16750848" number="16777215" sleeve="16750848" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Leeds United</Name>
+<Name language="en">Leeds United</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="84326" name="Bankes, Peter">
+<Country id="240" name="England">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="240" name="England">
+<Name language="it">Inghilterra</Name>
+<Name language="en">England</Name>
+</Country>
+<City id="1393" name="Falmer">
+<Name language="it">Falmer</Name>
+<Name language="en">Falmer</Name>
+</City>
+<Stadium id="2443" name="American Express Community Stadium">
+<Name language="it">American Express Community Stadium</Name>
+<Name language="en">American Express Community Stadium</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="7">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+<Tournament BetradarTournamentId="19" UniqueTournamentId="182">
+<Name language="it">Ligue 2</Name>
+<Name language="en">Ligue 2</Name>
+<Match BetradarMatchId="10262086" Id="7474714">
+<MatchDate>2016-02-29T20:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="1275127" UniqueTeamId="1648">
+<Color hStripes="-1" main="13369344" number="16776960" sleeve="13369344" split="-1" squares="-1" vStripes="16776960"/>
+<GoalkeeperColor hStripes="-1" main="3355647" number="16777215" sleeve="3355647" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lens</Name>
+<Name language="en">RC Lens</Name>
+</Team1>
+<Team2 BetradarTeamId="5432498" UniqueTeamId="21800">
+<Color hStripes="16777215" main="16751103" number="204" sleeve="16751103" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3342489" number="16777215" sleeve="3342489" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Evian TG FC</Name>
+<Name language="en">Evian TG FC</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="101894" name="Perreau Niel, Alexandre">
+<Country id="73" name="France">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="73" name="France">
+<Name language="it">Francia</Name>
+<Name language="en">France</Name>
+</Country>
+<City id="249" name="Lens">
+<Name language="it">Lens</Name>
+<Name language="en">Lens</Name>
+</City>
+<Stadium id="835" name="Stade Felix Bollaert-Detelis">
+<Name language="it">Stade Bollaert-Delelis</Name>
+<Name language="en">Stade Bollaert-Delelis</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="67">
+<Name language="it">Grecia</Name>
+<Name language="en">Greece</Name>
+<Tournament BetradarTournamentId="127" UniqueTournamentId="185">
+<Name language="it">Super League</Name>
+<Name language="en">Super League</Name>
+<Match BetradarMatchId="10265404" Id="8560038">
+<MatchDate>2016-02-29T18:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="558050" UniqueTeamId="5062">
+<Color hStripes="-1" main="102" number="16777215" sleeve="102" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="204" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Atromitos Atene</Name>
+<Name language="en">Atromitos Athens</Name>
+</Team1>
+<Team2 BetradarTeamId="6432121" UniqueTeamId="81751">
+<Color hStripes="-1" main="3342591" number="16777215" sleeve="3342591" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3381555" number="204" sleeve="3381555" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Iraklis</Name>
+<Name language="en">Iraklis 1908</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="89001" name="Mantalos, Stavros">
+<Country id="83" name="Greece">
+<Name language="it">Grecia</Name>
+<Name language="en">Greece</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="83" name="Greece">
+<Name language="it">Grecia</Name>
+<Name language="en">Greece</Name>
+</Country>
+<City id="715" name="Peristeri">
+<Name language="it">Peristeri</Name>
+<Name language="en">Peristeri</Name>
+</City>
+<Stadium id="1298" name="Peristeri Stadium">
+<Name language="it">Peristeri Stadium</Name>
+<Name language="en">Peristeri Stadium</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="393">
+<Name language="it">Clubs Internazionali</Name>
+<Name language="en">International Clubs</Name>
+<Tournament BetradarTournamentId="5693" UniqueTournamentId="463">
+<Name language="it">AFC Champions League, Gruppo B</Name>
+<Name language="en">AFC Champions League, Group B</Name>
+<Match BetradarMatchId="10432276" Id="8889524">
+<MatchDate>2016-03-01T14:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="1210065" UniqueTeamId="23481">
+<Color hStripes="-1" main="16777215" number="13408512" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Bunyodkor</Name>
+<Name language="en">FC Bunyodkor</Name>
+</Team1>
+<Team2 BetradarTeamId="710868" UniqueTeamId="23400">
+<Color hStripes="-1" main="16776960" number="153" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Al-Nasr</Name>
+<Name language="en">Al Nasr Riyadh</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="229" name="Uzbekistan">
+<Name language="it">Uzbekistan</Name>
+<Name language="en">Uzbekistan</Name>
+</Country>
+<City id="733" name="Tashkent">
+<Name language="it">Tashkent</Name>
+<Name language="en">Tashkent</Name>
+</City>
+<Stadium id="11511" name="Bunyodkor Stadium">
+<Name language="it">Bunyodkor Stadium</Name>
+<Name language="en">Bunyodkor Stadium</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10409096" Id="8623404">
+<MatchDate>2016-03-01T16:15:00 CET</MatchDate>
+<Team1 BetradarTeamId="5313434" UniqueTeamId="39328">
+<Name language="it">Zobahan</Name>
+<Name language="en">Zobahan</Name>
+</Team1>
+<Team2 BetradarTeamId="6003453" UniqueTeamId="44441">
+<Color hStripes="-1" main="13369395" number="10066329" sleeve="13369395" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="13421823" number="0" sleeve="13421823" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lekhwiya</Name>
+<Name language="en">Lekhwiya SC</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="101" name="Iran, Islamic Republic of">
+<Name language="it">Iran</Name>
+<Name language="en">Iran</Name>
+</Country>
+<City id="3426" name="Isfahan">
+<Name language="it">Isfahan</Name>
+<Name language="en">Isfahan</Name>
+</City>
+<Stadium id="8409" name="Foolad Shahr Stadium">
+<Name language="it">Foolad Shahr Stadium</Name>
+<Name language="en">Foolad Shahr Stadium</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+<Tournament BetradarTournamentId="5696" UniqueTournamentId="463">
+<Name language="it">AFC Champions League, Gruppo E</Name>
+<Name language="en">AFC Champions League, Group E</Name>
+<Match BetradarMatchId="10432260" Id="8889500">
+<MatchDate>2016-03-01T11:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="6070689" UniqueTeamId="3147">
+<Color hStripes="-1" main="13260" number="16777215" sleeve="13260" split="-1" squares="-1" vStripes="16711680"/>
+<GoalkeeperColor hStripes="-1" main="0" number="6750207" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Tokyo</Name>
+<Name language="en">FC Tokyo</Name>
+</Team1>
+<Team2 BetradarTeamId="1223973" UniqueTeamId="33119">
+<Name language="it">Binh Duong</Name>
+<Name language="en">B. Binh Duong</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="107" name="Japan">
+<Name language="it">Giappone</Name>
+<Name language="en">Japan</Name>
+</Country>
+<City id="435" name="Tokyo">
+<Name language="it">Tokyo</Name>
+<Name language="en">Tokyo</Name>
+</City>
+<Stadium id="5010" name="Tokyo Stadium">
+<Name language="it">Tokyo Stadium</Name>
+<Name language="en">Tokyo Stadium</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10271264" Id="8623458">
+<MatchDate>2016-03-01T13:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="6507188" UniqueTeamId="34693">
+<Color hStripes="-1" main="3355647" number="16777215" sleeve="3355647" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="10066329" number="16777215" sleeve="10066329" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Jiangsu Guoxin-Sainty FC</Name>
+<Name language="en">Jiangsu Guoxin-Sainty FC</Name>
+</Team1>
+<Team2 BetradarTeamId="415557" UniqueTeamId="6908">
+<Color hStripes="-1" main="6750054" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6737100" number="16777215" sleeve="6737100" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Jeonbuk Hyundai Motors</Name>
+<Name language="en">Jeonbuk Hyundai</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="44" name="China">
+<Name language="it">Cina</Name>
+<Name language="en">China</Name>
+</Country>
+<City id="1293" name="Nanjing">
+<Name language="it">Nanchino</Name>
+<Name language="en">Nanjing</Name>
+</City>
+<Stadium id="4182" name="Nanjing Olympic Sports Center">
+<Name language="it">Nanjing Olympic Sports Center</Name>
+<Name language="en">Nanjing Olympic Sports Center</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+<Tournament BetradarTournamentId="5697" UniqueTournamentId="463">
+<Name language="it">AFC Champions League, Gruppo F</Name>
+<Name language="en">AFC Champions League, Group F</Name>
+<Match BetradarMatchId="10271265" Id="8623482">
+<MatchDate>2016-03-01T06:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="1474318" UniqueTeamId="7646">
+<Color hStripes="-1" main="16711680" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="0"/>
+<GoalkeeperColor hStripes="-1" main="26367" number="0" sleeve="26367" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Seul</Name>
+<Name language="en">FC Seoul</Name>
+</Team1>
+<Team2 BetradarTeamId="5329980" UniqueTeamId="3135">
+<Color hStripes="-1" main="10027263" number="16777215" sleeve="51" split="-1" squares="-1" vStripes="51"/>
+<GoalkeeperColor hStripes="-1" main="6736896" number="16777215" sleeve="6736896" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Sanfrecce Hiroshima</Name>
+<Name language="en">Sanfrecce Hiroshima</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="113" name="Korea, Republic of">
+<Name language="it">Corea del Sud</Name>
+<Name language="en">South Korea</Name>
+</Country>
+<City id="724" name="Seoul">
+<Name language="it">Seul</Name>
+<Name language="en">Seoul</Name>
+</City>
+<Stadium id="1328" name="Seoul World Cup Stadium">
+<Name language="it">World Cup Stadium</Name>
+<Name language="en">World Cup Stadium</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10432241" Id="8889488">
+<MatchDate>2016-03-01T08:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="595658" UniqueTeamId="3371">
+<Color hStripes="-1" main="16737792" number="3342591" sleeve="16737792" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16777011" number="0" sleeve="16777011" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Shandong Luneng</Name>
+<Name language="en">Shandong Luneng Taishan FC</Name>
+</Team1>
+<Team2 BetradarTeamId="1474336" UniqueTeamId="34218">
+<Name language="it">Buriram United FC</Name>
+<Name language="en">Buriram United FC</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Venue>
+<Country id="44" name="China">
+<Name language="it">Cina</Name>
+<Name language="en">China</Name>
+</Country>
+<City id="9194" name="Jinan">
+<Name language="it">Jinan</Name>
+<Name language="en">Jinan</Name>
+</City>
+<Stadium id="15814" name="Jinan Olympic Sports Center">
+<Name language="it">Jinan Olympic Sports Center</Name>
+<Name language="en">Jinan Olympic Sports Center</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="31">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+<Tournament BetradarTournamentId="33" UniqueTournamentId="23">
+<Name language="it">Serie A</Name>
+<Name language="en">Serie A</Name>
+<Match BetradarMatchId="10270221" Id="7689174">
+<MatchDate>2016-02-29T19:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="9267" UniqueTeamId="2699">
+<Color hStripes="-1" main="52479" number="16777215" sleeve="52479" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="39168" number="0" sleeve="39168" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Lazio</Name>
+<Name language="en">Lazio Roma</Name>
+</Team1>
+<Team2 BetradarTeamId="6641634" UniqueTeamId="2793">
+<Color hStripes="-1" main="26112" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="0"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="26112" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Sassuolo</Name>
+<Name language="en">US Sassuolo</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="52290" name="Damato, Antonio">
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="281" name="Rome">
+<Name language="it">Roma</Name>
+<Name language="en">Rome</Name>
+</City>
+<Stadium id="870" name="Stadio Olimpico">
+<Name language="it">Olimpico</Name>
+<Name language="en">Stadio Olimpico</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10270306" Id="7689166">
+<MatchDate>2016-02-29T21:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="9247" UniqueTeamId="2693">
+<Color hStripes="-1" main="6697932" number="16777215" sleeve="6697932" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6736896" number="16777215" sleeve="6736896" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Fiorentina</Name>
+<Name language="en">AC Fiorentina</Name>
+</Team1>
+<Team2 BetradarTeamId="9244" UniqueTeamId="2714">
+<Color hStripes="-1" main="39423" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16777215" number="3355596" sleeve="3368652" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Napoli</Name>
+<Name language="en">SSC Napoli</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="52321" name="Tagliavento, Paolo">
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="56" name="Florence">
+<Name language="it">Firenze</Name>
+<Name language="en">Florence</Name>
+</City>
+<Stadium id="587" name="Stadio Artemio Franchi">
+<Name language="it">Artemio Franchi</Name>
+<Name language="en">Stadio Artemio Franchi</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+<Tournament BetradarTournamentId="34" UniqueTournamentId="53">
+<Name language="it">Serie B</Name>
+<Name language="en">Serie B</Name>
+<Match BetradarMatchId="10271944" Id="7989336">
+<MatchDate>2016-02-29T20:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="6315" UniqueTeamId="2719">
+<Color hStripes="-1" main="10027008" number="16777215" sleeve="0" split="0" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Cagliari</Name>
+<Name language="en">Cagliari Calcio</Name>
+</Team1>
+<Team2 BetradarTeamId="5521669" UniqueTeamId="2767">
+<Color hStripes="-1" main="26316" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="6750003" number="16777215" sleeve="6750003" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Novara</Name>
+<Name language="en">Novara Calcio</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="175871" name="Ghersini, Davide">
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="105" name="Italy">
+<Name language="it">Italia</Name>
+<Name language="en">Italy</Name>
+</Country>
+<City id="193" name="Cagliari">
+<Name language="it">Cagliari</Name>
+<Name language="en">Cagliari</Name>
+</City>
+<Stadium id="752" name="Sant'Elia">
+<Name language="it">Sant'Elia</Name>
+<Name language="en">Sant'Elia</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="44">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+<Tournament BetradarTournamentId="52" UniqueTournamentId="238">
+<Name language="it">Primeira Liga</Name>
+<Name language="en">Primeira Liga</Name>
+<Match BetradarMatchId="10267932" Id="7558410">
+<MatchDate>2016-02-29T20:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="5639" UniqueTeamId="3006">
+<Color hStripes="-1" main="13369344" number="16777215" sleeve="13369344" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Benfica</Name>
+<Name language="en">Benfica Lisbon</Name>
+</Team1>
+<Team2 BetradarTeamId="7349884" UniqueTeamId="3028">
+<Color hStripes="-1" main="16776960" number="204" sleeve="16776960" split="-1" squares="-1" vStripes="204"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">CF Uniao Madeira</Name>
+<Name language="en">CF Uniao Madeira</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="69838" name="Cunha Machado, Cosme">
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+<City id="319" name="Lisbon">
+<Name language="it">Lisbona</Name>
+<Name language="en">Lisbon</Name>
+</City>
+<Stadium id="902" name="Estadio da Luz">
+<Name language="it">Estadio da Luz</Name>
+<Name language="en">Estadio da Luz</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10267935" Id="7558416">
+<MatchDate>2016-02-29T21:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5651" UniqueTeamId="3009">
+<Color hStripes="-1" main="16777215" number="0" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16711680" number="16777215" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vitoria Guimaraes</Name>
+<Name language="en">Vitoria Guimaraes</Name>
+</Team1>
+<Team2 BetradarTeamId="6326" UniqueTeamId="3001">
+<Color hStripes="16777215" main="39270" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16737792" number="16777215" sleeve="16737792" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Sporting CP</Name>
+<Name language="en">Sporting CP</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="136650" name="Lopes Martins, Tiago Bruno">
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+<City id="571" name="Guimaraes">
+<Name language="it">Guimaraes</Name>
+<Name language="en">Guimaraes</Name>
+</City>
+<Stadium id="1137" name="Estadio Dom Afonso Henriques">
+<Name language="it">Dom Afonso Henriques</Name>
+<Name language="en">Dom Afonso Henriques</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="77">
+<Name language="it">Romania</Name>
+<Name language="en">Romania</Name>
+<Tournament BetradarTournamentId="219" UniqueTournamentId="152">
+<Name language="it">Liga I</Name>
+<Name language="en">Liga I</Name>
+<Match BetradarMatchId="10368247" Id="7509168">
+<MatchDate>2016-02-29T19:30:00 CET</MatchDate>
+<Team1 BetradarTeamId="6232800" UniqueTeamId="37426">
+<Color hStripes="-1" main="16777215" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="3394560" number="16777215" sleeve="3394560" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">FC Viitorul Constanta</Name>
+<Name language="en">FC Viitorul Constanta</Name>
+</Team1>
+<Team2 BetradarTeamId="563746" UniqueTeamId="5336">
+<Color hStripes="-1" main="16777215" number="3368601" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">CS Pandurii Targu Jiu</Name>
+<Name language="en">CS Pandurii Targu Jiu</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="92309" name="Cojocaru, Adrian Viorel">
+<Country id="176" name="Romania">
+<Name language="it">Romania</Name>
+<Name language="en">Romania</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="176" name="Romania">
+<Name language="it">Romania</Name>
+<Name language="en">Romania</Name>
+</Country>
+<City id="345" name="Constanta">
+<Name language="it">Constanta</Name>
+<Name language="en">Constanta</Name>
+</City>
+<Stadium id="16396" name="Complex Sportiv Academia Gheorghe Hagi">
+<Name language="it">Complex Sportiv Academia Gheorghe Hagi</Name>
+<Name language="en">Complex Sportiv Academia Gheorghe Hagi</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="23">
+<Name language="it">Slovacchia</Name>
+<Name language="en">Slovakia</Name>
+<Tournament BetradarTournamentId="92" UniqueTournamentId="211">
+<Name language="it">Superliga</Name>
+<Name language="en">Superliga</Name>
+<Match BetradarMatchId="10286098" Id="7620488">
+<MatchDate>2016-03-01T16:55:00 CET</MatchDate>
+<Team1 BetradarTeamId="35341" UniqueTeamId="2402">
+<Color hStripes="-1" main="16777011" number="3381504" sleeve="16777011" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="16711833" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Zilina</Name>
+<Name language="en">MSK Zilina</Name>
+</Team1>
+<Team2 BetradarTeamId="35343" UniqueTeamId="2398">
+<Color hStripes="-1" main="16777215" number="16711680" sleeve="16711680" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Trencin</Name>
+<Name language="en">AS Trencin</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="75262" name="Kruzliak, Ivan">
+<Country id="193" name="Slovakia">
+<Name language="it">Slovacchia</Name>
+<Name language="en">Slovakia</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="193" name="Slovakia">
+<Name language="it">Slovacchia</Name>
+<Name language="en">Slovakia</Name>
+</Country>
+<City id="614" name="Zilina">
+<Name language="it">Zilina</Name>
+<Name language="en">Zilina</Name>
+</City>
+<Stadium id="1191" name="Stadion Pod Dubnom">
+<Name language="it">Stadion Pod Dubnom</Name>
+<Name language="en">Stadion Pod Dubnom</Name>
+</Stadium>
+</Venue>
+</Match>
+<Match BetradarMatchId="10286095" Id="7620482">
+<MatchDate>2016-03-01T17:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5184467" UniqueTeamId="36333">
+<Color hStripes="-1" main="16711731" number="16777215" sleeve="16711731" split="-1" squares="-1" vStripes="3342540"/>
+<GoalkeeperColor hStripes="-1" main="26112" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Senica</Name>
+<Name language="en">FK Senica</Name>
+</Team1>
+<Team2 BetradarTeamId="945048" UniqueTeamId="7084">
+<Color hStripes="-1" main="16724736" number="16777215" sleeve="16777215" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="16751103" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vion Zlate</Name>
+<Name language="en">FC Vion Zlate Moravce</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="85149" name="Jezik, Martin">
+<Country id="193" name="Slovakia">
+<Name language="it">Slovacchia</Name>
+<Name language="en">Slovakia</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="193" name="Slovakia">
+<Name language="it">Slovacchia</Name>
+<Name language="en">Slovakia</Name>
+</Country>
+<City id="664" name="Senica">
+<Name language="it">Senica</Name>
+<Name language="en">Senica</Name>
+</City>
+<Stadium id="1235" name="Stadion FK Senica">
+<Name language="it">Stadion FK Senica</Name>
+<Name language="en">Stadion FK Senica</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+<Category BetradarCategoryId="46">
+<Name language="it">Turchia</Name>
+<Name language="en">Turkey</Name>
+<Tournament BetradarTournamentId="62" UniqueTournamentId="52">
+<Name language="it">Super Lig</Name>
+<Name language="en">Super Lig</Name>
+<Match BetradarMatchId="10268081" Id="7588622">
+<MatchDate>2016-02-29T19:00:00 CET</MatchDate>
+<Team1 BetradarTeamId="5930" UniqueTeamId="3052">
+<Color hStripes="-1" main="102" number="16777215" sleeve="102" split="-1" squares="-1" vStripes="16776960"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="16777215" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Fenerbahce</Name>
+<Name language="en">Fenerbahce</Name>
+</Team1>
+<Team2 BetradarTeamId="7569" UniqueTeamId="3050">
+<Color hStripes="-1" main="16777215" number="0" sleeve="0" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="26112" number="16777215" sleeve="26112" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Besiktas</Name>
+<Name language="en">Besiktas JK</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="52444" name="Cakir, Cuneyt">
+<Country id="218" name="Turkey">
+<Name language="it">Turchia</Name>
+<Name language="en">Turkey</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="218" name="Turkey">
+<Name language="it">Turchia</Name>
+<Name language="en">Turkey</Name>
+</Country>
+<City id="326" name="Istanbul">
+<Name language="it">Istanbul</Name>
+<Name language="en">Istanbul</Name>
+</City>
+<Stadium id="911" name="Sükrü Saracoglu">
+<Name language="it">Sükrü Saracoglu</Name>
+<Name language="en">Sükrü Saracoglu</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

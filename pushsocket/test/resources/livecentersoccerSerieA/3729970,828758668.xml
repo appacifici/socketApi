@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="998385" generatedAt="2016-02-27T22:45:59 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="48">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+<Tournament BetradarTournamentId="68" UniqueTournamentId="155">
+<Name language="it">Primera Division</Name>
+<Name language="en">Primera Division, Torneo Inicial</Name>
+<Match BetradarMatchId="10325641" Id="8736330">
+<MatchDate>2016-02-27T23:15:00 CET</MatchDate>
+<Team1 BetradarTeamId="7310669" UniqueTeamId="36839" formation="4-4-2">
+<Color hStripes="-1" main="16776960" number="3381504" sleeve="3381504" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="0" number="16777215" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Defensa Y Justicia</Name>
+<Name language="en">Defensa y Justicia</Name>
+</Team1>
+<Team2 BetradarTeamId="7599823" UniqueTeamId="36836" formation="4-2-3-1">
+<Color hStripes="-1" main="16776960" number="0" sleeve="16776960" split="-1" squares="-1" vStripes="26112"/>
+<GoalkeeperColor hStripes="-1" main="16777215" number="0" sleeve="26163" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Aldosivi</Name>
+<Name language="en">CA Aldosivi</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="52519" name="Lunati, Pablo">
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="10" name="Argentina">
+<Name language="it">Argentina</Name>
+<Name language="en">Argentina</Name>
+</Country>
+<City id="7395" name="Gobernador Julio A. Costa">
+<Name language="it">Gobernador Julio A. Costa</Name>
+<Name language="en">Gobernador Julio A. Costa</Name>
+</City>
+<Stadium id="12025" name="Estadio Norberto Tomaghello">
+<Name language="it">Estadio Norberto Tomaghello</Name>
+<Name language="en">Estadio Norberto Tomaghello</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>

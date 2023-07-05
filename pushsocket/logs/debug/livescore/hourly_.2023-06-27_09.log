@@ -1,0 +1,67 @@
+[2023-06-27T09:28:13.259] [INFO] debug-logger - Server listening on undefined:undefined
+[2023-06-27T09:28:25.102] [INFO] debug-logger - Server listening on undefined:undefined
+[2023-06-27T09:28:58.301] [INFO] debug-logger - Server listening on undefined:undefined
+[2023-06-27T09:31:29.462] [INFO] debug-logger - Server listening on undefined:undefined
+[2023-06-27T09:33:18.153] [INFO] debug-logger - Server listening on undefined:undefined
+[2023-06-27T09:36:04.992] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:41:00.410] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:43:03.496] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:43:19.629] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:44:48.373] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:44:48.376] [INFO] debug-logger - Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Object.<anonymous> (/home/node/app/liveScoreSocket.js:111:4)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+[2023-06-27T09:45:34.180] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:45:34.182] [INFO] debug-logger - Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Object.<anonymous> (/home/node/app/liveScoreSocket.js:98:4)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+[2023-06-27T09:49:33.363] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:49:33.366] [INFO] debug-logger - Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1829:16)
+    at listenInCluster (node:net:1877:12)
+    at Server.listen (node:net:1965:7)
+    at Object.<anonymous> (/home/node/app/liveScoreSocket.js:98:4)
+    at Module._compile (node:internal/modules/cjs/loader:1257:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1311:10)
+    at Module.load (node:internal/modules/cjs/loader:1115:32)
+    at Module._load (node:internal/modules/cjs/loader:962:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47 {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3000
+}
+[2023-06-27T09:50:26.655] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:54:57.019] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:58:48.627] [INFO] debug-logger - Server listening on 127.0.0.1:3000
+[2023-06-27T09:59:58.494] [INFO] debug-logger - Server listening on 127.0.0.1:3000

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BetradarLivescoreData counter="996650" generatedAt="2016-02-27T21:03:30 CET" generatedFor="1841" type="delta">
+<Sport BetradarSportId="1">
+<Name language="it">Calcio</Name>
+<Name language="en">Soccer</Name>
+<Category BetradarCategoryId="44">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+<Tournament BetradarTournamentId="52" UniqueTournamentId="238">
+<Name language="it">Primeira Liga</Name>
+<Name language="en">Primeira Liga</Name>
+<Match BetradarMatchId="10267934" Id="7558414">
+<MatchDate>2016-02-27T21:45:00 CET</MatchDate>
+<Team1 BetradarTeamId="377345" UniqueTeamId="4500">
+<Color hStripes="-1" main="16776960" number="255" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<GoalkeeperColor hStripes="-1" main="39168" number="16777215" sleeve="39168" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Estoril Praia</Name>
+<Name language="en">GD Estoril Praia</Name>
+</Team1>
+<Team2 BetradarTeamId="53202" UniqueTeamId="3008">
+<Color hStripes="-1" main="3381555" number="16777215" sleeve="3381555" split="-1" squares="-1" vStripes="16777215"/>
+<GoalkeeperColor hStripes="-1" main="16776960" number="16777215" sleeve="16776960" split="-1" squares="-1" vStripes="-1"/>
+<Name language="it">Vitoria Setubal</Name>
+<Name language="en">Vitoria Setubal</Name>
+</Team2>
+<Status Code="0">
+<Name language="it">Non iniziata</Name>
+<Name language="en">Not started</Name>
+</Status>
+<Winner>0</Winner>
+<Referee id="311620" name="Alves Moreira, Andre Manuel">
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+</Referee>
+<Venue>
+<Country id="172" name="Portugal">
+<Name language="it">Portogallo</Name>
+<Name language="en">Portugal</Name>
+</Country>
+<City id="3644" name="Cascais">
+<Name language="it">Cascais</Name>
+<Name language="en">Cascais</Name>
+</City>
+<Stadium id="5326" name="Estadio Antonio Coimbra da Mota">
+<Name language="it">Estadio Antonio Coimbra da Mota</Name>
+<Name language="en">Estadio Antonio Coimbra da Mota</Name>
+</Stadium>
+</Venue>
+</Match>
+</Tournament>
+</Category>
+</Sport>
+</BetradarLivescoreData>
