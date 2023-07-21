@@ -7,15 +7,16 @@ var SocketClient = function( emitPush ) {
     this.connectAttempts    = 0;
     this.emitPush           = emitPush;  
     this.servers            = {
-        1:"ws://162.19.67.178:3000", 
-        2:"ws://51.255.48.184:3000"
+        1:"wss://162.19.67.178:3000", 
+        2:"wss://51.255.48.184:3000"
     };                
     
     this.options            = {
         autoConnect: false,
         reconnection: false,
         timeout: 1000,
-        transports: ["websocket", "polling"]
+        transports: ["websocket", "polling"],
+        rejectUnauthorized: false
     }
     this.connectToServerSocket(this.getNumberServer());                            
 }; 

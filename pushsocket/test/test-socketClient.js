@@ -9,8 +9,8 @@ var TestSocketClick    = function() {
     this.numClient          = 300; //numero massimo client da connettere per interval
     this.timeInterval       = 1; //in secondi
     this.i                  = 1;
-    this.host               = 'ws://localhost:3000';
-    //this.host               = 'ws://79.22.13.17:3000';
+    this.host               = 'wss://localhost:3000';
+    //this.host               = 'wss://82.53.148.163:3000';
     
     process.argv.forEach( function ( val, index, array ) {    
         var param = val.split( '=' );
@@ -74,7 +74,9 @@ TestSocketClick.prototype.connectClient = function( client ) {
         clearInterval( this.interval );        
     }    
         
-    var socket = require('socket.io-client')(this.host);
+    var socket = require('socket.io-client')(this.host,{
+        rejectUnauthorized: false
+    });
 
     
     socket.on('connect', function(){        
@@ -106,6 +108,10 @@ TestSocketClick.prototype.connectClient = function( client ) {
     });
 
     socket.on('error', function(data){
+        console.info(data);
+    });
+
+    socket.on("connect_error", (data) => {
         console.info(data);
     });
 };

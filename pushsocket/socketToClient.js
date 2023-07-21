@@ -1,4 +1,6 @@
 const { Console } = require('console');
+const fs = require('fs');
+const https = require('https');
 
 var SocketClient = function( port ) {
     var that            = this;
@@ -16,13 +18,23 @@ var SocketClient = function( port ) {
         database : 'pushme_db'
     });
 
+    const options = {
+        key  : fs.readFileSync("../crt/server.key"),
+        cert : fs.readFileSync("../crt/server.crt")
+    };
 
-    this.app            = require('http').createServer();
+    this.app            = https.createServer(options, (req, res) => {}).listen(port);
     this.io             = require('socket.io')(this.app);
     this.io.sockets.setMaxListeners(0);
     //this.io.set( 'transports', [ 'websocket', 'polling' ] );    
 
-    this.app.listen( port );
+    this.app.on('error', function (e) {
+        // Handle your error here
+        console.log(e);
+      });
+
+
+    //this.app.listen( port );
     this.isConnected = false;    
     
     setInterval(function() {
@@ -59,7 +71,7 @@ SocketClient.prototype.connectClientSocket = function( jsonData ) {
     var that    = this;
     this.socket = null;
     
-    this.io.on('connection', function(socket) {                    
+    this.io.on('connection', function(socket) {                      
         if( !that.authorizedReferer( socket ) ) {
             console.info('blocco socket'+socket.id);
             console.info('blocco socket'+socket.request.headers );
